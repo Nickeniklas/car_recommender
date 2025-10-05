@@ -1,5 +1,11 @@
 # Hybrid recommendation system
 
+A hybrid recommendation system for cars.
+
+Dataset: https://www.kaggle.com/datasets/chancev/carsforsale?resource=download
+
+## Exploratory Data Analysis (EDA)
+
 ## 3 step hybrid 
 Filter → content ranking → rating adjustment 
 
