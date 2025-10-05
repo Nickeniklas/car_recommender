@@ -4,16 +4,19 @@ A hybrid recommendation system for cars.
 
 Dataset: https://www.kaggle.com/datasets/chancev/carsforsale?resource=download
 
-## Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis (EDA) and Preprocessing of Data
+
+Python notebook file for EDA and preprocessing
 
 ## 3 step hybrid 
+
 Filter → content ranking → rating adjustment 
 
-### 1) Filter by Used / New
+### 1) Filter by Used / New, Dealer / Private
 
-Apply a strict filter on Used/New.
+Apply a strict filter on Used/New and Dealer/Private.
 
-### 2) Content-based scoring (rank the candidates)
+### 2) Content-based scoring 
 
 Numeric: Price, Mileage, Age = current_year − Year, MPG = (MinMPG+MaxMPG)/2.
 
@@ -25,23 +28,18 @@ Scale numeric features (StandardScaler or MinMax).
 
 **Similarity / ranking:** Use cosine similarity
 
-### 3) Combine with ratings (collaborative-style signal)
+### 3) Combine with ratings
 
 Build an item quality score.
 
-If you have counts: compute a Bayesian average to avoid small-sample bias:
-rating_score = (v/(v+m))*R + (m/(v+m))*C
-where v = #reviews, R = item avg rating, C = global avg rating, m = smoothing constant (e.g., 5–10).
+consumer rating
 
-If no counts, use raw ConsumerRating but add conservative smoothing.
+seller rating
 
-Normalize rating_score to [0,1].
+Normalize to [0,1].
 
 Combine scores.
 
 final_score = α * content_score + (1−α) * rating_score.
-
-Start with α ≈ 0.7 (favor content). Tune later.
-Output: final ranked list.
 
 ## Evaluation & tuning 
