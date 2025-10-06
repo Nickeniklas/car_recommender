@@ -2,7 +2,9 @@
 
 A hybrid recommendation system for cars.
 
-Dataset: https://www.kaggle.com/datasets/chancev/carsforsale?resource=download
+Car data (CarsForSale): https://www.kaggle.com/datasets/chancev/carsforsale?resource=download
+
+Car reviews data (Edmunds car review): https://www.kaggle.com/datasets/shreemunpranav/edmunds-car-review
 
 ## Exploratory Data Analysis (EDA) and Preprocessing of Data
 
@@ -10,7 +12,7 @@ Python notebook file for EDA and preprocessing
 
 ## 3 step hybrid 
 
-Filter → content ranking → rating adjustment 
+Filter → Content-Based → Collaborative 
 
 ### 1) Filter by Used / New, Dealer / Private
 
@@ -28,13 +30,9 @@ Scale numeric features (StandardScaler or MinMax).
 
 **Similarity / ranking:** Use cosine similarity
 
-### 3) Combine with ratings
+### 3) Combine with ratings (collaborative)
 
 Build an item quality score.
-
-consumer rating
-
-seller rating
 
 Normalize to [0,1].
 
