@@ -15,7 +15,7 @@ class ContentBasedRecommender:
         self.cars_data['Features'] = self.cars_data['Features'].fillna('')
         tfidf = TfidfVectorizer(stop_words='english')
         self.tfidf_matrix = tfidf.fit_transform(self.cars_data['Features'])
-        self.car_indices = pd.Series(self.cars_data.index, index=self.cars_data['Make Model']).drop_duplicates()
+        self.car_indices = pd.Series(self.cars_data.index, index=self.cars_data['Make Model Year']).drop_duplicates()
     
     def recommend(self, car, n=10):
         """ 
@@ -30,7 +30,7 @@ class ContentBasedRecommender:
         idx = value.iloc[0] if isinstance(value, pd.Series) else int(value) # single match and multiple matches handled
         sim_scores = cosine_similarity(self.tfidf_matrix[idx], self.tfidf_matrix).flatten()
         sim_indices = sim_scores.argsort()[-n-1:-1][::-1]
-        return self.cars_data['Make Model'].iloc[sim_indices].tolist()
+        return self.cars_data['Make Model Year'].iloc[sim_indices].tolist()
 
 class HybridRecommender:
     def __init__(self, cars_data_path, ratings_data_path):
@@ -84,8 +84,8 @@ class HybridRecommender:
             scores_series = scores_series.drop(index=rated_cars, errors='ignore')
             # top n_recs highest predicted scores
             top_car_ids = scores_series.nlargest(n_recs).index.tolist()
-            # map the car IDs back to car make model for collaborative recommendations
-            collaborative_recs = self.car_data[self.car_data['carID'].isin(top_car_ids)]['Make Model'].tolist()
+            # map the car IDs back to car make model year for collaborative recommendations
+            collaborative_recs = self.car_data[self.car_data['carID'].isin(top_car_ids)]['Make Model Year'].tolist()
 
         # combine content and collaborative recommendations
         combined_recs = collaborative_recs + content_recs
@@ -102,8 +102,8 @@ if __name__ == "__main__":
     #print("ratings data: \n", ratings_data)
 
     # test
-    car_make_model = 'jeep cherokee latitude'
-    userID = 98305
+    car_make_model = 'mercedes-benz amg c 43 2018'
+    userID = 13022
     test_to_run = 'hybrid' # change between: 'hybrid' and 'content'
 
     if test_to_run == 'content':
