@@ -51,55 +51,53 @@ class HybridRecommender:
         self.nmf_model = NMF(n_components=20, init='random', random_state=42, max_iter=500)
         self.nmf_model.fit(self.user_item_matrix)
     
-    def recommend(self, userID, car, n_recs=10):
-        """
-        Hybrid recommendation combining content-based and collaborative filtering.
+    def get_hybrid_scores(self, userID, car, alpha=0.5):
+        """Compute weighted hybrid scores combining collaborative and content-based results."""
+        # --- Collaborative predictions ---
+        if userID not in self.user_mapper:
+            return pd.Series()  # No data for this user
 
-        Parameters:
-            userID: ID of the user for collaborative filtering
-            car: car name (used for content-based recommendations)
-            n_recs: number of recommendations to return
+        user_idx = self.user_mapper[userID]
+        user_vector = self.user_item_matrix.iloc[user_idx].values.reshape(1, -1)
+        user_P = self.nmf_model.transform(user_vector)
+        item_Q = self.nmf_model.components_
+        predicted_scores = np.dot(user_P, item_Q).flatten()
+        cf_scores = pd.Series(predicted_scores, index=self.user_item_matrix.columns)
 
-        Returns:
-            List of recommended car titles
-        """
-        # content-based recommendations
-        content_recs = self.content_recommender.recommend(car, n_recs)
-        collaborative_recs = []
-        if userID in self.user_mapper:
-            # map userID to the row index in the user-item matrix
-            userIDx = self.user_mapper[userID]
-            # get the users ratings
-            user_vector = self.user_item_matrix.iloc[userIDx].values.reshape(1, -1)
-            # user vector latent space using trained NMF model
-            user_P = self.nmf_model.transform(user_vector)
-            # item latent feature matrix
-            item_Q = self.nmf_model.components_
-            # predicted scores for all items (dot product of user and item latent features)
-            predicted_scores = np.dot(user_P, item_Q).flatten()
-            # convert predicted scores to a pandas Series with car IDs as the index
-            scores_series = pd.Series(predicted_scores, index=self.user_item_matrix.columns)
+        # --- Normalize CF scores ---
+        cf_scores = (cf_scores - cf_scores.min()) / (cf_scores.max() - cf_scores.min())
 
-            # OPTIONAL: Adjust for global popularity (penalize over-recommended cars)
-            car_popularity = self.rating_data.groupby('carID')['Rating'].count()
-            popularity_norm = (car_popularity - car_popularity.mean()) / car_popularity.std()
-            # Subtract a fraction of the normalized popularity from predicted scores
-            # α (0.2 here) controls how much we downweight popular cars
-            scores_series = scores_series - 0.2 * popularity_norm.reindex(scores_series.index).fillna(0)
+        # --- Content-based similarity scores ---
+        if car not in self.content_recommender.car_indices:
+            cb_scores = pd.Series(0, index=cf_scores.index)
+        else:
+            car_idx = self.content_recommender.car_indices[car]
+            if isinstance(car_idx, pd.Series): car_idx = car_idx.iloc[0]
+            sim_scores = cosine_similarity(self.content_recommender.tfidf_matrix[car_idx], 
+                                        self.content_recommender.tfidf_matrix).flatten()
+            cb_scores = pd.Series(sim_scores, index=self.car_data.index)
+            cb_scores.index = self.car_data['carID']  # align by carID
+            cb_scores = cb_scores.reindex(cf_scores.index).fillna(0)
+            cb_scores = (cb_scores - cb_scores.min()) / (cb_scores.max() - cb_scores.min())
 
-            # remove items the user has already rated
-            rated_cars = self.rating_data[self.rating_data['userID'] == userID]['carID']
-            scores_series = scores_series.drop(index=rated_cars, errors='ignore')
-            # top n_recs highest predicted scores
-            top_car_ids = scores_series.nlargest(n_recs).index.tolist()
-            # map the car IDs back to car make model year for collaborative recommendations
-            collaborative_recs = self.car_data[self.car_data['carID'].isin(top_car_ids)]['Make Model Year'].tolist()
-
-        # combine content and collaborative recommendations
-        combined_recs = collaborative_recs + content_recs
-        unique_recs = list(dict.fromkeys(combined_recs).keys()) # remove duplicates while keeping order
-        return unique_recs[:n_recs]
+        # --- Combine ---
+        final_scores = alpha * cf_scores + (1 - alpha) * cb_scores
+        return final_scores
+    
         
+    def recommend(self, userID, car, n_recs=10, alpha=0.5):
+        """Return top hybrid recommendations for user and car."""
+        final_scores = self.get_hybrid_scores(userID, car, alpha)
+        if final_scores.empty:
+            return self.content_recommender.recommend(car, n_recs)
+
+        rated = self.rating_data[self.rating_data['userID'] == userID]['carID']
+        final_scores = final_scores.drop(index=rated, errors='ignore')
+
+        top_ids = final_scores.nlargest(n_recs).index.tolist()
+        hybrid_recs = self.car_data[self.car_data['carID'].isin(top_ids)]['Make Model Year'].tolist()
+        return hybrid_recs
+
 if __name__ == "__main__":
     # get datasets
     cars_data_path = "./data/df_cars_clean.csv"

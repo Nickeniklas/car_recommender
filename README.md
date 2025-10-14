@@ -22,23 +22,30 @@ The car ratings dataset is aligned with the main cars dataset by creating a comm
 Content-Based → Collaborative
 
 ### 1) Content-based recommendations 
-Features we extract for content based recommendations:
+
+Fits TF-IDF and cosine similarity properly.
+
+Handles missing values and duplicates.
+
+Can be reused independently.
+
+#### Features we extract for content based recommendations:
 
 **Year, Drivetrain, Fueltype, Transmission, ExteriorColor**
 
 **Similarity / ranking:** Cosine similarity
 
 ### 2) Collaborative-filtering (CF) 
-In this project, CF is implemented using Non-negative Matrix Factorization (NMF):
-1. We build a user–item matrix where rows are users, columns are cars, and values are ratings.
+CF is implemented using Non-negative Matrix Factorization (NMF):
+1. Build a user–item matrix where rows are users, columns are cars, and values are ratings.
 
 2. NMF decomposes this matrix into latent features representing user preferences and item characteristics.
 
-3. We predict ratings for unseen cars by combining user and item latent features.
+3. Predict ratings for unseen cars by combining user and item latent features.
 
 This allows the system to recommend cars a user is likely to like based on patterns from similar users.
 
-### Hybrid Recommendation
+### 3) Hybrid Recommendation
 The hybrid recommender combines:
 
 Content-based filtering (recommends similar cars based on features like make, model, drivetrain, and price)
@@ -47,6 +54,11 @@ Collaborative filtering (recommends cars based on user behavior)
 
 The final recommendation list merges content-based and CF recommendations while removing duplicates.
 
-This approach uses both car attributes and user preferences, making recommendations more accurate and personalized.
+#### Merge
+**score-based weighted hybrid**
+
+final_score=α×CF_score+(1−α)×CB_score
+
+where α (alpha) controls the balance between the two methods.
 
 ## Evaluation & tuning 
