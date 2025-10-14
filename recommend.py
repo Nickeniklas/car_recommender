@@ -79,6 +79,14 @@ class HybridRecommender:
             predicted_scores = np.dot(user_P, item_Q).flatten()
             # convert predicted scores to a pandas Series with car IDs as the index
             scores_series = pd.Series(predicted_scores, index=self.user_item_matrix.columns)
+
+            # OPTIONAL: Adjust for global popularity (penalize over-recommended cars)
+            car_popularity = self.rating_data.groupby('carID')['Rating'].count()
+            popularity_norm = (car_popularity - car_popularity.mean()) / car_popularity.std()
+            # Subtract a fraction of the normalized popularity from predicted scores
+            # α (0.2 here) controls how much we downweight popular cars
+            scores_series = scores_series - 0.2 * popularity_norm.reindex(scores_series.index).fillna(0)
+
             # remove items the user has already rated
             rated_cars = self.rating_data[self.rating_data['userID'] == userID]['carID']
             scores_series = scores_series.drop(index=rated_cars, errors='ignore')
@@ -103,7 +111,7 @@ if __name__ == "__main__":
 
     # test
     car_make_model = 'mercedes-benz amg c 43 2018'
-    userID = 13022
+    userID = 27583
     test_to_run = 'hybrid' # change between: 'hybrid' and 'content'
 
     if test_to_run == 'content':
