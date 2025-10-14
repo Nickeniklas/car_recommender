@@ -26,7 +26,6 @@ class ContentBasedRecommender:
             n = number of recommendations to return.
         """
         if car not in self.car_indices: return []
-        print("Content based recommends for", car)
         value = self.car_indices[car]
         idx = value.iloc[0] if isinstance(value, pd.Series) else int(value) # single match and multiple matches handled
         sim_scores = cosine_similarity(self.tfidf_matrix[idx], self.tfidf_matrix).flatten()
@@ -105,10 +104,18 @@ if __name__ == "__main__":
     # test
     car_make_model = 'jeep cherokee latitude'
     userID = 98305
+    test_to_run = 'hybrid' # change between: 'hybrid' and 'content'
 
-    hybridRecommender = HybridRecommender(cars_data_path, ratings_data_path)
-    hybridRecommender.fit()
-    recs = hybridRecommender.recommend(userID, car_make_model, 5)
+    if test_to_run == 'content':
+        contentBasedRecommender = ContentBasedRecommender(cars_data)
+        contentBasedRecommender.fit()
+        recs = contentBasedRecommender.recommend(car_make_model, 5)
+        print(f"Content based Recommendations for {car_make_model}:\n{recs}")
 
-    print(f"Hybrid Recommendations for user {userID} and car {car_make_model}:\n {recs}")
+    elif test_to_run == 'hybrid':
+        hybridRecommender = HybridRecommender(cars_data_path, ratings_data_path)
+        hybridRecommender.fit()
+        recs = hybridRecommender.recommend(userID, car_make_model, 5)
+
+        print(f"Hybrid Recommendations for user {userID} and car {car_make_model}:\n {recs}")
     
