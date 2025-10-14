@@ -1,0 +1,2470 @@
+carid,Make,Model,Year,Mileage,Price,ComfortRating,InteriorDesignRating,PerformanceRating,ExteriorStylingRating,ReliabilityRating,ExteriorColor
+1,toyota,sienna,2019,29403,39998.0,4.7,4.6,4.6,4.6,4.7,Red
+2,ford,f-150 lariat,2018,32929,49985.0,4.9,4.8,4.8,4.8,4.7,Shadow Black
+3,ram,1500 laramie,2017,23173,41860.0,4.8,4.7,4.8,4.8,4.7,Granite Crystal Clearcoat Metallic
+4,honda,accord,2021,10598,28500.0,4.9,5.0,4.9,5.0,5.0,Gray
+5,lexus,rx 350,2020,28137,49000.0,4.9,4.8,4.8,4.8,4.9,Eminent White Pearl
+6,toyota,4runner sr5,2012,105469,23541.0,4.7,4.6,4.4,4.9,4.9,Black
+7,honda,hr-v,2017,10458,20995.0,4.6,4.4,4.4,4.7,4.8,Modern Steel Metallic
+8,mercedes-benz,e-class e 350,2014,58157,18985.0,4.9,4.8,4.8,4.9,4.8,Lunar Blue Metallic
+9,honda,pilot touring 8-passenger,2021,14445,44299.0,4.9,4.7,4.8,4.7,4.8,Platinum White Pearl
+10,dodge,charger scat pack,2020,25642,46773.0,4.9,4.8,4.9,4.9,4.9,Triple Nickel Clearcoat
+11,lexus,rc 350,2017,10236,42734.0,4.6,4.9,4.7,5.0,4.9,Infrared
+12,lexus,gs 350,2013,48605,16990.0,4.8,4.8,4.7,4.7,4.9,Gray
+13,lexus,rx 350 rx 350,2017,47729,36450.0,4.8,4.7,4.6,4.7,4.8,Nightfall Mica
+14,ford,explorer xlt,2018,61294,32995.0,4.9,4.8,4.8,4.9,4.8,Red
+15,subaru,crosstrek premium,2021,11508,25500.0,4.9,4.8,4.8,4.8,4.8,Cool-Gray Khaki
+16,acura,rdx a-spec,2021,5188,37000.0,4.9,4.9,4.7,4.9,4.8,Majestic Black Pearl
+17,subaru,forester,2021,10859,29500.0,4.9,4.9,4.9,4.8,4.9,Ice Silver Metallic
+18,subaru,crosstrek 2.0i premium,2018,30849,31995.0,4.8,4.8,4.6,4.9,4.9,Venetian Red Pearl
+19,bmw,435 gran coupe i xdrive,2016,65219,30995.0,4.6,4.9,4.9,5.0,5.0,White
+20,honda,odyssey -l,2019,64571,38347.0,4.8,4.6,4.5,4.7,4.5,Modern Steel Metallic
+21,honda,odyssey -l,2016,56000,28999.0,4.8,4.6,4.7,4.7,4.8,Gray
+22,mercedes-benz,glc 300,2020,34768,43451.0,4.9,4.9,4.7,4.9,4.7,Black
+23,audi,q5 2.0t premium,2019,26012,37300.0,4.8,4.6,4.7,4.7,4.7,Florett Silver Metallic
+24,bmw,428 i,2014,48531,27741.0,4.7,4.7,4.9,4.9,4.7,Glacier Silver Metallic
+25,volvo,xc60 t5 momentum,2019,10969,40782.0,5.0,4.9,4.9,4.9,4.9,Denim Blue
+26,lincoln,mkz standard,2019,34686,30691.0,5.0,4.9,4.9,4.9,5.0,Magnetic Gray Metallic
+27,subaru,ascent touring 7-passenger,2020,47226,31754.0,4.8,4.8,4.8,4.9,4.8,Crystal White Pearl
+28,land,rover range rover evoque  premium,2017,39855,34555.0,4.4,4.6,4.2,4.7,4.0,Gray
+29,acura,mdx a-spec,2022,12531,58995.0,4.9,4.8,4.9,4.9,4.9,Performance Red Pearl
+30,honda,pilot -l,2022,15118,41535.0,5.0,5.0,5.0,5.0,5.0,Silver Metallic
+31,chevrolet,impala premier 2lz,2019,49372,26998.0,4.8,4.8,4.8,4.7,4.8,Black
+32,infiniti,g37 x,2013,66560,17300.0,4.6,4.5,4.8,4.7,4.8,Gray
+33,honda,civic,2017,35257,22004.0,4.7,4.7,4.8,4.8,4.8,Modern Steel Metallic
+34,tesla,model s 75,2017,84000,47000.0,4.7,4.4,4.9,4.7,4.5,Silver
+35,honda,pilot special edition,2021,10563,43296.0,4.9,4.7,4.8,4.7,4.8,Steel Sapphire Metallic
+36,jeep,grand cherokee srt,2015,49870,52884.0,4.9,4.8,4.8,4.9,4.7,Redline 2 Coat Pearl
+37,ford,explorer,2011,117401,12290.0,4.6,4.5,4.2,4.6,4.1,White
+38,bmw,m240 i,2017,60733,33900.0,4.5,4.4,4.9,4.8,4.8,Alpine White
+39,volvo,xc60 t5 inscription,2020,36577,41389.0,4.9,4.9,4.9,4.9,4.9,Onyx Black Metallic
+40,honda,civic,2018,32333,23739.0,4.7,4.7,4.8,4.9,4.8,Crystal Black Pearl
+41,bmw,x1 xdrive28i,2020,39879,32893.0,4.7,4.9,5.0,4.8,4.9,Alpine White
+42,acura,ilx premium & a-spec packages,2019,14940,23995.0,4.7,4.6,4.6,4.8,4.6,White
+43,chrysler,300 s,2021,19229,30000.0,5.0,5.0,5.0,5.0,5.0,Gloss Black
+44,land,rover range rover  3.0l supercharged hse dynamic,2017,55000,53000.0,4.9,4.8,4.9,4.9,4.7,White
+45,bmw,z4 sdrive30i,2019,23504,46500.0,5.0,5.0,5.0,5.0,5.0,Metallic
+46,honda,civic,2019,30509,,4.8,4.8,4.9,4.9,4.9,White Orchid Pearl
+47,land,rover range rover,2016,54449,51000.0,5.0,4.9,5.0,4.9,4.7,Santorini Black
+48,ford,f-150 lariat,2011,110111,18973.0,4.7,4.5,4.5,4.6,4.5,Red
+49,mazda,cx-5 grand touring,2018,66601,25549.0,4.8,4.8,4.7,4.8,4.8,Jet Black Mica
+50,kia,sportage,2018,79336,18500.0,4.9,4.9,4.8,4.9,4.9,Black Cherry
+51,volkswagen,tiguan,2017,87957,20000.0,4.8,4.7,4.8,4.7,4.8,Reflex Silver Metallic
+52,chrysler,300 s,2017,27054,33558.0,4.8,4.7,4.8,4.7,4.7,Granite Crystal Clearcoat Metallic
+53,tesla,model x performance,2020,29918,122222.0,4.2,4.0,4.8,4.2,4.4,White
+54,subaru,impreza 2.0i premium,2019,67792,4750.0,4.7,4.6,4.4,4.6,4.6,Ice Silver Metallic
+55,jeep,cherokee latitude,2019,21870,27500.0,4.8,4.7,4.5,4.7,4.6,Diamond Black
+56,bmw,320 i xdrive,2018,55001,25950.0,4.9,4.8,4.9,4.8,5.0,Black Sapphire
+57,porsche,cayenne,2016,37979,44998.0,4.9,4.8,4.9,4.9,4.9,Black
+58,nissan,rogue sv,2016,60122,19949.0,4.6,4.5,4.4,4.6,4.6,Pearl White
+59,mercedes-benz,e-class e 350 4matic,2014,92378,14500.0,4.9,4.8,4.8,4.9,4.8,Black
+60,bmw,x5 xdrive35i premium,2012,75012,12499.0,4.6,4.7,4.7,4.7,4.1,Black
+61,hyundai,santa fe sel 2.4,2020,42185,30187.0,4.9,4.8,4.7,4.9,4.9,Portofino Gray
+62,mercedes-benz,amg e 63 s 4matic,2019,15113,106999.0,5.0,5.0,5.0,5.0,5.0,Gray Metallic
+63,mercedes-benz,s-class s 560 4matic,2019,18022,71458.0,5.0,4.8,4.4,4.7,4.3,Black
+64,hyundai,elantra,2020,21368,17995.0,4.8,4.7,4.7,4.8,4.8,Quartz White Pearl
+65,bmw,x3 m40i,2020,11970,49995.0,5.0,4.9,4.9,4.9,4.9,Phytonic Blue Metallic
+66,volkswagen,golf r 2.0t w/dcc & navigation,2019,32143,40500.0,4.8,4.9,4.9,4.6,4.9,Indium Gray Metallic
+67,land,rover range rover hse,2018,84844,52874.0,4.0,4.2,3.6,4.3,3.1,Santorini Black
+68,bmw,430 gran coupe i xdrive,2018,39474,26975.0,5.0,4.9,4.9,4.9,5.0,Gray
+69,mercedes-benz,gls 450 4matic,2019,33427,56287.0,5.0,5.0,5.0,5.0,4.9,Polar White
+70,lexus,ls 460,2011,130602,17899.0,5.0,4.9,4.9,4.9,5.0,Black
+71,gmc,yukon denali,2016,36347,38999.0,4.6,4.6,4.2,4.6,4.1,Black
+72,mercedes-benz,glb 250,2020,11140,42492.0,4.6,4.7,4.1,4.5,3.3,Midnight Black
+73,toyota,camry,2021,27521,31998.0,4.8,4.8,4.8,4.9,4.9,Black
+74,ford,edge,2018,23046,33998.0,4.9,4.8,4.8,4.8,4.8,White Platinum Metallic Tri-Coat
+75,subaru,crosstrek 2.0i premium,2019,27911,28998.0,4.7,4.7,4.6,4.8,4.8,Quartz Blue Pearl
+76,toyota,4runner,2021,20606,51931.0,5.0,4.9,4.8,4.9,4.9,Midnight Black Metallic
+77,ford,f-150,2016,135228,25988.0,4.7,4.6,4.7,4.7,4.6,–
+78,audi,a5 2.0t premium,2012,116693,14499.0,4.7,4.7,4.5,4.9,4.6,Phantom Black Pearl
+79,lexus,rc f,2015,29597,51950.0,4.7,4.7,5.0,4.9,5.0,Gray
+80,dodge,challenger r/t,2021,18752,33995.0,4.9,4.8,4.9,5.0,4.8,Burgundy
+81,mazda,cx-5 grand touring,2016,57000,18950.0,4.6,4.6,4.7,4.8,4.7,Jet Black Mica
+82,honda,accord -l,2015,92614,21998.0,4.7,4.6,4.7,4.7,4.8,Black
+83,chevrolet,camaro 2ss,2017,78378,29995.0,4.6,4.6,4.9,4.9,4.8,Gray
+84,nissan,rogue s,2017,47061,16985.0,4.7,4.7,4.6,4.8,4.7,Caspian Blue
+85,toyota,highlander,2019,27027,39368.0,4.8,4.7,4.6,4.7,4.6,White
+86,chevrolet,cruze ls,2019,29865,21998.0,4.8,4.7,4.7,4.8,4.8,Silver Ice Metallic
+87,chevrolet,traverse premier,2018,56722,36525.0,4.9,4.8,4.6,4.8,4.6,Iridescent Pearl Tricoat
+88,nissan,murano sv,2020,41010,27289.0,4.9,4.8,4.9,4.9,4.8,Deep Blue Pearl
+89,bmw,540 i xdrive,2019,26042,47805.0,4.9,4.9,5.0,5.0,4.8,Dark Graphite Metallic
+90,volkswagen,atlas 3.6l sel premium,2021,10640,49500.0,4.9,4.7,4.8,4.9,4.9,Aurora Red Metallic
+91,chevrolet,tahoe ltz,2015,139597,28850.0,4.6,4.7,4.5,4.8,4.4,White Diamond Tri-Coat
+92,honda,civic,2020,20164,19800.0,4.8,4.8,4.9,4.9,4.9,White
+93,nissan,rogue,2018,53043,26884.0,4.7,4.7,4.6,4.8,4.7,Magnetic Black
+94,hyundai,tucson,2017,93960,18550.0,4.8,4.7,4.6,4.8,4.8,Molten Silver
+95,buick,enclave essence,2019,26135,34856.0,4.7,4.7,4.5,4.7,4.6,Summit White
+96,jeep,wrangler unlimited,2015,113580,26455.0,4.4,4.5,4.6,4.8,4.8,Firecracker Red
+97,buick,enclave essence,2020,29500,36500.0,4.9,4.7,4.8,4.8,4.8,Satin Steel Metallic
+98,bmw,x5 m,2018,33757,70996.0,4.7,4.8,5.0,4.7,5.0,Carbon Black Metallic
+99,genesis,gv80 2.5t,2021,26663,55841.0,4.9,4.8,4.8,4.8,4.6,Himalayan Gray
+100,chevrolet,tahoe z71,2021,24054,70490.0,4.6,4.7,4.4,4.7,4.3,Summit White
+101,acura,mdx 3.5l w/advance package,2017,63014,24950.0,4.7,4.5,4.5,4.8,4.7,Gray
+102,toyota,rav4,2007,141372,8500.0,4.2,4.2,4.4,4.4,4.4,Black
+103,chevrolet,suburban 1500 lt,2015,79436,33895.0,4.8,4.6,4.6,4.7,4.6,Black
+104,ford,f-150 xlt,2016,23349,34997.0,4.7,4.6,4.7,4.7,4.6,Ingot Silver Metallic
+105,acura,mdx 3.5l w/technology package,2020,15150,45996.0,4.9,4.9,4.9,4.8,4.9,Modern Steel Metallic
+106,toyota,tundra sr5,2019,30136,39989.0,4.9,4.7,4.9,4.9,4.9,Midnight Black Metallic
+107,cadillac,escalade,2021,28000,107998.0,3.5,4.1,2.6,3.8,2.1,Black
+108,chrysler,300 s,2020,47552,34000.0,4.7,4.7,4.8,4.8,4.9,Silver Mist Clearcoat
+109,honda,civic,2018,42836,20000.0,4.7,4.7,4.8,4.9,4.8,Gray
+110,mercedes-benz,-class  550,2013,45281,39785.0,4.9,4.8,4.8,4.5,4.4,Diamond White Metallic
+111,infiniti,qx60 pure,2020,48522,31599.0,4.9,4.7,4.7,4.8,4.9,Black Obsidian
+112,bmw,x5 xdrive40i,2019,17509,58992.0,5.0,4.9,4.9,4.7,4.6,Phytonic Blue Metallic
+113,kia,sorento sx,2012,213000,4995.0,4.4,4.5,4.2,4.6,4.4,Titanium Silver
+114,ford,taurus ses,2003,83368,4388.0,4.4,4.1,4.0,4.1,4.2,Green
+115,lexus,rx 350,2020,10913,47988.0,4.9,4.8,4.8,4.8,4.9,Atomic Silver
+116,kia,sorento,2020,21055,28933.0,4.8,4.7,4.7,4.8,4.7,Gray
+117,lexus,ls 460,2010,97315,19990.0,4.8,4.6,4.8,4.6,4.8,Black Metallic
+118,chevrolet,silverado 1500 custom,2019,44844,30490.0,4.4,4.2,4.3,4.6,4.2,Shadow Gray Metallic
+119,bmw,328 i,2015,48478,15899.0,4.7,4.7,4.8,4.8,4.6,White
+120,porsche,macan gts,2021,7484,84888.0,4.7,5.0,5.0,4.7,5.0,White
+121,land,rover range rover  hse silver edition,2021,14829,86995.0,4.8,4.8,5.0,5.0,4.7,Eiger Grey
+122,bmw,320 320i xdrive,2018,31948,22950.0,4.9,4.8,4.9,4.8,5.0,Black Sapphire Metallic
+123,bmw,540 i,2002,81467,22900.0,4.7,4.5,4.9,4.5,4.2,Green
+124,mazda,mazda3 awd w/preferred package,2019,15875,16499.0,4.8,4.8,4.7,4.9,4.7,Soul Red Crystal Metallic
+125,genesis,g80 3.8,2019,20870,38000.0,4.7,4.8,4.6,4.8,4.6,Black
+126,tesla,model y long range,2020,9561,65995.0,3.9,3.8,4.1,3.8,4.0,Blue
+127,toyota,highlander,2013,60419,20700.0,4.7,4.7,4.7,4.7,4.8,Black
+128,jeep,grand cherokee altitude,2019,25815,33750.0,4.9,4.9,4.8,4.9,4.8,Black
+129,acura,mdx 3.5l,2020,12374,39412.0,4.9,4.9,4.9,4.8,4.9,Platinum White Pearl
+130,bmw,m3,2017,19847,55863.0,4.3,4.6,4.9,4.9,4.9,Gray
+131,toyota,tacoma,2020,18675,33888.0,4.7,4.7,4.6,4.9,4.8,Midnight Black Metallic
+132,tesla,model y long range,2021,15002,71277.0,4.1,4.2,4.3,4.2,3.8,Pearl White Multi
+133,porsche,boxster s,2013,23698,57900.0,4.6,4.7,4.9,4.9,4.7,Black
+134,mazda,mazda6 s grand touring,2010,97978,9899.0,4.6,4.5,4.6,4.6,4.7,Black Cherry Metallic
+135,toyota,4runner,2018,46525,39919.0,4.8,4.7,4.7,4.9,4.9,Black
+136,subaru,forester,2019,30403,26200.0,4.8,4.7,4.6,4.7,4.8,Ice Silver Metallic
+137,cadillac,xt5 premium luxury,2018,45313,33682.0,4.8,4.8,4.7,4.9,4.8,Stellar Black Metallic
+138,bmw,x3 sdrive30i,2019,34565,35400.0,4.7,4.7,4.8,4.8,4.6,Phytonic Blue Metallic
+139,toyota,4runner,2012,151989,24999.0,4.7,4.6,4.4,4.9,4.9,Silver
+140,honda,civic -t,2018,12123,26955.0,4.7,4.7,4.8,4.9,4.8,Crystal Black Pearl
+141,toyota,corolla,2020,10514,18500.0,4.7,4.7,4.7,4.8,4.8,Blue
+142,ford,expedition max,2020,59742,49499.0,4.7,4.7,4.5,4.7,4.3,Black
+143,honda,pilot elite,2022,3756,41300.0,5.0,5.0,5.0,5.0,5.0,Crystal Black Pearl
+144,subaru,forester 2.5i,2014,154866,8800.0,4.4,4.3,4.5,4.4,4.6,Burnished Bronze Metallic
+145,ford,edge titanium,2020,60802,34997.0,4.9,4.9,4.9,4.9,4.9,Agate Black
+146,chevrolet,silverado 1500 rst,2019,26589,47988.0,4.4,4.2,4.3,4.6,4.2,–
+147,lexus,rx 450hl,2020,11559,56500.0,5.0,5.0,5.0,5.0,5.0,Matador Red Mica
+148,subaru,forester premium,2021,14634,28400.0,4.9,4.9,4.9,4.8,4.9,Crystal Black Silica
+149,volvo,xc60 t5 inscription,2019,34148,40968.0,5.0,4.9,4.9,4.9,4.9,Onyx Black
+150,volvo,xc40 t5 r-design,2019,15038,42962.0,4.9,4.8,4.8,4.9,4.7,Crystal White
+151,bmw,x5 sdrive40i,2020,31831,55901.0,4.8,4.8,4.8,4.7,4.7,Jet Black
+152,mazda,cx-5 grand touring,2019,30322,29895.0,4.8,4.8,4.8,4.9,4.8,Jet Black Mica
+153,toyota,4runner,2019,39855,46991.0,4.8,4.7,4.8,4.8,4.9,Midnight Black Metallic
+154,bmw,m850 i xdrive,2019,34021,77480.0,5.0,5.0,5.0,5.0,5.0,Carbon Black Metallic
+155,dodge,challenger sxt,2020,33296,30595.0,4.9,4.9,4.9,5.0,4.9,Indigo Blue
+156,tesla,model 3 performance,2021,32600,65786.0,3.0,4.0,5.0,4.0,1.0,Pearl White Multi
+157,hyundai,santa fe  ultimate,2018,32770,24750.0,4.7,4.7,4.6,4.8,4.8,Monaco White
+158,ford,f-150 xlt,2019,19615,42995.0,4.9,4.8,4.8,4.8,4.7,Silver
+159,bmw,330 i xdrive,2019,39669,39521.0,4.9,4.9,5.0,4.9,4.9,Jet Black
+160,honda,cr-v,2019,30340,28693.0,4.8,4.8,4.7,4.8,4.8,Gunmetal Metallic
+161,toyota,4runner trail premium,2016,50116,36995.0,4.7,4.6,4.6,4.8,4.9,–
+162,subaru,impreza 2.0i,2017,40060,16823.0,4.7,4.7,4.6,4.8,4.8,Blue
+163,toyota,highlander,2004,204440,5995.0,4.6,4.3,4.4,4.3,4.7,Tan
+164,lexus,rx 300,2003,77792,9995.0,4.9,4.7,4.7,4.7,4.7,Blue
+165,honda,cr-v -l,2019,36188,34499.0,4.8,4.8,4.7,4.8,4.8,Modern Steel Metallic
+166,toyota,4runner sr5,2019,37750,37998.0,4.8,4.7,4.8,4.8,4.9,White
+167,bmw,x7 xdrive50i,2019,27289,81749.0,4.5,4.6,4.0,4.5,3.5,Mineral White Metallic
+168,mercedes-benz,s-class s 550 4matic,2008,89247,15800.0,5.0,4.9,5.0,4.8,4.6,Blue
+169,acura,tlx fwd,2020,37033,31290.0,4.9,4.8,4.8,4.8,4.9,Majestic Black Pearl
+170,toyota,rav4,2018,17590,28998.0,4.8,4.7,4.8,4.8,4.9,Burgundy
+171,honda,accord -l 1.5t,2019,75592,20900.0,4.7,4.8,4.7,4.8,4.8,Black
+172,mercedes-benz,gle 350  4matic,2020,31179,53967.0,4.6,4.6,4.0,4.6,4.1,Polar White
+173,bmw,330 i,2019,19377,39597.0,4.9,4.9,5.0,4.9,4.9,Black Sapphire Metallic
+174,bmw,x3 m40i,2019,33855,47997.0,4.7,4.7,4.8,4.8,4.6,Alpine White
+175,audi,q3 45 s line premium,2021,12051,44561.0,5.0,5.0,5.0,4.9,4.9,Ibis White
+176,mercedes-benz,glc 300  4matic,2019,19782,40565.0,4.8,4.8,4.6,4.7,4.6,Black
+177,bmw,x5 phev xdrive45e,2021,10500,71000.0,4.8,4.6,4.8,4.6,4.6,Blue
+178,audi,s5 3.0t prestige,2018,49950,44850.0,4.8,4.9,4.6,4.7,4.8,Gray
+179,honda,pilot -l,2019,36790,36498.0,4.9,4.8,4.7,4.7,4.8,Deep Scarlet Pearl
+180,chevrolet,spark ls,2020,14035,13989.0,4.5,4.7,4.4,4.9,4.8,Gray
+181,hyundai,elantra,2019,11326,21998.0,4.7,4.7,4.6,4.7,4.8,Phantom Black
+182,mercedes-benz,s-class s 550 4matic,2012,59725,25695.0,4.9,4.8,4.8,4.8,4.8,Metallic
+183,nissan,frontier pro-4x,2020,11510,38700.0,4.7,4.5,4.6,4.6,4.5,Glacier White
+184,honda,accord -l 1.5t,2018,87091,18985.0,4.8,4.8,4.7,4.8,4.8,Modern Steel Metallic
+185,jeep,grand cherokee,2019,32858,35500.0,4.9,4.9,4.8,4.9,4.8,Granite Crystal Clearcoat Metallic
+186,bmw,128 128i,2010,94876,8999.0,4.3,4.4,4.8,4.9,4.7,Black Sapphire Metallic
+187,lexus,ls 430  (a6),2004,90908,14290.0,4.8,4.9,4.9,4.7,4.9,Crystal White
+188,audi,a7 3.0t prestige,2016,21603,47940.0,4.7,4.6,4.9,4.9,4.7,Mythos Black Metallic
+189,mazda,mazda6,2020,35332,30916.0,5.0,5.0,4.9,5.0,4.9,Jet Black Mica
+190,hyundai,sonata hybrid,2016,72278,18375.0,4.8,4.7,4.7,4.8,4.7,Diamond White Pearl
+191,alfa,romeo giulia ti,2017,22855,29900.0,4.6,4.7,4.9,5.0,4.4,Gray
+192,mercedes-benz,cla 250,2019,30820,30495.0,3.9,4.0,4.1,4.5,4.3,Polar White
+193,toyota,corolla,2017,54898,13899.0,4.7,4.7,4.6,4.7,4.8,Aqua
+194,acura,mdx 3.5l w/technology package,2016,71815,19900.0,4.7,4.5,4.5,4.5,4.6,Charcoal
+195,honda,civic,2019,29879,23845.0,4.8,4.8,4.9,4.9,4.9,Modern Steel Metallic
+196,lexus,rx 350  (a5),2008,90958,11995.0,4.7,4.4,4.7,4.6,4.7,Blue
+197,acura,ilx premium & a-spec packages,2020,29085,30885.0,4.5,4.6,4.5,4.7,4.4,Platinum White Pearl
+198,toyota,highlander  w/3rd row,2006,96442,11995.0,4.7,4.5,4.6,4.4,4.9,Black
+199,bmw,m550 i xdrive,2019,38336,44718.0,5.0,4.7,5.0,4.0,4.0,Black
+200,bmw,m4,2020,6626,72735.0,5.0,5.0,5.0,5.0,5.0,White
+201,volkswagen,tiguan 2.0t,2019,28601,26496.0,4.6,4.7,4.3,4.6,4.5,Deep Black Pearl Effect
+202,cadillac,xt6 premium luxury awd,2021,10932,59998.0,4.8,4.9,4.8,5.0,5.0,Stellar Black Metallic
+203,chevrolet,blazer premier,2020,11843,48998.0,4.8,4.7,4.8,4.9,4.8,Black
+204,porsche,911 targa 4,2012,41198,72998.0,4.5,4.7,5.0,4.9,4.8,Blue
+205,mercedes-benz,c-class c 300,2019,35825,33185.0,4.8,4.8,4.8,4.8,4.7,Black
+206,mercedes-benz,e-class e 400,2015,102893,20955.0,4.8,4.7,4.8,4.8,4.8,Steel Gray Metallic
+207,audi,a3 2.0t prestige,2018,64403,31492.0,4.9,4.9,4.9,4.9,4.9,Florett Silver Metallic
+208,jeep,grand cherokee,2017,16929,27575.0,4.8,4.8,4.7,4.8,4.8,Granite Crystal Clearcoat Metallic
+209,subaru,outback 2.5i,2018,47445,29499.0,4.8,4.7,4.6,4.7,4.8,Crystal White Pearl
+210,porsche,cayenne s,2015,56557,34999.0,5.0,4.9,4.9,4.9,4.9,White
+211,bmw,x5 xdrive40i,2020,10422,62787.0,4.8,4.8,4.8,4.7,4.7,Alpine White
+212,lexus,rx 350,2012,124282,18699.0,4.8,4.8,4.8,4.7,4.9,Starfire Pearl
+213,buick,lacrosse premium,2017,33148,28994.0,4.9,4.8,4.8,4.8,4.7,Pepperdust Metallic
+214,cadillac,xt5 luxury,2017,39535,33029.0,4.7,4.7,4.6,4.8,4.6,Stellar Black Metallic
+215,bmw,x3 xdrive30i,2018,32702,37962.0,4.9,4.9,4.8,4.9,4.6,Blue Metallic
+216,tesla,model y performance,2021,12708,74799.0,4.1,4.2,4.3,4.2,3.8,Pearl White Multi
+217,infiniti,qx50 essential,2019,19527,35799.0,4.9,4.8,4.6,4.9,4.7,Black Obsidian
+218,mazda,mazda3 fwd w/preferred package,2021,11945,27981.0,4.8,4.8,4.9,4.9,4.8,Snowflake White Pearl
+219,kia,forte fe,2021,14606,16999.0,4.8,4.9,4.8,4.9,4.8,Black
+220,nissan,murano,2018,39336,29401.0,4.9,4.8,4.8,4.8,4.8,Magnetic Black
+221,chevrolet,corvette stingray z51,2016,13053,49999.0,4.7,4.8,4.9,4.9,4.8,Yellow
+222,lincoln,mkz select,2018,43485,22995.0,4.8,4.8,5.0,4.9,4.9,White
+223,mercedes-benz,amg gle 43 4matic coupe,2019,36343,67399.0,5.0,5.0,5.0,5.0,5.0,Obsidian Black Metallic
+224,ford,f-150 lariat,2021,16581,66000.0,4.8,4.9,4.8,4.9,4.7,Agate Black Metallic
+225,volkswagen,arteon 2.0t sel premium r-line,2019,46542,32500.0,4.8,4.6,4.4,5.0,4.5,Manganese Gray Metallic
+226,honda,accord,2017,65076,17352.0,4.8,4.8,4.8,4.8,4.9,Black
+227,dodge,charger sxt,2021,32033,32299.0,5.0,4.9,5.0,5.0,5.0,Pitch Black Clearcoat
+228,mercedes-benz,amg c 43  4matic,2019,36089,54335.0,4.8,5.0,5.0,5.0,4.6,Black
+229,acura,rdx,2019,21316,36605.0,4.6,4.5,4.2,4.6,4.2,Performance Red Pearl
+230,audi,q5 45 premium,2021,14222,52308.0,4.6,4.4,4.7,4.5,4.7,Mythos Black Metallic
+231,acura,mdx 3.5l technology & a-spec pkgs,2020,21460,46988.0,4.9,4.9,4.9,4.8,4.9,Apex Blue Pearl
+232,volvo,xc90 t6 momentum,2016,56044,35998.0,4.8,4.8,4.4,4.8,4.1,Luminous Sand
+233,infiniti,qx80 luxe,2019,27017,52506.0,4.8,4.7,4.8,4.8,4.8,Champagne Quartz
+234,honda,accord,2018,13112,29275.0,4.8,4.8,4.7,4.8,4.8,Champagne Frost Pearl
+235,acura,mdx 3.5l,2015,99697,23999.0,4.8,4.7,4.8,4.6,4.8,White
+236,audi,q8 3.0t premium,2019,30425,62995.0,4.9,4.8,4.8,5.0,4.9,Glacier White Metallic
+237,nissan,maxima 3.5 s,2017,48203,19989.0,4.8,4.8,4.8,4.8,4.8,Black
+238,chevrolet,trax ls,2017,30364,17488.0,4.5,4.5,4.5,4.6,4.6,Silver Ice Metallic
+239,kia,telluride sx,2020,33976,46995.0,4.9,4.9,4.8,4.9,4.9,Dark Moss
+240,hyundai,santa fe  2.0t,2020,39946,34744.0,4.9,4.8,4.7,4.9,4.9,Portofino Gray
+241,ford,mustang ecoboost premium,2018,68603,21000.0,4.7,4.8,4.9,4.9,4.8,White
+242,chrysler,crossfire srt-6,2005,10062,24900.0,4.2,4.2,4.8,4.9,4.6,Black
+243,mercedes-benz,gla 250,2021,10732,43850.0,4.9,4.9,4.9,4.8,4.9,Polar White
+244,porsche,boxster,2010,71106,28950.0,4.5,4.7,4.5,4.8,4.4,Midnight Blue Metallic
+245,fiat,500l easy,2014,65629,9900.0,4.5,4.6,4.0,4.6,3.9,Nero Puro
+246,honda,civic,2015,47467,15995.0,4.6,4.6,4.6,4.6,4.8,Black
+247,honda,civic,2017,51430,19981.0,4.7,4.7,4.8,4.8,4.8,White
+248,lexus,gx 460,2020,30421,49000.0,5.0,4.9,4.9,5.0,5.0,Nebula Gray Pearl
+249,porsche,macan s,2019,38729,63367.0,5.0,4.8,5.0,5.0,4.8,White
+250,mercedes-benz,gle 350  4matic,2018,49312,37963.0,4.9,4.7,4.8,4.8,4.8,Gray
+251,honda,pilot elite,2017,59498,34955.0,4.8,4.7,4.7,4.7,4.7,Obsidian Blue Pearl
+252,bmw,428 i xdrive,2015,68535,13899.0,4.7,4.7,4.8,4.9,4.7,Gray
+253,lexus,rx 350,2008,114708,11495.0,4.7,4.4,4.7,4.6,4.7,Crystal White
+254,toyota,camry xse,2019,15341,30959.0,4.8,4.7,4.7,4.9,4.8,Midnight Black Metallic
+255,audi,a4 2.0t premium,2019,20910,31995.0,5.0,4.9,4.7,4.7,4.8,Ibis White
+256,bmw,x5 xdrive35i,2017,45922,31950.0,4.8,4.7,4.7,4.8,4.7,Black
+257,kia,telluride sx,2021,25593,51980.0,5.0,4.9,4.9,5.0,4.9,Black
+258,mercedes-benz,glc 300  4matic,2020,44271,39790.0,4.9,4.9,4.7,4.9,4.7,Graphite
+259,toyota,4runner,2015,53249,35977.0,4.7,4.6,4.7,4.9,4.9,Gray
+260,gmc,yukon denali,2021,33316,82995.0,4.3,4.5,4.2,4.7,3.5,Onyx Black
+261,ford,f-150,2018,51960,34999.0,4.9,4.8,4.8,4.8,4.7,Shadow Black
+262,mazda,cx-9 carbon edition,2021,11309,41990.0,4.8,4.8,4.8,4.9,4.9,Polymetal Gray Metallic
+263,chevrolet,equinox premier,2017,50127,22999.0,4.8,4.7,4.6,4.8,4.8,Iridescent Pearl Tricoat
+264,lexus,rx 350 350,2017,73966,35615.0,4.8,4.7,4.6,4.7,4.8,Eminent White Pearl
+265,bmw,x7 xdrive40i,2020,14004,71819.0,5.0,5.0,5.0,4.9,4.9,Arctic Gray Metallic
+266,ford,edge,2020,25055,42989.0,4.9,4.9,4.9,4.9,4.9,Star White Metallic Tri-Coat
+267,lincoln,aviator reserve awd,2020,37414,58998.0,4.4,4.4,4.1,4.5,3.5,Pristine White
+268,subaru,crosstrek 2.0i premium,2016,94374,19687.0,4.6,4.5,4.4,4.7,4.8,Quartz Blue Pearl
+269,subaru,crosstrek 2.0i,2018,45209,28952.0,4.8,4.8,4.6,4.9,4.9,Sunshine Orange
+270,audi,q5 45 prestige,2020,10843,49998.0,4.8,4.7,4.9,4.8,4.7,Mythos Black Metallic
+271,volvo,v90 cross country t5,2018,37837,50962.0,4.9,4.9,4.8,4.9,4.8,Onyx Black Metallic
+272,honda,accord -l,2014,73467,20800.0,4.6,4.6,4.6,4.7,4.8,Alabaster Silver Metallic
+273,nissan,murano,2011,65881,12998.0,4.6,4.4,4.4,4.4,4.4,Graphite Blue
+274,toyota,4runner nightshade,2021,19814,55900.0,5.0,4.9,4.8,4.9,4.9,Midnight Black Metallic
+275,hyundai,elantra sel,2018,51503,15500.0,4.7,4.7,4.7,4.8,4.8,Electric Blue
+276,porsche,cayenne,2018,41125,49965.0,4.8,4.9,4.9,4.8,4.7,Mahogany Metallic
+277,honda,hr-v,2018,42436,17997.0,4.7,4.5,4.7,4.8,4.8,Gray
+278,subaru,forester 2.5i,2018,51492,26999.0,4.8,4.6,4.7,4.7,4.8,Dark Gray Metallic
+279,ford,edge st,2020,22492,43596.0,4.9,4.9,4.9,4.9,4.9,Ford Performance Blue Metallic
+280,hyundai,palisade,2020,49541,45500.0,4.8,4.8,4.5,4.7,4.6,Moonlight Cloud
+281,nissan,rogue,2020,23320,33277.0,4.9,4.7,4.7,4.8,4.8,Magnetic Black Pearl
+282,buick,encore preferred,2019,30406,21989.0,4.7,4.6,4.6,4.8,4.7,Ebony Twilight Metallic
+283,jeep,grand cherokee,2018,43807,33663.0,4.9,4.8,4.8,4.9,4.7,Diamond Black
+284,toyota,rav4 hybrid,2018,41944,30999.0,4.8,4.7,4.9,4.7,4.9,Super White
+285,cadillac,xt4,2019,49386,35998.0,4.5,4.5,4.0,4.7,3.8,Black
+286,kia,soul +,2013,47786,9999.0,4.4,4.4,4.4,4.6,4.6,Green
+287,chevrolet,silverado 1500 ltz,2015,88023,26900.0,4.7,4.6,4.6,4.8,4.6,Black
+288,acura,tlx tech,2015,136510,14999.0,4.7,4.5,4.4,4.6,4.5,Gray
+289,acura,rdx advance package,2021,11309,50767.0,4.9,4.9,4.7,4.9,4.8,Modern Steel Metallic
+290,honda,cr-v hybrid touring,2020,36896,38999.0,4.7,4.6,4.3,4.7,4.6,Lunar Silver Metallic
+291,tesla,model 3 standard range,2019,16172,49996.0,4.9,4.9,5.0,4.9,5.0,Gray
+292,toyota,highlander,2016,52649,32979.0,4.8,4.7,4.8,4.8,4.9,Midnight Black Metallic
+293,chevrolet,equinox 1lt,2020,19220,27995.0,4.8,4.7,4.7,4.8,4.7,Mosaic Black Metallic
+294,infiniti,qx30 premium,2018,49175,29995.0,4.2,4.3,4.5,4.8,4.4,Ink Blue
+295,mercedes-benz,gls 450 gls 450,2019,45377,51909.0,5.0,5.0,5.0,5.0,4.9,Black
+296,land,rover range rover evoque,2020,17711,47500.0,4.6,4.5,3.7,4.7,3.5,Fuji White
+297,acura,mdx,2022,17912,48998.0,4.9,4.8,4.9,4.9,4.9,Carbon Metallic
+298,acura,tlx a-spec,2020,39396,37988.0,4.9,4.8,4.8,4.8,4.9,White
+299,toyota,highlander hybrid,2021,17785,48916.0,4.8,4.6,4.7,4.7,5.0,Ruby Flare Pearl
+300,nissan,rogue  s,2020,19333,22790.0,4.7,4.7,4.6,4.8,4.8,Gun Metallic
+301,lexus,es 300  (a5),2003,77648,3999.0,4.9,4.8,4.7,4.5,4.9,Silver
+302,buick,enclave 2xl,2010,100000,6999.0,4.8,4.7,4.2,4.7,4.2,UNSPECIFIED
+303,ram,1500 big horn,2021,20222,49997.0,4.9,4.9,4.8,4.9,4.8,Diamond Black
+304,tesla,model 3 performance,2020,11733,64900.0,4.6,4.4,4.6,4.2,4.4,Deep Blue Metallic
+305,lincoln,aviator black label awd,2020,14751,70988.0,4.4,4.4,4.1,4.5,3.5,Infinite Black Metallic
+306,bmw,328 i xdrive,2015,50757,22495.0,4.7,4.7,4.8,4.8,4.6,Black
+307,chevrolet,tahoe lt,2019,49441,42900.0,4.7,4.6,4.6,4.7,4.7,White
+308,toyota,highlander,2013,106506,19750.0,4.7,4.7,4.7,4.7,4.8,Silver
+309,mazda,cx-5 grand touring,2021,12848,34590.0,4.8,4.8,4.8,4.8,4.8,Black
+310,mercedes-benz,gls 450  4matic,2019,63263,48995.0,5.0,5.0,5.0,5.0,4.9,Black
+311,land,rover range rover  supercharged hse,2014,83664,29995.0,4.8,4.8,4.8,4.8,4.6,Santorini Black
+312,lincoln,mkz,2014,90848,17900.0,4.6,4.7,4.6,4.8,4.6,White
+313,mercedes-benz,gla 250,2020,30048,31995.0,4.9,4.8,4.9,4.9,4.9,Midnight Black
+314,toyota,tacoma sr5,2021,30600,34245.0,4.8,4.8,4.6,4.9,4.9,Cement
+315,acura,ilx w/acurawatch,2017,54640,6950.0,4.7,4.7,4.6,4.8,4.8,White
+316,toyota,prius three,2013,107171,16654.0,4.6,4.5,4.6,4.5,4.8,Silver
+317,lexus,gx 460 460,2013,80588,23995.0,4.7,4.6,4.2,4.4,4.5,Black
+318,dodge,charger r/t scat pack,2016,13243,39950.0,4.8,4.7,4.8,4.8,4.8,Red
+319,mercedes-benz,e-class e 300 4matic,2017,13990,33016.0,4.9,4.9,4.6,4.8,4.8,White
+320,acura,tlx v6,2020,52756,27990.0,4.9,4.8,4.8,4.8,4.9,Gray
+321,acura,tlx v6 advance,2015,56352,23437.0,4.7,4.5,4.4,4.6,4.5,Bellanova White Pearl
+322,dodge,durango gt,2020,33014,45899.0,5.0,4.8,4.9,4.9,4.8,Granite Clearcoat
+323,jeep,grand cherokee,2004,181419,6990.0,4.4,4.1,4.2,4.3,4.1,Brilliant Black Crystal Pearlcoat
+324,bmw,740 i,2020,31649,65988.0,5.0,5.0,5.0,5.0,5.0,Alpine White
+325,audi,q8 55 premium,2021,31640,76988.0,5.0,5.0,5.0,5.0,5.0,Navarra Blue Metallic
+326,bmw,x3 xdrive30i,2019,34318,35998.0,4.7,4.7,4.8,4.8,4.6,White
+327,tesla,model s 75d,2018,47069,60000.0,4.9,4.8,5.0,4.9,4.9,Black
+328,subaru,xv crosstrek 2.0i premium,2014,29501,14900.0,4.5,4.3,4.2,4.6,4.4,Ice Silver Metallic
+329,bmw,x3 xdrive30i,2020,33379,40998.0,5.0,4.9,4.9,4.9,4.9,Gray
+330,bmw,x3 xdrive28i,2017,36219,32199.0,4.8,4.8,4.9,4.8,4.9,Jet Black
+331,kia,sorento sx,2017,85417,25999.0,4.8,4.8,4.7,4.8,4.8,Titanium Silver
+332,land,rover discovery hse,2019,30633,56343.0,4.2,3.5,3.5,3.7,2.8,Loire Blue
+333,bmw,x3 sdrive30i,2020,30471,42962.0,5.0,4.9,4.9,4.9,4.9,Jet Black
+334,mercedes-benz,gle 350,2021,17601,64980.0,4.9,4.8,4.6,4.8,4.9,Black
+335,bmw,750 i xdrive,2020,34376,78790.0,5.0,5.0,5.0,5.0,5.0,Alpine White
+336,lexus,gs 350 f,2017,37332,39988.0,4.9,5.0,4.9,4.9,4.9,Liquid Platinum
+337,toyota,highlander,2021,21732,48995.0,4.9,4.8,4.8,4.8,4.9,Blizzard Pearl
+338,subaru,outback 2.5i,2019,82274,26947.0,4.8,4.7,4.7,4.7,4.7,Magnetite Gray Metallic
+339,land,rover range rover sv autobiography dynamic,2019,37601,140000.0,4.7,4.6,4.5,4.5,4.4,SVO White
+340,toyota,highlander,2018,38108,35991.0,4.8,4.7,4.7,4.8,4.8,Black
+341,infiniti,qx60 luxe,2019,36599,34989.0,4.8,4.6,4.5,4.7,4.6,Black Obsidian
+342,honda,passport -l,2020,13134,38998.0,4.9,4.8,4.8,4.8,4.8,WHITE PEARL
+343,toyota,rav4,2018,45263,33675.0,4.8,4.7,4.8,4.8,4.9,Galactic Aqua
+344,mazda,mazda3 i sv,2014,54552,12987.0,4.5,4.6,4.5,4.8,4.6,Meteor Gray Mica
+345,kia,stinger gt2,2020,18951,47000.0,4.7,4.7,4.9,4.9,4.7,Snow White Pearl
+346,audi,a6 55 premium,2021,16076,50591.0,5.0,5.0,5.0,5.0,5.0,Firmament Blue Metallic
+347,ford,mustang gt,2020,13901,62977.0,4.8,4.8,4.9,4.9,4.9,White
+348,tesla,model 3 performance,2019,42427,57775.0,4.9,4.9,5.0,4.9,5.0,Pearl White Multi
+349,ford,fusion hybrid titanium,2020,31923,29590.0,5.0,5.0,5.0,4.7,5.0,Magnetic Metallic
+350,dodge,durango gt,2018,61762,33995.0,4.9,4.8,4.9,4.9,4.8,White Knuckle Clearcoat
+351,toyota,4runner,2016,49368,35910.0,4.7,4.6,4.6,4.8,4.9,Blue
+352,mercedes-benz,c-class c 300,2018,37746,29809.0,4.8,4.9,4.9,4.9,4.8,Obsidian Black Metallic
+353,jeep,wrangler unlimited sahara,2018,31145,42980.0,4.6,4.7,4.7,4.9,4.6,Bright White Clearcoat
+354,subaru,forester 2.5i touring,2016,22828,26405.0,4.5,4.4,4.6,4.5,4.7,Crystal White Pearl
+355,chevrolet,equinox premier w/1lz,2019,39996,28572.0,4.6,4.6,4.5,4.6,4.5,Mosaic Black Metallic
+356,volkswagen,jetta 1.4t s,2019,50492,19982.0,4.5,4.5,4.4,4.6,4.4,Habanero Orange Metallic
+357,ford,mustang gt,2016,46158,24995.0,4.6,4.7,4.8,4.9,4.7,Black
+358,ford,focus rs,2017,55777,37438.0,4.3,4.5,4.9,4.8,4.7,Stealth Gray
+359,honda,pilot -l,2021,14547,44712.0,4.9,4.7,4.8,4.7,4.8,White
+360,alfa,romeo stelvio,2018,48353,26504.0,4.7,4.5,4.9,4.8,4.6,Rosso
+361,jaguar,f-type s,2016,17880,53222.0,4.6,4.5,4.8,4.8,4.5,Black Berry
+362,ford,ecosport s,2020,12475,8995.0,4.7,4.8,4.5,4.8,4.9,Smoke Metallic
+363,nissan,murano,2019,27292,33821.0,5.0,4.9,4.8,4.9,4.8,Gun Metallic
+364,ford,f-150 xlt supercrew,2004,203777,7990.0,4.5,4.5,4.4,4.6,4.5,Black
+365,audi,rs 5 2.9t,2019,10505,77895.0,4.6,4.7,4.8,5.0,4.9,Glacier White Metallic
+366,bmw,x3 xdrive28i,2013,69831,13750.0,4.5,4.4,4.3,4.5,3.8,Jet Black
+367,volkswagen,golf tsi s 2-door,2015,46024,16500.0,4.7,4.8,4.7,4.7,4.8,Black
+368,toyota,avalon xse,2020,4230,40591.0,5.0,4.8,4.8,4.9,4.9,Blue
+369,lexus,rx 350 350,2019,10187,46788.0,4.8,4.8,4.8,4.9,4.8,Nebula Gray Pearl
+370,honda,accord touring 2.0t,2018,30424,31500.0,4.8,4.8,4.7,4.8,4.8,Crystal Black Pearl
+371,gmc,sierra 1500 elevation,2020,32063,39999.0,4.9,4.8,4.8,4.9,4.7,Summit White
+372,volkswagen,jetta,2011,147905,5999.0,4.4,4.3,4.3,4.6,4.4,Gold
+373,volkswagen,tiguan,2012,110521,10995.0,4.4,4.6,4.5,4.6,4.5,Gray
+374,bmw,x3 xdrive28i,2016,52911,25985.0,4.7,4.6,4.6,4.8,4.8,Sparkling Brown Metallic
+375,toyota,corolla,2019,25883,23998.0,4.8,4.7,4.7,4.8,4.9,Silver
+376,mini,convertible cooper,2019,14164,26975.0,4.5,4.6,4.7,4.8,4.9,Blue
+377,audi,q5 45 premium,2020,17613,37900.0,4.8,4.7,4.9,4.8,4.7,Manhattan Gray Metallic
+378,mazda,mazda3,2018,31859,18807.0,4.8,4.8,4.8,4.8,4.9,Soul Red Metallic
+379,alfa,romeo stelvio ti,2019,48303,34495.0,4.6,4.4,4.7,4.8,4.5,Rosso
+380,kia,sorento,2017,84113,18995.0,4.8,4.8,4.7,4.8,4.8,Platinum Graphite
+381,audi,q5 2.0t premium,2018,25217,34998.0,4.7,4.7,4.7,4.7,4.6,Brilliant Black
+382,audi,a6 55 premium,2019,18698,46177.0,4.7,4.8,4.6,5.0,4.5,Mythos Black Metallic
+383,bmw,x1 sdrive28i,2019,14335,31998.0,4.8,4.6,4.8,4.8,4.6,Mineral White Metallic
+384,lexus,nx 200t,2016,38088,28998.0,4.9,4.8,4.9,4.9,5.0,Blue
+385,ford,explorer xlt,2021,14026,45989.0,4.9,4.8,4.9,4.9,4.8,Iconic Silver Metallic
+386,jeep,cherokee trailhawk,2014,61908,21594.0,4.5,4.5,4.0,4.5,3.9,Anvil Clearcoat
+387,dodge,charger srt 392,2017,26230,45991.0,4.9,4.7,4.9,4.9,4.7,Pitch Black Clearcoat
+388,ford,f-150 lariat,2016,99996,33980.0,4.7,4.6,4.7,4.7,4.6,Shadow Black
+389,hyundai,veloster turbo,2016,43924,13999.0,4.4,4.6,4.3,4.8,4.6,Ultra Black
+390,toyota,sienna xse 7 passenger,2021,13566,64991.0,4.4,4.2,4.4,4.5,4.2,Gray
+391,lincoln,mkz hybrid reserve,2017,38655,27993.0,4.9,4.9,4.5,5.0,5.0,Burgundy Velvet Tinted Clearcoat
+392,toyota,rav4,2019,14804,29952.0,4.6,4.6,4.4,4.7,4.6,Ruby Flare Pearl
+393,ford,explorer,2016,83550,22000.0,4.7,4.5,4.6,4.7,4.4,White
+394,chevrolet,equinox lt,2017,99768,18495.0,4.8,4.7,4.6,4.8,4.8,Iridescent Pearl Tricoat
+395,mazda,cx-9 touring,2019,28220,32998.0,5.0,4.9,4.9,5.0,4.9,Snowflake White Pearl Mica
+396,subaru,impreza 2.0i,2019,112417,21498.0,4.7,4.6,4.4,4.6,4.6,White
+397,subaru,forester 2.5i premium,2017,58476,17854.0,4.7,4.5,4.7,4.7,4.8,Dark Gray Metallic
+398,audi,a6 2.0t premium  quattro,2013,67744,19990.0,4.8,4.9,4.7,4.9,4.7,Brilliant Black
+399,volvo,xc60 t6 dynamic,2017,52021,26998.0,4.9,4.8,4.8,4.9,4.9,Crystal White Pearl Metallic
+400,jeep,grand cherokee 80th anniversary,2021,10934,45700.0,4.7,4.7,4.7,4.7,4.7,White
+401,toyota,camry,2010,84386,9995.0,4.6,4.3,4.5,4.5,4.8,–
+402,toyota,highlander,2016,82943,28995.0,4.8,4.7,4.8,4.8,4.9,Black
+403,ford,f-150 raptor,2019,30387,51951.0,4.9,4.8,4.8,4.8,4.7,Agate Black Metallic
+404,toyota,4runner sr5 premium,2016,88842,33499.0,4.7,4.6,4.6,4.8,4.9,Magnetic Gray Metallic
+405,mercedes-benz,c-class c 300 4matic,2019,38681,34442.0,4.8,4.8,4.8,4.8,4.7,Iridium Silver Metallic
+406,toyota,rav4,2015,13451,27450.0,4.5,4.4,4.5,4.7,4.7,Blizzard Pearl
+407,audi,sq5 3.0t premium,2019,18988,50000.0,4.6,4.9,4.9,4.6,4.9,Daytona Gray Pearl Effect
+408,lexus,is 300,2016,78635,24995.0,4.8,4.7,4.9,4.9,4.8,Gray
+409,mercedes-benz,gls 450  4matic,2018,37827,50906.0,4.8,4.8,4.8,4.6,4.8,Selenite Gray Metallic
+410,lexus,nx 300,2021,30569,40788.0,4.8,4.7,4.7,4.8,4.8,Atomic Silver
+411,lincoln,mkz reserve i,2019,32629,33500.0,5.0,4.9,4.9,4.9,5.0,White Platinum
+412,toyota,rav4 hybrid,2018,58539,30995.0,4.8,4.7,4.9,4.7,4.9,Galactic Aqua
+413,bmw,m340 i,2020,31213,50000.0,4.8,4.8,5.0,4.9,4.9,Black Sapphire Metallic
+414,honda,accord -l,2018,51175,29900.0,4.8,4.8,4.7,4.8,4.8,Radiant Red Metallic
+415,cadillac,xt5 luxury,2019,37581,36873.0,4.8,4.7,4.6,4.7,4.5,Stellar Black Metallic
+416,mercedes-benz,amg glc 43  4matic,2020,16472,61600.0,5.0,5.0,5.0,5.0,5.0,Brilliant Blue Metallic
+417,lexus,rx 350,2019,14289,45998.0,4.8,4.8,4.8,4.9,4.8,White
+418,mercedes-benz,c-class c 300 4matic,2018,26802,33000.0,4.8,4.9,4.9,4.9,4.8,Silver
+419,toyota,camry,2005,48515,10990.0,4.7,4.4,4.5,4.3,4.8,Desert Sand Mica
+420,nissan,maxima 3.5 sv,2011,52366,12999.0,4.5,4.5,4.4,4.7,4.6,WHITE
+421,honda,cr-v -l,2021,15028,36000.0,5.0,4.9,4.8,4.9,4.9,Platinum White Pearl
+422,tesla,model 3 long range,2022,4921,65499.0,5.0,4.5,5.0,4.5,5.0,Deep Blue Metallic
+423,volvo,xc60 t6,2015,117075,18987.0,4.8,4.6,4.7,4.8,4.7,Twilight Bronze Metallic
+424,alfa,romeo stelvio ti,2019,24601,36977.0,4.6,4.4,4.7,4.8,4.5,Vulcano Black Metallic
+425,audi,sq5 premium,2019,36683,48288.0,4.6,4.9,4.9,4.6,4.9,Mythos Black Metallic
+426,toyota,tacoma,2021,18752,38000.0,4.8,4.8,4.6,4.9,4.9,Midnight Black Metallic
+427,land,rover range rover velar p380 s,2018,27519,49952.0,4.2,4.3,4.0,4.6,3.4,Narvik Black
+428,audi,q7 55 premium,2021,10666,63791.0,4.9,4.7,4.6,4.9,4.3,Samurai Gray Metallic
+429,cadillac,xt4 premium luxury,2019,30840,30291.0,4.5,4.5,4.0,4.7,3.8,Crystal White Tri-Coat
+430,honda,ridgeline rtl-e,2019,17003,40000.0,4.9,4.8,4.8,4.7,4.9,Obsidian Blue Pearl
+431,dodge,durango r/t,2018,39841,41991.0,4.9,4.8,4.9,4.9,4.8,Vice White
+432,lamborghini,urus,2020,25428,262500.0,4.0,5.0,5.0,5.0,4.0,Grigio Nimbus Metallic
+433,bmw,435 i,2015,39981,27975.0,4.8,4.8,4.9,4.9,4.8,Blue
+434,mercedes-benz,gle 350 4matic,2020,45244,52627.0,4.6,4.6,4.0,4.6,4.1,Obsidian Black Metallic
+435,audi,s4 3.0t premium,2018,31159,41475.0,4.8,4.9,4.9,4.7,4.8,Brilliant Black
+436,toyota,supra 3.0,2020,11704,59995.0,4.3,4.1,4.7,4.5,4.7,Absolute Zero
+437,audi,q5 2.0t premium,2014,88573,18189.0,4.7,4.7,4.7,4.8,4.7,Monsoon Gray Metallic
+438,porsche,macan s,2020,15834,68880.0,4.4,4.5,4.5,4.6,4.5,Black
+439,cadillac,xt5 premium luxury,2020,58211,38900.0,4.9,4.7,4.7,4.8,4.8,Stellar Black Metallic
+440,maserati,levante s,2017,49892,46000.0,4.6,4.3,4.6,4.6,4.3,Blu Passione Mica
+441,ford,f-150 lariat,2020,40090,52636.0,4.9,4.8,4.8,4.8,4.8,Rapid Red Metallic Tinted Clearcoat
+442,lexus,es 350,2021,11108,43859.0,5.0,5.0,5.0,5.0,5.0,Eminent White Pearl
+443,mercedes-benz,gle 350,2018,46965,40999.0,4.9,4.7,4.8,4.8,4.8,Black
+444,hyundai,santa fe ultimate 2.0t,2019,36819,34950.0,4.9,4.9,4.6,4.9,4.8,Quartz White
+445,nissan,murano,2017,38771,30479.0,4.9,4.8,4.8,4.8,4.8,Magnetic Black
+446,honda,accord -l,2020,14369,27995.0,4.8,4.8,4.8,4.9,4.9,Platinum White Pearl
+447,mercedes-benz,glk-class glk 350,2015,69167,23784.0,4.7,4.7,4.8,4.7,4.8,Black
+448,volvo,xc60 t5 momentum,2020,34283,40998.0,4.9,4.9,4.9,4.9,4.9,Gray
+449,lincoln,navigator reserve,2019,46028,68991.0,4.7,4.8,5.0,4.9,4.9,Infinite Black Metallic
+450,dodge,charger scat pack,2021,1893,46300.0,5.0,4.9,5.0,5.0,5.0,F8 Green
+451,toyota,rav4,2018,87607,24500.0,4.8,4.7,4.8,4.8,4.9,Silver Sky Metallic
+452,land,rover range rover westminster,2021,19774,115000.0,5.0,5.0,5.0,5.0,5.0,Santorini Black Metallic
+453,ford,edge,2019,68176,26000.0,4.8,4.7,4.7,4.8,4.7,Magnetic Metallic
+454,jeep,cherokee,2020,46553,30269.0,4.8,4.8,4.8,4.8,4.8,Diamond Black
+455,chevrolet,suburban lt,2020,16556,58540.0,4.9,4.8,4.8,4.9,4.8,Charcoal
+456,gmc,yukon slt,2020,24000,64998.0,5.0,4.9,5.0,4.9,4.9,Dark Sky Metallic
+457,bmw,x5 sdrive35i,2018,54742,38998.0,4.8,4.9,4.9,4.9,4.8,Black
+458,mercedes-benz,gls 450  4matic,2017,54850,42998.0,5.0,4.9,4.9,5.0,4.8,Gray
+459,mercedes-benz,e-class e 350 4matic,2020,3744,53999.0,5.0,5.0,5.0,5.0,5.0,Iridium Silver Metallic
+460,lexus,rx 350 350,2018,39580,38995.0,4.8,4.9,4.8,4.8,4.8,Nightfall Mica
+461,volvo,xc40 t5 momentum,2020,31264,36397.0,4.9,4.9,4.9,4.9,4.8,Gray
+462,toyota,highlander,2021,12491,50999.0,4.9,4.8,4.8,4.8,4.9,Moon Dust
+463,hyundai,elantra sel,2020,38537,21990.0,4.8,4.7,4.7,4.8,4.8,Portofino Gray
+464,honda,cr-v touring,2017,62513,29980.0,4.8,4.8,4.7,4.8,4.8,Black
+465,nissan,murano,2020,27526,38580.0,4.9,4.8,4.9,4.9,4.8,White
+466,jeep,grand cherokee trailhawk,2018,57255,37976.0,4.9,4.8,4.8,4.9,4.7,Billet Silver Metallic Clearcoat
+467,gmc,acadia denali,2021,11727,47995.0,5.0,4.9,4.9,5.0,4.9,Ebony Twilight Metallic
+468,land,rover range rover velar p250  r-dynamic,2019,21369,56900.0,3.7,4.2,3.3,4.5,2.9,Aruba
+469,nissan,frontier s,2018,25982,22987.0,4.6,4.4,4.7,4.6,4.8,Brilliant Silver
+470,gmc,yukon  denali,2021,17746,88990.0,5.0,5.0,5.0,5.0,5.0,Onyx Black
+471,lincoln,navigator l select,2017,60122,41900.0,5.0,4.7,5.0,5.0,5.0,–
+472,audi,q5 2.0t premium,2019,50235,38965.0,4.8,4.6,4.7,4.7,4.7,Mythos Black Metallic
+473,bmw,x1 xdrive28i,2018,19137,31590.0,4.7,4.7,4.8,4.8,4.8,Dark Olive Metallic
+474,toyota,tundra,2021,8425,49490.0,4.9,4.8,4.8,4.9,4.9,–
+475,audi,q5 premium,2021,14639,42613.0,4.6,4.4,4.7,4.5,4.7,Black
+476,jeep,cherokee,2019,32771,24750.0,4.8,4.7,4.5,4.7,4.6,Sting Gray Clearcoat
+477,land,rover range rover velar s,2020,37738,52500.0,4.2,4.5,4.1,4.9,4.2,Narvik Black
+478,kia,sportage,2020,46562,22891.0,4.8,4.8,4.8,4.8,4.9,Hyper Red
+479,audi,q7 45 premium,2021,11554,57078.0,4.9,4.7,4.6,4.9,4.3,Navarra Blue Metallic
+480,volvo,s60 t6 momentum,2019,37507,33899.0,4.9,5.0,4.9,5.0,5.0,Gray
+481,acura,rdx technology package,2018,44502,31595.0,4.8,4.7,4.7,4.7,4.9,Gray
+482,audi,q5 3.0t premium,2014,86687,19785.0,4.7,4.7,4.7,4.8,4.7,Cuvee Silver Metallic
+483,nissan,rogue s,2020,18447,21995.0,4.9,4.7,4.7,4.8,4.8,Magnetic Black
+484,ford,edge titanium,2018,42594,28507.0,4.9,4.8,4.8,4.8,4.8,Shadow Black
+485,bmw,x5 m50i,2020,25578,66450.0,4.8,4.8,4.8,4.7,4.7,Black
+486,bmw,328 i xdrive,2011,116399,10997.0,4.5,4.5,4.6,4.7,4.4,Black Sapphire Metallic
+487,honda,passport -l,2021,17862,38788.0,4.9,4.7,4.9,4.8,4.8,Crystal Black Pearl
+488,bmw,x3 m40i,2018,19772,45991.0,4.9,4.9,4.8,4.9,4.6,Dark Graphite Metallic
+489,subaru,ascent premium 8-passenger,2019,31766,31500.0,4.7,4.6,4.6,4.6,4.5,Crystal Black Silica
+490,toyota,mirai,2019,12321,23989.0,3.7,3.3,2.3,3.0,2.0,Crystal White
+491,mercedes-benz,c-class c 300,2020,31652,37792.0,4.8,4.8,4.8,4.7,4.1,Gray Metallic
+492,toyota,rav4,2020,17797,30365.0,4.8,4.8,4.7,4.8,4.8,Magnetic Gray Metallic
+493,toyota,prius four,2017,48840,28860.0,4.7,4.5,4.8,4.6,4.9,Classic Silver Metallic
+494,mercedes-benz,e-class e 63 amg s-model 4matic,2015,48765,53893.0,4.8,4.7,4.8,4.8,4.8,Polar White
+495,mercedes-benz,gl-class gl 450 4matic,2015,46570,33991.0,4.8,4.7,4.8,4.8,4.6,Palladium Silver Metallic
+496,toyota,rav4,2017,45991,27932.0,4.8,4.7,4.7,4.8,4.9,Blizzard Pearl
+497,tesla,model x long range,2020,36199,94981.0,4.2,4.0,4.8,4.2,4.4,White
+498,land,rover range rover velar p250 s,2019,32660,48945.0,3.7,4.2,3.3,4.5,2.9,Byron Blue
+499,lexus,rx 350 rx 350,2019,19124,43739.0,4.8,4.8,4.8,4.9,4.8,Nightfall Mica
+500,mitsubishi,outlander  2.0 es,2021,18182,26225.0,4.8,4.7,4.8,4.8,5.0,Blue
+501,volvo,xc60 t6 momentum,2018,40750,40962.0,4.9,4.9,4.8,4.9,4.8,Electric Silver Metallic
+502,volvo,xc60 t6 momentum,2019,33741,42964.0,5.0,4.9,4.9,4.9,4.9,Crystal White Pearl Metallic
+503,subaru,ascent  8-passenger,2019,39785,37000.0,4.7,4.6,4.6,4.6,4.5,Crystal Black Silica
+504,mercedes-benz,amg g 63,2017,30230,127999.0,4.3,4.3,5.0,5.0,5.0,Black
+505,ford,edge titanium,2019,13232,34980.0,4.8,4.7,4.7,4.8,4.7,Magnetic Metallic
+506,chevrolet,trax ls,2019,34881,19985.0,4.4,4.3,4.2,4.5,4.4,Storm Blue Metallic
+507,lexus,gx 460,2018,46213,41880.0,4.8,4.5,4.5,4.6,4.9,Gray
+508,jaguar,f-pace 30t prestige,2019,32391,40880.0,4.8,4.8,4.8,4.9,4.6,Santorini Black
+509,audi,a7 3.0t prestige,2019,63460,51900.0,5.0,5.0,4.9,4.9,4.7,Mythos Black Metallic
+510,subaru,outback 2.5i premium,2018,45322,21300.0,4.8,4.7,4.6,4.7,4.8,Ice Silver Metallic
+511,lexus,rx 350l l,2018,29594,43998.0,4.7,4.7,4.5,4.6,4.6,Gray
+512,nissan,rogue,2017,24368,25825.0,4.7,4.7,4.6,4.8,4.7,Palatial Ruby
+513,toyota,rav4,2021,48705,33000.0,4.8,4.8,4.8,4.9,4.9,Silver
+514,mercedes-benz,gls 580  4matic,2021,7359,122999.0,5.0,5.0,5.0,5.0,5.0,Diamond White
+515,jaguar,e-pace,2020,14991,46529.0,5.0,4.0,5.0,5.0,5.0,Fuji White
+516,ram,1500 laramie,2020,30873,50890.0,4.9,4.9,4.8,4.8,4.7,Diamond Black
+517,jeep,grand cherokee,2014,151281,16980.0,4.7,4.6,4.5,4.8,4.3,Billet Silver Metallic Clearcoat
+518,bmw,z4 sdrive35i,2014,33580,34500.0,4.8,4.9,4.9,5.0,5.0,Alpine White
+519,tesla,model 3 long range,2019,30935,56731.0,4.9,4.9,5.0,4.9,5.0,Pearl White Multi
+520,land,rover defender 110 hse,2020,17506,77900.0,4.3,4.5,4.3,4.3,3.7,Santorini Black
+521,bmw,x4 xdrive30i,2021,22282,56995.0,5.0,5.0,5.0,5.0,5.0,Black Sapphire Metallic
+522,lexus,rx 350,2018,32503,43027.0,4.8,4.9,4.8,4.8,4.8,Obsidian Black
+523,lincoln,corsair reserve,2020,31550,38988.0,4.7,4.7,4.4,4.7,4.4,Black
+524,chevrolet,corvette stingray,2015,15160,51995.0,4.6,4.8,5.0,5.0,4.7,Laguna Blue
+525,toyota,rav4,2021,11545,33045.0,4.8,4.8,4.8,4.9,4.9,Silver Sky Metallic
+526,gmc,sierra 1500 denali,2016,36205,43500.0,4.7,4.6,4.6,4.7,4.7,Onyx Black
+527,honda,accord,2019,45840,27439.0,4.7,4.8,4.7,4.8,4.8,Crystal Black Pearl
+528,cadillac,xt5 premium luxury,2019,34273,37855.0,4.8,4.7,4.6,4.7,4.5,Stellar Black Metallic
+529,volvo,xc90 t6 momentum 7 passenger,2020,48957,43419.0,4.9,4.8,4.6,4.9,4.7,Onyx Black Metallic
+530,hyundai,palisade,2021,18521,44922.0,4.9,4.9,4.8,4.9,4.8,Becketts Black
+531,bmw,330 i,2021,16554,44471.0,4.8,4.8,4.9,4.9,4.7,Black Sapphire Metallic
+532,honda,passport -l,2019,22755,35708.0,4.8,4.7,4.7,4.7,4.8,Black Forest Pearl
+533,ford,focus,2009,120000,3995.0,4.3,4.2,4.3,4.3,4.4,Vista Blue Metallic
+534,mercedes-benz,e-class e 300,2018,37965,33888.0,4.9,5.0,4.8,4.9,4.8,Black
+535,bmw,x5 xdrive35i,2018,39515,40900.0,4.8,4.9,4.9,4.9,4.8,Jet Black
+536,toyota,highlander hybrid,2020,15419,51995.0,4.8,4.6,4.6,4.6,4.8,White
+537,jeep,gladiator rubicon,2020,17510,52800.0,4.7,4.7,4.6,4.8,4.6,Granite Crystal Clearcoat Metallic
+538,jaguar,f-pace 25t prestige,2020,25971,49975.0,4.8,4.8,5.0,5.0,4.8,Santorini Black
+539,honda,hr-v,2019,84856,14999.0,4.6,4.6,4.4,4.8,4.7,Gray
+540,mercedes-benz,amg gle 43 coupe 4matic,2019,41678,57595.0,5.0,5.0,5.0,5.0,5.0,Black
+541,bmw,x3 xdrive30i,2021,15883,46593.0,4.8,4.7,4.8,4.8,4.6,Alpine White
+542,ford,explorer xlt,2019,45294,24999.0,4.8,4.8,4.8,4.9,4.8,–
+543,acura,mdx 3.5l w/technology package,2017,48579,33501.0,4.7,4.5,4.5,4.8,4.7,Black
+544,bmw,328d xdrive,2018,32698,40998.0,4.9,4.8,4.9,4.7,4.6,Mineral Gray Metallic
+545,mazda,cx-9 signature,2020,54292,41748.0,4.8,4.8,4.7,4.9,4.9,Snowflake White Pearl
+546,lexus,es 350 f,2021,21193,50895.0,5.0,5.0,5.0,5.0,5.0,Ultra White
+547,kia,forte s,2018,19635,17991.0,4.8,4.7,4.7,4.8,4.8,Blue
+548,gmc,sierra 1500 slt,2014,59554,33490.0,4.6,4.5,4.3,4.7,4.3,Iridium Metallic
+549,gmc,terrain slt,2019,33405,28977.0,4.7,4.6,4.5,4.8,4.4,Smokey Quartz Metallic
+550,toyota,rav4 hybrid,2017,48269,32656.0,4.6,4.6,4.7,4.7,4.8,Silver
+551,dodge,charger sxt,2019,49183,19999.0,4.8,4.8,4.9,5.0,4.9,GRAY
+552,bmw,335 335i,2008,110012,7900.0,4.4,4.5,4.8,4.6,4.1,Jet Black
+553,jaguar,f-pace svr,2020,20214,78965.0,4.8,4.8,5.0,5.0,4.8,Yulong White
+554,bmw,750 li,2007,99320,7995.0,4.6,4.5,4.6,4.6,4.0,Silver
+555,toyota,highlander,2019,40355,40500.0,4.8,4.7,4.6,4.7,4.6,Salsa Red Pearl
+556,ford,edge titanium,2017,40694,28999.0,4.8,4.7,4.7,4.8,4.7,Burgundy Velvet Metallic Tinted Clearcoat
+557,hyundai,santa fe  ultimate,2017,52800,27995.0,4.8,4.8,4.7,4.8,4.9,Becketts Black
+558,gmc,acadia denali,2017,57000,32000.0,4.7,4.6,4.6,4.7,4.6,Black
+559,mercedes-benz,e-class e 350 4matic,2016,48988,28434.0,4.8,4.8,4.7,4.8,4.7,Black
+560,chevrolet,traverse lt cloth,2020,36700,27999.0,4.8,4.9,4.9,4.9,4.8,Gray
+561,bmw,x5 xdrive50i,2015,30203,35900.0,4.8,4.8,4.9,4.8,4.5,Carbon Black Metallic
+562,honda,cr-v,2005,128398,9422.0,4.2,4.3,4.1,4.3,4.7,Nighthawk Black Pearl
+563,audi,s4 3.0t premium,2014,54659,29455.0,4.7,4.9,4.7,4.7,4.5,Brilliant Black
+564,lincoln,mkx select,2018,39118,29939.0,4.8,4.8,4.7,4.8,4.7,Black Velvet
+565,kia,optima s,2018,71258,14999.0,4.9,4.8,4.8,4.9,4.9,White
+566,mercedes-benz,glb 250  4matic,2020,18995,41500.0,4.6,4.7,4.1,4.5,3.3,Denim Blue Metallic
+567,jeep,grand cherokee,2021,17434,49995.0,4.7,4.7,4.7,4.7,4.7,Diamond Black
+568,toyota,camry,2020,34631,29138.0,4.7,4.7,4.7,4.8,4.8,Midnight Black Metallic
+569,gmc,acadia denali,2019,41356,35998.0,4.8,4.7,4.8,4.8,4.9,Black
+570,lexus,rx 350,2019,31120,40390.0,4.8,4.8,4.8,4.9,4.8,Nebula Gray Pearl
+571,mercedes-benz,gle 350,2017,82077,32995.0,4.9,4.8,4.8,4.8,4.9,Black
+572,mazda,cx-5 grand touring,2020,19985,31888.0,4.9,4.9,4.8,4.9,4.9,Machine Gray Metallic
+573,volkswagen,tiguan 2.0t sel premium r-line,2021,10066,40401.0,4.7,4.6,4.7,4.9,4.8,Platinum Gray Metallic
+574,land,rover range rover 5.0l supercharged autobiography,2014,58783,55995.0,4.9,4.9,4.8,4.8,4.4,Santorini Black Metallic
+575,land,rover range rover 3.0l supercharged hse,2015,55108,45995.0,4.8,4.6,4.5,4.9,4.5,Santorini Black
+576,lexus,rx 350 f  appearance,2021,19775,53188.0,4.8,4.8,4.8,4.7,4.8,Nightfall Mica
+577,volvo,xc60 t6 inscription,2019,37177,42380.0,5.0,4.9,4.9,4.9,4.9,Onyx Black
+578,ford,escape titanium,2015,39046,21000.0,4.6,4.5,4.6,4.7,4.6,Tuxedo Black
+579,chevrolet,silverado 1500 2lt,2017,108424,27400.0,4.8,4.7,4.7,4.9,4.7,Black
+580,porsche,macan,2020,16772,53533.0,4.4,4.5,4.5,4.6,4.5,White
+581,lexus,gs 350 f,2018,36949,41999.0,5.0,5.0,4.9,4.9,4.9,Ultra White
+582,tesla,model 3 long range,2021,7900,58000.0,3.0,4.0,5.0,4.0,1.0,Red
+583,volvo,xc60 t5 momentum,2018,42069,35419.0,4.9,4.9,4.8,4.9,4.8,Gray
+584,lexus,gx 460,2019,15494,46286.0,4.8,4.6,4.6,4.6,4.8,Starfire Pearl
+585,lexus,nx 200t f,2017,48496,31990.0,4.8,4.7,4.7,4.8,4.9,Nebula Gray Pearl
+586,lexus,rx 450h 450h,2018,86263,39235.0,4.8,4.8,4.9,4.9,4.8,Nebula Gray Pearl
+587,lexus,es 350,2012,35701,21999.0,4.9,4.7,4.7,4.6,4.9,Nebula Gray Pearl
+588,honda,cr-v -l,2020,23563,34988.0,4.9,4.8,4.8,4.9,4.9,Black
+589,subaru,outback 3.6r,2019,52570,30975.0,4.8,4.7,4.7,4.7,4.7,Tungsten Metallic
+590,ford,fusion titanium,2020,62139,23500.0,4.8,4.8,4.7,4.9,4.8,Agate Black Metallic
+591,toyota,tundra 1794,2017,37575,45212.0,4.8,4.5,4.8,4.8,4.9,Super White
+592,bmw,x5 xdrive40i,2021,18375,60227.0,4.9,5.0,4.9,4.9,4.9,Black Sapphire Metallic
+593,hyundai,santa fe   ultimate,2019,19852,36250.0,4.8,4.9,4.8,4.9,4.9,Becketts Black
+594,nissan,titan pro-4x,2021,13917,34950.0,4.8,4.8,4.5,4.6,4.6,Baja Storm
+595,lexus,rx 350,2015,81912,23999.0,4.8,4.7,4.7,4.7,4.9,Black
+596,bmw,x7 xdrive40i,2021,17307,78000.0,5.0,5.0,4.9,5.0,5.0,Black Sapphire Metallic
+597,lexus,rx 350,2013,119349,18495.0,4.7,4.7,4.6,4.8,4.8,Gray
+598,bmw,x4 xdrive30i,2019,30537,45480.0,4.6,4.9,4.7,4.8,4.5,Dark Graphite
+599,toyota,rav4  premium,2021,15755,39011.0,4.8,4.8,4.8,4.9,4.9,Silver Sky Metallic
+600,ford,escape titanium,2019,20169,31999.0,4.8,4.7,4.7,4.7,4.7,Black
+601,hyundai,tucson,2022,10735,36995.0,4.9,4.9,4.3,4.9,4.5,Shimmering Silver
+602,jeep,wrangler unlimited sahara,2020,18114,48500.0,4.8,4.8,4.8,4.9,4.8,Bikini Pearlcoat
+603,audi,q7 3.0t prestige,2017,89957,32792.0,4.9,4.8,4.7,4.7,4.6,Graphite Gray Metallic
+604,genesis,gv70 3.5t,2022,3595,64995.0,5.0,5.0,5.0,5.0,5.0,Vik Black
+605,cadillac,escalade luxury,2017,50636,53000.0,4.6,4.5,4.3,4.8,4.1,Dark Granite Metallic
+606,toyota,camry xse,2020,32870,35988.0,4.7,4.7,4.7,4.8,4.8,Midnight Black Metallic
+607,gmc,acadia denali,2020,19026,49667.0,4.8,4.8,4.9,4.9,4.6,Dark Sky Metallic
+608,bmw,740 i,2016,48240,37998.0,5.0,5.0,4.2,5.0,4.8,White
+609,buick,envision essence,2020,39369,31000.0,4.9,4.7,5.0,4.9,5.0,Ebony Twilight Metallic
+610,hyundai,palisade calligraphy,2021,11474,50289.0,4.9,4.9,4.8,4.9,4.8,Burgundy
+611,acura,mdx 3.5l acurawatch  package,2016,94997,22999.0,4.7,4.5,4.5,4.5,4.6,Crystal Black Pearl
+612,ford,escape sel,2020,17137,28961.0,4.7,4.6,4.5,4.7,4.6,Desert Gold Metallic
+613,ford,fusion sel,2020,18399,22949.0,4.8,4.8,4.7,4.9,4.8,Silver
+614,honda,cr-v,2019,29586,25500.0,4.8,4.8,4.7,4.8,4.8,Platinum White Pearl
+615,honda,accord -l,2017,47293,23863.0,4.8,4.8,4.8,4.8,4.9,White Orchid Pearl
+616,kia,sorento,2019,34836,25277.0,4.8,4.8,4.7,4.8,4.8,Gravity Gray
+617,jeep,grand cherokee,2020,37389,37899.0,4.9,4.8,4.8,4.9,4.8,Granite Crystal Clearcoat Metallic
+618,nissan,murano,2020,5976,39384.0,4.9,4.8,4.9,4.9,4.8,Black
+619,gmc,acadia slt-1,2019,47763,33201.0,4.8,4.7,4.8,4.8,4.9,Smokey Quartz Metallic
+620,audi,q5 2.0t tech premium,2018,53089,29998.0,4.7,4.7,4.7,4.7,4.6,Brilliant Black
+621,cadillac,cts 2.0l turbo luxury,2019,55240,33252.0,4.9,4.9,5.0,4.9,4.9,Stellar Black Metallic
+622,honda,cr-v touring,2019,21972,37750.0,4.8,4.8,4.7,4.8,4.8,Orange
+623,bmw,m550 m550i xdrive,2018,68195,43995.0,4.8,4.8,4.9,4.5,4.2,Azurite Black Metallic
+624,mitsubishi,outlander,2012,96904,8000.0,3.9,3.6,4.1,4.4,4.3,Red
+625,mercedes-benz,cls-class cls 63 amg s-model 4matic,2014,34341,50411.0,4.8,4.8,5.0,5.0,4.8,Black
+626,kia,seltos s,2021,17319,27391.0,4.8,4.8,4.7,4.9,4.8,Mars Orange
+627,chrysler,pacifica touring-l,2020,17393,39995.0,4.9,4.8,4.7,4.9,4.7,Billet Silver Metallic Clearcoat
+628,acura,tlx v6 tech,2015,129999,18300.0,4.7,4.5,4.4,4.6,4.5,Crystal Black Pearl
+629,chrysler,aspen,2008,141440,4971.0,4.9,4.7,4.9,4.7,4.8,Burgundy
+630,bmw,x1 xdrive28i,2019,45309,32499.0,4.8,4.6,4.8,4.8,4.6,Brown Metallic
+631,bmw,x7 xdrive40i,2019,43029,64060.0,4.5,4.6,4.0,4.5,3.5,Black Sapphire Metallic
+632,kia,sorento,2019,46496,31000.0,4.8,4.8,4.7,4.8,4.8,Dragon Brown
+633,lexus,gs 350 f,2020,32175,46411.0,5.0,5.0,5.0,5.0,5.0,Black
+634,toyota,4runner trd pro,2019,37515,49743.0,4.8,4.7,4.8,4.8,4.9,Midnight Black Metallic
+635,mercedes-benz,glb 250  4matic,2022,11565,44980.0,4.8,5.0,4.8,4.8,5.0,Polar White
+636,bmw,330 i xdrive,2018,48309,33998.0,4.9,4.7,4.9,4.8,4.8,White
+637,toyota,rav4,2014,124703,17336.0,4.3,4.2,4.4,4.5,4.6,Pyrite Mica
+638,subaru,outback 2.5i premium,2016,81296,21292.0,4.7,4.6,4.7,4.7,4.8,White
+639,lexus,rx 350 f,2019,28147,46499.0,4.8,4.8,4.8,4.9,4.8,Matador Red Mica
+640,audi,q7 3.0t premium,2017,67203,33398.0,4.9,4.8,4.7,4.7,4.6,Ink Blue Metallic
+641,mazda,cx-5 grand touring,2017,108339,21988.0,4.8,4.8,4.7,4.8,4.8,Snowflake White Pearl Metallic
+642,cadillac,cts 3.6l luxury,2019,37015,34000.0,4.9,4.9,5.0,4.9,4.9,Crystal White Tri-Coat
+643,lexus,is 300 is 300 f,2019,17150,39996.0,5.0,4.8,4.8,5.0,5.0,Obsidian Black
+644,cadillac,xt5 luxury,2018,47758,34793.0,4.8,4.8,4.7,4.9,4.8,Stellar Black Metallic
+645,chrysler,200,2015,119417,4250.0,4.5,4.5,4.2,4.6,4.2,Maroon
+646,ford,explorer,2020,52034,42598.0,4.7,4.6,4.5,4.7,4.3,Magnetic
+647,jeep,grand cherokee summit,2020,30519,46888.0,4.9,4.8,4.8,4.9,4.8,Diamond Black
+648,acura,rdx technology package,2021,10769,44872.0,4.9,4.9,4.7,4.9,4.8,Apex Blue Pearl
+649,mercedes-benz,a-class a 220 4matic,2019,47796,31000.0,4.6,4.7,4.4,4.7,4.3,Midnight Black
+650,cadillac,ct6 3.0l twin turbo luxury,2016,72323,33829.0,4.9,4.9,4.8,5.0,4.6,Dark Emerald Metallic
+651,mercedes-benz,e-class e 350 4matic,2021,11545,66161.0,5.0,5.0,5.0,4.6,4.3,Selenite Gray Metallic
+652,toyota,prius,2020,45031,29719.0,4.8,4.7,4.7,4.8,4.6,Magnetic Gray Metallic
+653,cadillac,xt6 premium luxury fwd,2021,14164,59441.0,4.8,4.9,4.8,5.0,5.0,Satin Steel Metallic
+654,cadillac,xt5,2020,16975,49999.0,4.9,4.7,4.7,4.8,4.8,Radiant Silver Metallic
+655,toyota,4runner,2020,40504,45991.0,4.8,4.7,4.7,4.8,4.9,Midnight Black
+656,gmc,acadia slt,2020,55633,32002.0,4.8,4.8,4.9,4.9,4.6,Ebony
+657,toyota,highlander,2019,18147,34995.0,4.8,4.7,4.6,4.7,4.6,Blizzard Pearl
+658,bmw,m550 i xdrive,2018,42989,47994.0,4.8,4.8,4.9,4.5,4.2,Bluestone Metallic
+659,ram,1500,2020,17076,56552.0,4.9,4.9,4.8,4.8,4.7,Billet Silver Metallic Clearcoat
+660,mercedes-benz,g-class g 550,2014,65753,77992.0,5.0,5.0,5.0,5.0,5.0,Black
+661,cadillac,xts luxury,2018,35592,29895.0,4.8,4.9,4.8,4.9,4.9,Stone Gray Metallic
+662,nissan,altima 2.5,2019,14090,24890.0,4.7,4.7,4.6,4.8,4.7,Pearl White Tricoat
+663,bmw,435 i xdrive,2014,59517,22995.0,4.8,4.7,4.9,5.0,4.8,Alpine White
+664,porsche,cayenne gts,2016,47122,56998.0,4.9,4.8,4.9,4.9,4.9,White
+665,bmw,x1 xdrive 28i,2016,48743,25500.0,4.5,4.5,4.8,4.8,4.7,Jet Black
+666,land,rover range rover evoque  premium,2019,24132,37990.0,4.2,4.3,3.7,4.6,3.5,Narvik Black
+667,land,rover range rover hse,2020,18394,96481.0,4.8,4.6,4.4,5.0,4.8,SVO Green
+668,mercedes-benz,cla 250,2020,27590,38927.0,5.0,5.0,5.0,5.0,5.0,Cosmos Black Metallic
+669,ford,expedition,2020,36135,59965.0,5.0,4.9,4.9,4.9,4.8,Magnetic
+670,acura,rdx technology package,2019,38517,35863.0,4.6,4.5,4.2,4.6,4.2,White Diamond Pearl
+671,ram,1500,2019,54769,45574.0,4.8,4.9,4.7,4.8,4.5,Diamond Black
+672,nissan,armada,2017,84023,33995.0,4.8,4.7,4.8,4.7,4.6,Pearl White
+673,tesla,model x 70d,2016,49602,71992.0,4.8,4.7,4.8,4.7,4.6,Black
+674,mercedes-benz,amg e 53  4matic,2019,18142,67970.0,4.7,5.0,4.8,5.0,4.5,Black
+675,kia,sorento  v6,2020,47159,29991.0,4.8,4.7,4.7,4.8,4.7,Gray
+676,lincoln,mkz reserve,2020,43141,41782.0,4.8,4.8,4.8,4.9,4.8,Ceramic Pearl Metallic
+677,infiniti,qx60 luxe,2020,46402,38995.0,4.9,4.7,4.7,4.8,4.9,Majestic White
+678,acura,rdx a-spec,2020,34863,41998.0,4.8,4.7,4.7,4.8,4.6,Gunmetal Metallic
+679,bmw,540 i,2019,30161,47995.0,4.9,4.9,5.0,5.0,4.8,Jet Black
+680,lexus,gx 460,2015,56076,37694.0,4.9,4.8,4.5,4.8,5.0,Black Onyx
+681,honda,pilot -l,2020,17451,43000.0,4.6,4.6,4.3,4.5,4.1,Modern Steel Metallic
+682,land,rover range rover evoque s,2020,19590,44995.0,4.6,4.5,3.7,4.7,3.5,Narvik Black
+683,nissan,titan pro-4x,2020,36242,50698.0,4.9,4.8,4.8,4.9,4.8,Black
+684,ford,explorer xlt,2020,30843,35752.0,4.7,4.6,4.5,4.7,4.3,Black
+685,ford,f-150 lariat,2017,35876,22995.0,4.9,4.8,4.8,4.8,4.8,Ruby Red Metallic Tinted Clearcoat
+686,subaru,outback 2.5i premium,2017,33592,18374.0,4.8,4.7,4.7,4.7,4.8,Ice Silver Metallic
+687,ford,flex,2012,115250,14998.0,4.9,4.7,4.6,4.7,4.6,Silver
+688,mercedes-benz,amg c 43  4matic,2020,23260,64999.0,5.0,4.7,5.0,5.0,5.0,Obsidian Black Metallic
+689,infiniti,qx80,2017,61528,41578.0,5.0,4.8,4.8,4.9,4.8,Black
+690,nissan,sentra s,2019,30762,18990.0,4.7,4.7,4.6,4.7,4.7,Brilliant Silver Metallic
+691,lexus,nx 200t f,2016,83378,29000.0,4.9,4.8,4.9,4.9,5.0,Nebula Gray Pearl
+692,jaguar,xk,2007,87162,18900.0,4.7,4.8,4.9,4.9,4.5,Silver
+693,toyota,corolla,2020,80427,18496.0,4.7,4.7,4.7,4.8,4.8,Classic Silver Metallic
+694,mercedes-benz,gls 450 gls 450,2018,39525,50944.0,4.8,4.8,4.8,4.6,4.8,Gray
+695,ram,1500 rebel,2021,17254,59995.0,4.9,4.9,4.8,4.9,4.8,Granite Crystal Clearcoat Metallic
+696,hyundai,santa fe  2.4,2020,36759,32488.0,4.9,4.8,4.7,4.9,4.9,Shimmering Silver Pearl
+697,lexus,gs 350,2016,55444,34998.0,4.9,4.6,4.7,4.9,5.0,Black
+698,mercedes-benz,m-class ml 350,2015,82601,23489.0,4.8,4.8,4.6,4.7,4.7,–
+699,mercedes-benz,amg c 63,2018,40310,51995.0,4.5,4.7,4.7,5.0,4.3,Black
+700,chevrolet,suburban lt,2018,56064,47385.0,4.9,4.9,4.9,4.9,4.9,Black
+701,gmc,acadia sle,2020,15927,34290.0,4.8,4.8,4.9,4.9,4.6,Ebony Twilight Metallic
+702,alfa,romeo giulia,2020,19804,32990.0,5.0,5.0,5.0,5.0,4.6,Alfa Black
+703,porsche,cayenne,2020,14520,78300.0,4.6,4.4,4.6,4.9,4.1,Mahogany Metallic
+704,audi,e-tron prestige,2019,32675,62999.0,4.8,4.8,4.3,4.8,4.3,Daytona Gray Pearl Effect
+705,chevrolet,impala ls,2013,107018,8495.0,4.4,4.1,4.5,4.1,4.4,White
+706,acura,mdx 3.5l,2019,35969,35999.0,4.6,4.7,4.6,4.7,4.8,Black
+707,acura,mdx 3.5l w/advance package,2019,19563,37988.0,4.6,4.7,4.6,4.7,4.8,Gunmetal Metallic
+708,bmw,m4,2015,38452,43713.0,4.6,4.7,4.9,4.9,4.8,Orange
+709,audi,r8 4.2,2015,35857,90086.0,4.4,4.6,4.9,5.0,5.0,Black
+710,honda,pilot -l w/navigation/res,2019,78480,33169.0,4.9,4.8,4.7,4.7,4.8,White
+711,acura,rdx  (a10),2019,17223,38787.0,4.6,4.5,4.2,4.6,4.2,Majestic Black Pearl
+712,bmw,x5 xdrive50i,2019,35402,63999.0,5.0,4.9,4.9,4.7,4.6,Carbon Black Metallic
+713,hyundai,santa fe  2.4,2019,36111,26481.0,4.9,4.9,4.6,4.9,4.8,Lava Orange
+714,mercedes-benz,gla 250  4matic,2019,15682,33730.0,4.6,4.5,4.6,4.7,4.7,Polar White
+715,lexus,rx 350,2017,53895,34500.0,4.8,4.7,4.6,4.7,4.8,Atomic Silver
+716,jaguar,f-type r,2017,12555,68995.0,4.5,4.8,4.8,4.9,4.7,Italian Racing Red
+717,porsche,panamera 4,2013,86927,32457.0,4.8,4.8,4.8,4.8,4.4,Blue
+718,infiniti,qx80 premium select,2021,14076,73000.0,4.5,4.0,4.5,4.5,4.5,Mineral Black
+719,tesla,model y performance,2020,19795,69999.0,3.9,3.8,4.1,3.8,4.0,Silver Gray
+720,volvo,xc90 t5 momentum,2019,22127,46962.0,4.9,4.7,4.8,4.8,4.6,Onyx Black Metallic
+721,lincoln,mkc reserve,2019,34801,31250.0,4.8,4.8,4.7,4.9,4.8,Ruby Red Metallic Tinted Clearcoat
+722,mercedes-benz,a-class a 220,2019,30150,32985.0,4.6,4.7,4.4,4.7,4.3,Cosmos Black Metallic
+723,toyota,highlander,2021,34206,42000.0,4.9,4.8,4.8,4.8,4.9,Midnight Black
+724,lexus,es 350 f,2019,35760,42195.0,4.7,4.6,4.6,4.7,4.6,Black
+725,ford,expedition xlt,2020,18443,55500.0,5.0,4.9,4.9,4.9,4.8,Black
+726,ford,explorer,2019,45000,27612.0,4.8,4.8,4.8,4.9,4.8,Agate Black Metallic
+727,buick,lacrosse cxs,2011,115426,9995.0,4.6,4.5,4.3,4.7,4.3,White
+728,mercedes-benz,s-class s430,2001,46389,5995.0,5.0,4.7,4.8,4.7,4.5,–
+729,honda,pilot,2019,29285,29995.0,4.9,4.8,4.7,4.7,4.8,White
+730,lexus,ls 500,2018,31187,54857.0,4.6,4.8,4.6,4.9,4.6,Matador Red Mica
+731,toyota,sienna,2022,140,79450.0,5.0,4.3,4.7,4.7,5.0,Predawn Gray Mica
+732,audi,q8 3.0t prestige,2019,16322,70000.0,4.9,4.8,4.8,5.0,4.9,Orca Black Metallic
+733,cadillac,escalade esv premium,2012,55925,31898.0,5.0,4.9,4.9,4.9,5.0,Black Raven
+734,kia,telluride s,2020,16840,44998.0,4.9,4.9,4.8,4.9,4.9,Black
+735,lincoln,nautilus reserve,2020,12920,53995.0,4.9,4.8,4.8,4.9,4.8,White
+736,buick,encore essence,2019,16568,27987.0,4.7,4.6,4.6,4.8,4.7,White Frost Tri-Coat
+737,chevrolet,corvette stingray w/2lt,2021,1381,99444.0,4.8,4.9,5.0,4.9,4.8,Silver Flare Metallic
+738,jeep,grand cherokee trailhawk,2021,18183,48500.0,4.7,4.7,4.7,4.7,4.7,Diamond Black
+739,mercedes-benz,cla 250 cla 250,2019,19119,32437.0,3.9,4.0,4.1,4.5,4.3,Midnight Black
+740,acura,tlx v6,2018,33613,32703.0,4.8,4.7,4.7,4.8,4.8,Crystal Black Pearl
+741,volkswagen,tiguan 2.0t,2020,47162,24245.0,4.8,4.8,4.6,4.8,4.8,Pyrite Silver Metallic
+742,land,rover range rover  5.0l supercharged svr,2017,35809,71888.0,4.9,4.8,4.9,4.9,4.7,Santorini Black
+743,land,rover range rover  autobiography,2019,37352,83993.0,4.7,4.9,4.7,4.9,4.6,Santorini Black
+744,mercedes-benz,glc 300 4matic coupe,2020,63401,53900.0,4.9,4.9,4.7,4.9,4.7,Black
+745,lexus,nx 300,2020,33757,35998.0,4.8,4.8,4.8,4.8,4.9,Black
+746,ford,ranger lariat,2020,36126,37599.0,4.9,4.8,4.9,4.9,4.8,Shadow Black
+747,bmw,x1 xdrive28i,2021,15498,38699.0,5.0,5.0,5.0,5.0,5.0,Mineral Gray Metallic
+748,acura,tlx a-spec,2021,15263,44995.0,4.8,4.8,4.7,4.8,4.6,Majestic Black Pearl
+749,hyundai,veloster turbo,2014,129720,9599.0,4.4,4.5,4.4,4.8,4.4,Orange
+750,ford,mustang gt premium,2015,74639,22499.0,4.6,4.7,4.8,4.9,4.7,Red
+751,cadillac,xt6 premium luxury awd,2020,36627,47092.0,4.6,4.5,4.6,4.7,4.5,Stellar Black Metallic
+752,subaru,forester touring,2019,15767,33499.0,4.8,4.7,4.6,4.7,4.8,Jasper Green Metallic
+753,bmw,340 i xdrive,2016,50986,25856.0,4.5,4.6,4.8,4.7,4.6,White
+754,subaru,outback  xt,2021,15009,36795.0,4.9,4.8,4.7,4.8,4.8,Magnetite Gray Metallic
+755,jeep,wrangler unlimited,2021,10575,46877.0,4.9,5.0,4.9,4.9,4.8,Firecracker Red Clearcoat
+756,mercedes-benz,slk-class slk 250,2015,35720,32995.0,4.6,4.8,4.6,4.9,4.9,Polar White
+757,ram,1500,2021,18469,56975.0,4.9,4.9,4.8,4.9,4.8,Granite Crystal Clearcoat Metallic
+758,toyota,tacoma trd off road,2020,48416,38749.0,4.7,4.7,4.6,4.9,4.8,Silver Sky Metallic
+759,subaru,outback 2.5i,2017,86267,24998.0,4.8,4.7,4.7,4.7,4.8,Twilight Blue Metallic
+760,audi,a6 2.0t quattro,2018,68405,29992.0,4.7,4.7,4.7,4.8,4.9,Florett Silver Metallic
+761,toyota,tundra sr5,2021,16258,47941.0,4.9,4.8,4.8,4.9,4.9,Cement
+762,acura,rdx,2016,82103,23165.0,4.8,4.7,4.9,4.8,4.8,Crystal Black Pearl
+763,nissan,rogue sv,2021,11766,34880.0,4.9,4.8,4.6,4.9,4.6,Black
+764,jeep,grand cherokee laredo,2016,84046,22980.0,4.8,4.7,4.7,4.7,4.6,Granite Crystal Clearcoat Metallic
+765,jaguar,f-pace 35t r-,2017,39261,42998.0,4.6,4.5,4.9,4.9,4.6,Ultimate Black
+766,nissan,rogue,2019,20371,28901.0,4.8,4.8,4.6,4.8,4.7,Monarch Orange
+767,mazda,mazda3 i,2010,135380,6998.0,4.4,4.5,4.5,4.6,4.8,Gunmetal Blue Mica
+768,ford,expedition el,2017,92759,25999.0,4.9,4.6,4.8,4.7,4.8,Black
+769,kia,forte,2017,55089,14900.0,4.8,4.8,4.8,4.8,4.9,White
+770,jeep,wrangler unlimited rubicon,2016,47971,35575.0,4.3,4.5,4.5,4.7,4.7,Granite Crystal Clearcoat Metallic
+771,bmw,x6 xdrive35i,2019,27579,56983.0,4.0,4.5,3.5,4.8,3.5,Carbon Black Metallic
+772,mazda,cx-5 touring,2019,15100,27940.0,4.8,4.8,4.8,4.9,4.8,Jet Black Mica
+773,acura,rdx a-spec,2019,32335,41395.0,4.6,4.5,4.2,4.6,4.2,Majestic Black Pearl
+774,ford,explorer,2018,38176,35610.0,4.9,4.8,4.8,4.9,4.8,Platinum
+775,cadillac,dts,2007,69750,8000.0,4.8,4.6,4.6,4.5,4.4,Mystic Gray
+776,chevrolet,silverado 2500 ltz h/d crew cab,2008,226000,25000.0,4.4,4.4,4.6,4.5,4.6,Black
+777,nissan,murano,2017,36675,30489.0,4.9,4.8,4.8,4.8,4.8,Pearl White
+778,ford,f-150 lariat,2019,37000,31995.0,4.9,4.8,4.8,4.8,4.7,Black
+779,subaru,outback  xt,2020,35180,37923.0,4.9,4.7,4.6,4.8,4.7,Magnetite Gray Metallic
+780,ford,focus titanium,2013,100000,8000.0,3.9,4.0,3.3,4.3,3.3,Black
+781,bmw,m2,2018,33546,52180.0,4.6,4.8,5.0,4.9,5.0,Black Sapphire Metallic
+782,mazda,cx-9 grand touring,2019,25136,34239.0,5.0,4.9,4.9,5.0,4.9,Jet Black Mica
+783,jeep,grand cherokee summit,2019,58579,40800.0,4.9,4.9,4.8,4.9,4.8,Granite Crystal Clearcoat Metallic
+784,honda,pilot touring 8-passenger,2020,20418,45997.0,4.6,4.6,4.3,4.5,4.1,Modern Steel Metallic
+785,mercedes-benz,-class sl500 roadster,2003,21725,22999.0,4.6,4.5,4.6,4.8,3.8,Silver
+786,subaru,crosstrek 2.0i,2019,32767,28838.0,4.7,4.7,4.6,4.8,4.8,Ice Silver Metallic
+787,audi,rs 5 2dr 2.9 tfsi qtro,2021,6256,87895.0,5.0,5.0,5.0,5.0,5.0,Nardo Gray
+788,honda,cr-v -l,2017,67411,25964.0,4.8,4.8,4.7,4.8,4.8,Crystal Black Pearl
+789,chrysler,pacifica touring-l,2019,25569,32480.0,4.9,4.8,4.7,4.8,4.6,Brilliant Black Crystal Pearlcoat
+790,kia,optima,2019,40938,22287.0,4.8,4.9,4.7,4.9,4.8,Sangria Red
+791,subaru,impreza 2.0i premium,2016,90642,14200.0,4.4,4.4,4.5,4.6,4.6,Venetian Red Pearl
+792,subaru,outback,2021,17043,35450.0,4.9,4.8,4.7,4.8,4.8,Abyss Blue Pearl
+793,toyota,tundra 1794,2016,52042,44457.0,4.8,4.6,4.9,4.8,5.0,Midnight Black Metallic
+794,chevrolet,traverse high country,2020,32801,51994.0,4.8,4.9,4.9,4.9,4.8,Mosaic Black Metallic
+795,mitsubishi,mirage g4,2020,30912,17450.0,4.8,5.0,5.0,5.0,5.0,Mystic Black Metallic
+796,maserati,ghibli s q4,2019,38773,47880.0,5.0,4.7,5.0,5.0,5.0,Black
+797,toyota,rav4,2017,14781,27900.0,4.8,4.7,4.7,4.8,4.9,Barcelona Red Metallic
+798,kia,telluride,2020,67475,41250.0,4.9,4.9,4.8,4.9,4.9,Sangria Red
+799,infiniti,q50 3.0t luxe,2018,86963,26495.0,4.7,4.6,4.7,4.7,4.8,Pure White
+800,mercedes-benz,gla 250  4matic,2021,19000,38995.0,4.9,4.9,4.9,4.8,4.9,Midnight Black
+801,lincoln,navigator l select,2019,62653,51962.0,4.8,4.8,4.3,4.8,4.3,Infinite Black Metallic
+802,dodge,durango r/t,2020,49582,45000.0,5.0,4.8,4.9,4.9,4.8,Vice White
+803,lexus,es 350,2018,28847,33995.0,4.9,4.9,4.8,4.9,5.0,Caviar
+804,lexus,gx 460 luxury,2020,34020,66377.0,5.0,4.9,4.9,5.0,5.0,Black Onyx
+805,bmw,430 i xdrive,2019,33135,42995.0,4.9,4.8,5.0,5.0,5.0,Alpine White
+806,lincoln,mkz,2013,26464,19461.0,4.7,4.7,4.5,4.8,4.5,Gray
+807,mazda,mazda3 s,2011,116017,7999.0,4.4,4.3,4.6,4.6,4.6,Crystal White Pearl Mica
+808,honda,civic,2020,32758,25671.0,4.8,4.8,4.9,4.9,4.9,Platinum White Pearl
+809,mercedes-benz,g-class g 550 4matic,2019,38750,149999.0,4.4,4.2,4.4,4.2,4.2,Gray
+810,bmw,740 i xdrive,2019,35631,59900.0,5.0,4.0,4.5,4.0,4.5,Black Sapphire Metallic
+811,ford,flex sel,2019,46386,29995.0,4.9,4.8,4.7,4.7,4.8,Agate Black
+812,chevrolet,trax lt,2019,21964,21700.0,4.4,4.3,4.2,4.5,4.4,Mosaic Black
+813,audi,q7 55 premium,2019,57891,40330.0,4.8,4.6,4.8,4.8,4.6,Night Black
+814,land,rover range rover p525 hse westminster,2021,15582,123949.0,5.0,5.0,5.0,5.0,5.0,Eiger Grey
+815,bmw,328 i xdrive,2013,106830,13484.0,4.7,4.6,4.8,4.8,4.6,White Metallic
+816,chevrolet,silverado 1500 lt,2018,44800,35385.0,4.7,4.6,4.6,4.7,4.6,Black
+817,jeep,wrangler unlimited sahara,2019,14648,42500.0,4.5,4.7,4.7,4.8,4.7,Granite Crystal Clearcoat Metallic
+818,toyota,4runner,2006,89249,16663.0,4.5,4.5,4.7,4.6,4.8,Silver Gray
+819,honda,odyssey -l,2014,118850,17485.0,4.7,4.6,4.5,4.6,4.8,Alabaster Silver Metallic
+820,mercedes-benz,amg g 63,2020,6500,219000.0,4.0,4.7,4.0,4.7,3.7,Black
+821,jeep,wrangler unlimited rubicon,2006,93440,14995.0,3.8,4.1,4.4,4.7,4.4,Green
+822,subaru,forester  (cvt),2019,57527,23988.0,4.8,4.7,4.6,4.7,4.8,Horizon Blue Pearl
+823,acura,tlx technology,2018,46234,27892.0,4.8,4.7,4.7,4.8,4.8,Bellanova White Pearl
+824,cadillac,escalade esv luxury,2018,49109,58774.0,5.0,5.0,5.0,5.0,4.9,Dark Granite Metallic
+825,jeep,wrangler,2019,35610,34422.0,4.8,4.9,4.9,4.9,4.9,Black Clearcoat
+826,chevrolet,trax ls,2020,11725,18947.0,4.5,4.5,4.4,4.6,4.6,Satin Steel Metallic
+827,honda,odyssey -l w/navigation/res,2020,12050,35500.0,4.8,4.8,4.7,4.7,4.7,Gray
+828,acura,mdx 3.5l technology package,2015,86876,25875.0,4.8,4.7,4.8,4.6,4.8,White Diamond Pearl
+829,genesis,g90 5.0 ultimate,2017,45630,38417.0,4.9,4.9,4.8,4.8,4.8,London Gray
+830,volvo,s60 t5 momentum,2021,22229,34968.0,5.0,5.0,5.0,5.0,5.0,Osmium Gray Metallic
+831,mitsubishi,outlander  2.0,2021,15996,25999.0,4.8,4.7,4.8,4.8,5.0,Alloy Silver Metallic
+832,porsche,cayenne s,2016,71106,39995.0,4.9,4.8,4.9,4.9,4.9,Silver
+833,toyota,corolla,2022,16983,27854.0,5.0,5.0,5.0,5.0,5.0,Ruby Flare Pearl
+834,lexus,es 330  (a5),2005,227000,4998.0,4.9,4.7,4.6,4.6,4.9,White
+835,mercedes-benz,gle 350 4matic,2021,15312,64998.0,4.9,4.8,4.6,4.8,4.9,–
+836,bmw,x3 sdrive30i,2021,16211,45266.0,4.8,4.7,4.8,4.8,4.6,Jet Black
+837,mercedes-benz,s-class s 550,2015,48491,47991.0,4.9,4.9,4.9,4.9,4.8,Black
+838,cadillac,xt6 premium luxury fwd,2020,35064,49180.0,4.6,4.5,4.6,4.7,4.5,Stellar Black Metallic
+839,tesla,model 3 standard range,2021,15595,56472.0,3.0,4.0,5.0,4.0,1.0,Black
+840,toyota,camry,2020,19976,28900.0,4.7,4.7,4.7,4.8,4.8,Ruby Flare Pearl
+841,kia,sorento s,2021,11770,37900.0,4.9,4.9,4.7,4.9,4.7,Sparkling Silver
+842,bmw,530 i xdrive,2018,25581,36333.0,4.8,4.8,4.8,4.8,4.8,Imperial Blue Metallic
+843,infiniti,qx50,2017,48771,26992.0,4.8,4.6,4.7,4.8,4.8,Graphite Shadow
+844,gmc,terrain denali,2018,57272,32425.0,4.6,4.6,4.5,4.7,4.6,Mineral Metallic
+845,lexus,gx 460,2021,11586,59283.0,4.9,4.2,4.8,4.6,4.9,Starfire Pearl
+846,volkswagen,tiguan 2.0t,2021,14132,31480.0,4.7,4.6,4.7,4.9,4.8,Pure White
+847,toyota,rav4 hybrid,2016,52770,27900.0,4.6,4.6,4.7,4.7,4.9,Black Sand Pearl
+848,volvo,s60 t6 inscription,2021,19490,44000.0,5.0,5.0,5.0,5.0,5.0,Black
+849,subaru,forester 2.5i premium,2015,87281,17339.0,4.5,4.4,4.6,4.5,4.7,Ice Silver Metallic
+850,bentley,bentayga design edition,2020,786,236556.0,5.0,5.0,5.0,5.0,5.0,Glacier White
+851,volvo,s90 t6 momentum,2019,37229,34500.0,5.0,5.0,4.8,4.9,5.0,Black
+852,hyundai,kona sel,2019,12552,24993.0,4.8,4.7,4.7,4.9,4.8,Surf Blue
+853,ford,edge st,2019,36975,35000.0,4.8,4.7,4.7,4.8,4.7,White Platinum Tri-Coat Metallic
+854,mercedes-benz,amg glc 43  4matic,2019,14210,52977.0,4.9,4.9,4.9,5.0,5.0,Gray Metallic
+855,volkswagen,atlas 3.6l  w/technology,2018,68282,28040.0,4.8,4.7,4.5,4.8,4.6,Deep Black Pearl Effect
+856,ford,f-150,2017,87552,21995.0,4.9,4.8,4.8,4.8,4.8,White
+857,porsche,911 carrera 4s,2019,9250,135500.0,4.8,4.8,5.0,4.9,5.0,Black
+858,bmw,m2,2017,16189,50710.0,4.7,4.7,5.0,4.9,5.0,Black Sapphire Metallic
+859,audi,q8 3.0t premium,2019,36939,56899.0,4.9,4.8,4.8,5.0,4.9,Glacier White Metallic
+860,mitsubishi,outlander,2020,17224,20798.0,5.0,4.9,4.8,5.0,5.0,Black
+861,toyota,highlander hybrid,2022,29994,52955.0,5.0,5.0,5.0,5.0,5.0,Ruby Flare Pearl
+862,chevrolet,malibu lt,2020,19237,21889.0,4.8,4.8,4.8,4.9,4.9,Mosaic Black Metallic
+863,mercedes-benz,cla 250  4matic,2019,34132,31539.0,3.9,4.0,4.1,4.5,4.3,Gray
+864,tesla,model 3 long range,2018,10075,59699.0,4.7,4.7,4.9,4.7,4.6,Silver Metallic
+865,audi,s3 2.0t premium,2016,48421,32991.0,4.5,4.8,4.9,5.0,4.7,Florett Silver Metallic
+866,audi,q7 2.0t premium,2018,57905,38598.0,4.9,4.8,4.8,4.7,4.7,Orca Black Metallic
+867,chevrolet,cruze ls,2017,47937,13995.0,4.8,4.7,4.7,4.8,4.8,Black
+868,mazda,mazda6 touring,2021,32482,30089.0,5.0,5.0,5.0,5.0,5.0,Jet Black Mica
+869,honda,accord -l,2021,21469,36842.0,4.9,5.0,4.9,5.0,5.0,Crystal Black Pearl
+870,ford,escape,2020,14859,28100.0,4.7,4.6,4.5,4.7,4.6,Magnetic Metallic
+871,ford,flex,2018,99631,29950.0,4.9,4.7,4.6,4.7,4.7,Not Specified
+872,subaru,ascent premium 8-passenger,2020,18971,36495.0,4.8,4.8,4.8,4.9,4.8,Magnetite Gray Metallic
+873,lamborghini,aventador lp700-4,2013,25658,349995.0,4.5,5.0,5.0,5.0,4.5,–
+874,lincoln,aviator standard rwd,2020,33282,44962.0,4.4,4.4,4.1,4.5,3.5,Pristine White
+875,volvo,s90 t6 inscription,2018,52272,35989.0,4.9,4.9,4.7,4.9,4.8,Bright Silver Metallic
+876,chevrolet,cruze 1lt,2014,42700,11900.0,4.3,4.4,4.2,4.5,4.3,Blue
+877,lincoln,mkx,2013,75915,18249.0,4.8,4.6,4.6,4.7,4.7,White Platinum Tri-Coat Metallic
+878,land,rover range rover 3.0l v6 supercharged hse,2019,20059,90998.0,4.7,4.6,4.5,4.5,4.4,Corris Grey
+879,porsche,cayenne,2019,39875,66446.0,4.9,4.8,4.8,4.8,4.7,Quartzite Metallic
+880,toyota,rav4,2021,10337,43966.0,4.8,4.8,4.8,4.9,4.9,White
+881,volkswagen,tiguan 2.0t sel,2021,15433,32100.0,4.7,4.6,4.7,4.9,4.8,Platinum Gray Metallic
+882,alfa,romeo stelvio,2020,18786,36995.0,4.8,4.8,5.0,5.0,4.8,Alfa White
+883,gmc,acadia sle-1,2019,40959,30500.0,4.8,4.7,4.8,4.8,4.9,Smokey Quartz Metallic
+884,subaru,legacy 2.5i premium,2019,47775,25441.0,4.7,4.8,4.6,4.8,4.8,Crystal White Pearl
+885,toyota,corolla,2021,12568,26292.0,4.8,4.7,4.8,4.9,4.9,CELESTITE
+886,mercedes-benz,gla-class gla 250 4matic,2015,70125,22495.0,4.0,4.3,4.4,4.7,4.5,Blue Metallic
+887,jeep,renegade,2017,43482,21688.0,4.7,4.7,4.5,4.8,4.7,Anvil
+888,toyota,venza,2015,22865,27044.0,4.8,4.6,4.7,4.7,4.9,Black
+889,land,rover range rover velar p380  r-dynamic,2018,82814,48450.0,4.2,4.3,4.0,4.6,3.4,Silicon Silver
+890,hyundai,sonata,2021,10228,25599.0,4.8,4.8,4.7,4.9,4.8,Stormy Sea
+891,jeep,wrangler unlimited,2020,32339,40998.0,4.8,4.8,4.8,4.9,4.8,Black
+892,bmw,330 i xdrive,2021,12588,44740.0,4.8,4.8,4.9,4.9,4.7,Jet Black
+893,mercedes-benz,c-class c 300,2021,14527,41750.0,5.0,4.8,5.0,5.0,5.0,designo Graphite Gray Magno
+894,audi,rs 5 4.2,2014,47425,47455.0,4.7,4.9,4.8,4.9,4.8,Sepang Blue Pearl Effect
+895,porsche,911 turbo,2022,415,268699.0,5.0,5.0,5.0,5.0,5.0,Chalk
+896,mercedes-benz,s-class s 450 4matic,2019,28316,60995.0,5.0,4.8,4.4,4.7,4.3,Selenite Gray Metallic
+897,volvo,xc90 t6 momentum,2019,59546,40999.0,4.9,4.7,4.8,4.8,4.6,Black
+898,volvo,xc90 t6 inscription 6 passenger,2020,36637,52589.0,4.9,4.8,4.6,4.9,4.7,Thunder Gray Metallic
+899,subaru,outback 3.6r,2018,49197,30698.0,4.8,4.7,4.6,4.7,4.8,Tungsten Metallic
+900,hyundai,kona,2018,39498,23995.0,4.7,4.6,4.7,4.8,4.8,Lime Twist
+901,toyota,avalon,2011,61675,18490.0,4.8,4.6,4.8,4.5,4.8,Blizzard Pearl
+902,mercedes-benz,c-class c 300,2017,35300,31399.0,4.8,4.8,4.8,4.8,4.7,Gray Metallic
+903,toyota,rav4,2020,23813,40595.0,4.8,4.8,4.7,4.8,4.8,Silver Sky Metallic
+904,toyota,corolla,2021,34308,26999.0,4.8,4.7,4.8,4.9,4.9,Black
+905,toyota,corolla,2019,42390,21822.0,4.8,4.7,4.7,4.8,4.9,Barcelona Red Metallic
+906,subaru,crosstrek 2.0i,2018,44633,19700.0,4.8,4.8,4.6,4.9,4.9,Crystal White Pearl
+907,volkswagen,tiguan 2.0t s,2020,15287,26289.0,4.8,4.8,4.6,4.8,4.8,Pure White
+908,bmw,x2 sdrive28i,2018,47986,29480.0,4.6,4.7,4.7,4.9,4.5,Mineral Gray Metallic
+909,subaru,outback 3.6r touring,2019,26532,36998.0,4.8,4.7,4.7,4.7,4.7,Crystal Black Silica
+910,toyota,camry,2007,99223,9950.0,4.4,4.1,4.1,4.3,4.3,White
+911,acura,rdx,2015,33000,17950.0,4.7,4.4,4.6,4.5,4.8,Red
+912,chevrolet,tahoe lt,2015,88311,31995.0,4.6,4.7,4.5,4.8,4.4,Sable Metallic
+913,acura,ilx premium & a-spec packages,2016,79206,20575.0,4.4,4.3,4.3,4.5,4.7,Crystal Black Pearl
+914,chevrolet,tahoe ltz,2016,73199,42500.0,4.8,4.7,4.5,4.7,4.7,Sable Metallic
+915,toyota,4runner,2017,87878,37950.0,4.8,4.6,4.7,4.9,4.9,Nautical Blue Metallic
+916,ford,ranger,2020,19432,33995.0,4.9,4.8,4.9,4.9,4.8,Black
+917,audi,q5 45 premium,2020,15388,47441.0,4.8,4.7,4.9,4.8,4.7,Mythos Black Metallic
+918,lincoln,mkz premiere,2017,32927,27991.0,4.9,4.8,4.8,4.8,4.8,Black
+919,acura,rdx acurawatch  package,2018,49127,27975.0,4.8,4.7,4.7,4.7,4.9,Lunar Silver Metallic
+920,honda,odyssey touring,2020,22875,46041.0,4.8,4.8,4.7,4.7,4.7,Modern Steel Metallic
+921,cadillac,dts performance,2007,88321,8995.0,4.8,4.6,4.6,4.5,4.4,Black
+922,lexus,rx 350,2021,13351,51400.0,4.8,4.8,4.8,4.7,4.8,Gray
+923,dodge,journey crossroad,2019,47042,24500.0,4.5,4.3,4.2,4.4,4.4,Granite Crystal Clearcoat Metallic
+924,acura,tlx fwd,2019,35841,31203.0,4.6,4.4,4.3,4.6,4.4,Still Night Pearl
+925,gmc,yukon denali,2018,35361,58801.0,4.9,5.0,5.0,4.9,4.9,Onyx Black
+926,volkswagen,tiguan 2.0t sel premium r-line,2019,39964,33998.0,4.6,4.7,4.3,4.6,4.5,Habanero Orange Metallic
+927,toyota,highlander hybrid,2018,33396,46000.0,4.9,4.8,4.9,4.8,5.0,Shoreline Blue Pearl
+928,bmw,x5 xdrive35i,2016,80369,28000.0,4.8,4.8,4.8,4.8,4.7,Alpine White
+929,lexus,nx 300,2020,25309,39988.0,4.8,4.8,4.8,4.8,4.9,Eminent White Pearl
+930,infiniti,qx60 pure,2019,45096,29385.0,4.8,4.6,4.5,4.7,4.6,Deep Bordeaux
+931,toyota,camry,2019,11407,27500.0,4.8,4.7,4.7,4.9,4.8,Celestial Silver Metallic
+932,chevrolet,silverado 1500 ld lt,2019,30996,37200.0,4.9,4.8,4.8,4.9,4.9,Graphite Metallic
+933,tesla,model 3 long range,2020,49666,52488.0,4.6,4.4,4.6,4.2,4.4,Black
+934,toyota,supra 3.0 premium,2021,17292,57891.0,3.0,2.8,3.2,3.3,2.8,Nocturnal
+935,toyota,camry,2021,15909,30595.0,4.8,4.8,4.8,4.9,4.9,Black
+936,bmw,435 gran coupe i,2015,100256,24472.0,4.9,5.0,4.9,5.0,4.9,Carbon Black Metallic
+937,gmc,yukon  slt,2018,73953,44995.0,4.9,4.8,4.9,4.8,5.0,Iridium Metallic
+938,bmw,x3 m competition,2020,31986,67995.0,4.3,4.9,4.9,4.9,4.6,Gray Metallic
+939,ford,fusion,2017,42134,20998.0,4.8,4.8,4.7,4.8,4.8,Gray
+940,audi,q7 55 prestige,2019,32054,54992.0,4.8,4.6,4.8,4.8,4.6,Samurai Gray Metallic
+941,subaru,ascent  7-passenger,2019,39549,35000.0,4.7,4.6,4.6,4.6,4.5,Tungsten Metallic
+942,lexus,es 350,2016,37233,29900.0,4.9,4.9,4.9,4.8,4.9,Nebula Gray Pearl
+943,honda,odyssey touring elite,2016,82016,30500.0,4.8,4.6,4.7,4.7,4.8,Silver
+944,volvo,xc60 3.2 premier,2013,96834,14999.0,4.9,4.8,4.8,4.9,4.8,Savile Gray Metallic
+945,ford,mustang v6,2015,85533,19995.0,4.6,4.7,4.8,4.9,4.7,Gray
+946,mazda,cx-5 touring,2021,10545,31998.0,4.8,4.8,4.8,4.8,4.8,Snowflake White Pearl Mica
+947,honda,cr-v,2020,33263,29699.0,4.9,4.8,4.8,4.9,4.9,Black
+948,kia,sorento sx,2016,102860,20950.0,4.7,4.7,4.7,4.7,4.7,Ebony Black
+949,lexus,es 350 f,2020,50660,44187.0,4.9,4.8,4.9,4.8,5.0,Obsidian Black
+950,ford,edge,2017,44604,28762.0,4.8,4.7,4.7,4.8,4.7,Black
+951,gmc,acadia denali,2012,87500,17000.0,4.6,4.5,4.0,4.6,4.1,Carbon Black Metallic
+952,audi,a5 2.0t premium,2019,17900,41000.0,4.9,4.9,4.8,4.9,4.8,Manhattan Gray Metallic
+953,hyundai,palisade sel,2021,19946,47990.0,4.9,4.9,4.8,4.9,4.8,Burgundy
+954,gmc,sierra 1500 denali,2020,21115,57947.0,4.9,4.8,4.8,4.9,4.7,Satin Steel Metallic
+955,lexus,es 350,2020,10114,42545.0,4.9,4.8,4.9,4.8,5.0,Nebula Gray Pearl
+956,nissan,murano sv,2019,25827,29991.0,5.0,4.9,4.8,4.9,4.8,Gun Metallic
+957,cadillac,ct6 3.6l premium luxury,2019,37718,43275.0,5.0,5.0,4.8,5.0,4.9,Black Raven
+958,subaru,ascent  7-passenger,2020,39600,35789.0,4.8,4.8,4.8,4.9,4.8,Cinnamon Brown Pearl
+959,cadillac,xt4 premium luxury,2020,15890,37994.0,4.7,4.7,4.9,4.8,4.7,Stellar Black Metallic
+960,toyota,highlander,2019,36856,27000.0,4.8,4.7,4.6,4.7,4.6,Blue
+961,chevrolet,traverse lt leather,2021,11036,41497.0,4.9,4.8,4.8,4.9,4.9,Cajun Red Tintcoat
+962,volvo,s60 t6 r-design,2019,37876,37990.0,4.9,5.0,4.9,5.0,5.0,Osmium Gray Metallic
+963,gmc,yukon  1500 denali,2014,26057,35626.0,4.8,4.6,4.7,4.7,4.8,White Diamond Tri-Coat
+964,bentley,continental flying spur speed,2010,57957,54533.0,5.0,4.7,5.0,4.7,5.0,Black
+965,infiniti,qx80,2018,34249,48955.0,4.9,4.9,4.8,4.9,4.5,Graphite Shadow
+966,audi,q3 2.0t premium,2018,34934,27973.0,4.8,4.8,4.7,4.9,4.8,Mythos Black Metallic
+967,audi,e-tron prestige,2021,13071,76992.0,5.0,5.0,5.0,5.0,5.0,Brilliant Black
+968,audi,q7 3.0t prestige,2018,34905,51665.0,4.9,4.8,4.8,4.7,4.7,Glacier White Metallic
+969,subaru,outback 3.6r touring,2017,81839,26985.0,4.8,4.7,4.7,4.7,4.8,Crystal White Pearl
+970,gmc,yukon denali,2012,154683,16975.0,4.9,4.8,4.9,4.9,4.9,Steel Gray Metallic
+971,audi,q7 55 premium,2021,19036,73700.0,4.9,4.7,4.6,4.9,4.3,Orca Black Metallic
+972,audi,a3 2.0t premium,2017,34020,29496.0,4.7,4.7,4.6,4.7,4.6,Cosmos Blue Metallic
+973,bmw,750 i xdrive,2019,38864,56996.0,5.0,5.0,5.0,5.0,5.0,Azurite Black Metallic
+974,land,rover range rover supercharged,2018,33544,81750.0,4.0,4.2,3.6,4.3,3.1,Santorini Black
+975,honda,pilot elite,2020,13636,45988.0,4.6,4.6,4.3,4.5,4.1,Crystal Black Pearl
+976,honda,accord touring 2.0t,2021,10553,40100.0,4.9,5.0,4.9,5.0,5.0,Crystal Black Pearl
+977,mazda,cx-9 touring,2020,25814,35499.0,4.8,4.8,4.7,4.9,4.9,Deep Crystal Blue Mica
+978,lexus,is 250,2011,86815,16900.0,4.5,4.7,4.7,4.8,5.0,Starfire Pearl
+979,mercury,grand marquis ls,2011,82054,7980.0,4.7,4.2,4.2,4.7,4.4,Black
+980,nissan,pathfinder,2020,47621,29841.0,4.9,4.9,4.8,4.9,5.0,Gun Metallic
+981,lexus,is 350 f,2021,12465,45998.0,5.0,4.5,5.0,5.0,5.0,Atomic Silver
+982,subaru,impreza premium,2021,17123,27052.0,4.6,4.6,4.5,4.5,4.8,Crystal Black Silica
+983,mercedes-benz,e-class e 400 4matic,2016,50072,29998.0,4.8,4.8,4.7,4.8,4.7,Black
+984,ford,f-150 xlt,2018,28186,32500.0,4.9,4.8,4.8,4.8,4.7,Black
+985,dodge,challenger r/t scat pack,2020,16502,51500.0,4.9,4.9,4.9,5.0,4.9,Triple Nickel Clearcoat
+986,toyota,sienna  premium,2020,64095,35999.0,4.7,4.8,4.8,4.8,4.8,Predawn Gray Mica
+987,audi,q5 2.0t premium,2018,38437,35430.0,4.7,4.7,4.7,4.7,4.6,Manhattan Gray Metallic
+988,cadillac,escalade esv premium luxury,2021,45843,94997.0,5.0,5.0,5.0,5.0,5.0,Black Raven
+989,audi,a4 45 s line quattro premium,2021,19010,39991.0,5.0,5.0,5.0,4.8,5.0,Daytona Gray Pearl Effect
+990,lincoln,mkz standard,2020,25639,29900.0,4.8,4.8,4.8,4.9,4.8,Infinite Black Metallic
+991,audi,q5 3.0t premium,2013,25501,24296.0,4.7,4.7,4.5,4.6,4.3,Monsoon Gray Metallic
+992,nissan,maxima,2021,18673,40965.0,5.0,4.6,5.0,5.0,4.9,Black
+993,jeep,compass latitude,2019,12308,27289.0,4.6,4.7,4.2,4.8,4.4,Jazz Blue Pearlcoat
+994,audi,a4 40 premium,2021,10152,43988.0,5.0,5.0,5.0,4.8,5.0,Glacier White Metallic
+995,volvo,v90 cross country t6,2018,37907,45599.0,4.9,4.9,4.8,4.9,4.8,Denim Blue Metallic
+996,mercedes-benz,glc 300 4matic,2018,39066,33500.0,4.8,4.7,4.6,4.8,4.6,Gray Metallic
+997,mazda,cx-9 grand touring,2020,17740,38495.0,4.8,4.8,4.7,4.9,4.9,Jet Black Mica
+998,mercedes-benz,g-class g 550,2015,26286,88595.0,4.7,4.8,4.8,4.9,4.8,Polar White
+999,dodge,charger sxt,2018,16132,29499.0,4.8,4.7,4.8,4.9,4.8,Go Mango!
+1000,subaru,outback 3.6r,2017,46241,28599.0,4.8,4.7,4.7,4.7,4.8,Twilight Blue Metallic
+1001,gmc,terrain denali,2020,15926,39990.0,4.8,4.7,4.6,4.8,4.6,Satin Steel Metallic
+1002,bmw,m235 gran coupe i xdrive,2021,13407,47332.0,4.7,5.0,5.0,5.0,5.0,Alpine White
+1003,mercedes-benz,amg gle 43 coupe 4matic,2017,70000,52951.0,4.9,4.8,4.9,4.8,4.8,Gray Metallic
+1004,bmw,x3 m40i,2021,10792,60393.0,4.8,4.7,4.8,4.8,4.6,Dark Graphite Metallic
+1005,toyota,rav4,2020,49381,32586.0,4.8,4.8,4.7,4.8,4.8,Magnetic Gray Metallic
+1006,infiniti,qx50 luxe,2021,34005,39000.0,4.5,4.4,4.1,4.6,4.3,Black Obsidian
+1007,bmw,x4 m40i,2019,34387,54988.0,4.6,4.9,4.7,4.8,4.5,Dark Graphite Metallic
+1008,toyota,tundra,2018,72740,39987.0,4.8,4.6,4.9,4.8,4.9,Silver
+1009,mazda,mazda6 i touring,2014,127655,14677.0,4.6,4.5,4.5,4.9,4.7,Blue Reflex Mica
+1010,honda,cr-v,2020,49277,32405.0,4.9,4.8,4.8,4.9,4.9,Crystal Black Pearl
+1011,chevrolet,tahoe lt,2021,43792,67800.0,4.6,4.7,4.4,4.7,4.3,Black
+1012,bmw,740 i xdrive,2020,38187,63614.0,5.0,5.0,5.0,5.0,5.0,Glacier Silver Metallic
+1013,toyota,c-hr,2021,38304,28277.0,4.9,4.9,4.9,4.9,4.8,White
+1014,mercedes-benz,gle 350,2021,14717,68994.0,4.9,4.8,4.6,4.8,4.9,Black
+1015,hyundai,tucson ultimate,2021,13402,35894.0,4.8,4.8,4.8,4.8,4.8,Black Noir Pearl
+1016,bmw,528 i xdrive,2016,46529,20499.0,4.8,4.8,4.8,4.8,4.7,White
+1017,chevrolet,cruze lt,2019,45063,17498.0,4.8,4.7,4.7,4.8,4.8,Brown
+1018,lexus,gx 460,2019,30113,49509.0,4.8,4.6,4.6,4.6,4.8,Claret Mica
+1019,mercedes-benz,glk-class glk 350 4matic,2015,47417,26593.0,4.7,4.7,4.8,4.7,4.8,Black
+1020,subaru,forester,2019,42019,31000.0,4.8,4.7,4.6,4.7,4.8,Dark Gray Metallic
+1021,volvo,xc90 3.2,2014,107062,10795.0,4.8,4.8,4.4,4.8,4.7,–
+1022,hyundai,veloster,2013,95647,14998.0,4.2,4.5,4.0,4.8,4.5,Century White
+1023,porsche,cayenne s,2019,34154,77988.0,4.9,4.8,4.8,4.8,4.7,Black
+1024,infiniti,q50,2015,62638,20900.0,4.7,4.7,4.9,4.8,4.8,Liquid Platinum
+1025,chevrolet,tahoe lt,2022,25449,62990.0,5.0,5.0,5.0,5.0,5.0,Black
+1026,audi,q5 2.0t premium,2012,104809,14498.0,4.7,4.7,4.7,4.8,4.5,Gray
+1027,mercedes-benz,glc 300  4matic,2021,19462,56900.0,4.9,4.8,4.7,4.8,4.5,Burgundy
+1028,chevrolet,trax lt,2018,34912,13399.0,4.6,4.5,4.5,4.7,4.6,Black
+1029,acura,tlx tech,2020,35084,34244.0,4.9,4.8,4.8,4.8,4.9,–
+1030,lamborghini,urus,2020,6084,285000.0,4.0,5.0,5.0,5.0,4.0,Blu Astraeus Metallic
+1031,nissan,altima 2.5,2019,19225,24649.0,4.7,4.7,4.6,4.8,4.7,Black
+1032,acura,mdx 3.5l w/technology package,2019,38093,39249.0,4.6,4.7,4.6,4.7,4.8,Majestic Black Pearl
+1033,chevrolet,malibu 1ls,2020,11501,26579.0,4.8,4.8,4.8,4.9,4.9,Silver Ice Metallic
+1034,mercedes-benz,e-class e 300,2017,45871,33900.0,4.9,4.9,4.6,4.8,4.8,Gray Metallic
+1035,bmw,x1 sdrive28i,2018,39294,26788.0,4.7,4.7,4.8,4.8,4.8,Alpine White
+1036,chevrolet,suburban high country,2021,22797,81969.0,4.9,4.9,4.2,4.8,4.2,Black
+1037,dodge,durango r/t,2021,13455,49888.0,4.9,4.9,4.7,4.9,4.8,Black Clearcoat
+1038,lincoln,mkc reserve,2017,48256,28659.0,4.8,4.7,4.8,4.9,4.7,Diamond Black Metallic
+1039,bmw,x3 xdrive35i,2014,24936,27999.0,4.7,4.6,4.8,4.7,4.7,Jet Black
+1040,gmc,yukon denali,2019,62129,61974.0,4.7,4.7,4.7,4.7,4.7,Onyx Black
+1041,ford,focus,2016,133755,5900.0,4.4,4.5,4.3,4.6,4.3,Gray
+1042,chevrolet,cruze lt,2017,96288,15991.0,4.8,4.7,4.7,4.8,4.8,Summit White
+1043,hyundai,santa fe calligraphy,2021,13787,44725.0,4.8,4.8,4.6,4.8,4.8,Quartz White
+1044,bmw,x5 4.8i,2008,59856,14999.0,4.7,4.6,4.4,4.7,3.9,Black Sapphire Metallic
+1045,bmw,440 i xdrive,2019,36695,42189.0,4.4,4.1,4.9,5.0,4.2,Black Sapphire Metallic
+1046,mercedes-benz,amg c 43  4matic,2018,33040,47998.0,4.8,4.9,4.9,4.9,5.0,Black
+1047,buick,enclave avenir,2020,45847,45500.0,4.9,4.7,4.8,4.8,4.8,White Frost Tri-Coat
+1048,honda,pilot -l,2011,147643,12250.0,4.7,4.4,4.4,4.5,4.6,Dark Cherry Pearl
+1049,nissan,leaf sv,2020,14158,29995.0,4.3,4.0,4.3,4.0,5.0,Gun Metallic
+1050,audi,a5 2.0t premium,2019,11319,42420.0,4.9,4.9,4.8,4.9,4.8,Manhattan Gray Metallic
+1051,volkswagen,golf r 4-door,2016,76412,26888.0,4.6,4.8,4.8,4.6,4.7,Lapiz Blue Metallic
+1052,mazda,cx-30 premium package,2021,10697,30999.0,4.9,4.9,4.7,4.9,4.9,Deep Crystal Blue Mica
+1053,bmw,z4 2.5i roadster,2004,8900,17990.0,4.4,4.7,4.8,4.8,4.6,–
+1054,jeep,cherokee latitude,2020,34584,25918.0,4.8,4.8,4.8,4.8,4.8,Slate Blue Pearlcoat
+1055,acura,rdx advance package,2019,40106,43987.0,4.6,4.5,4.2,4.6,4.2,White
+1056,honda,accord,2018,29151,28993.0,4.8,4.8,4.7,4.8,4.8,Black
+1057,land,rover range rover  3.0l supercharged hse,2017,91271,41995.0,4.9,4.8,4.9,4.9,4.7,Corris Grey
+1058,bmw,430 i,2019,16241,38998.0,4.9,4.8,5.0,5.0,5.0,Sunset Orange Metallic
+1059,mercedes-benz,s-class s 63 amg,2015,36525,74995.0,4.9,4.9,4.9,4.9,4.8,Silver Gray
+1060,jeep,grand cherokee trailhawk,2020,22615,46992.0,4.9,4.8,4.8,4.9,4.8,Diamond Black
+1061,porsche,911 gt3,2022,597,309888.0,5.0,5.0,5.0,5.0,5.0,Chalk
+1062,mazda,tribute i,2005,106482,5900.0,4.6,4.1,4.3,4.4,4.7,Blue
+1063,jeep,wrangler unlimited rubicon,2020,16614,53493.0,4.8,4.8,4.8,4.9,4.8,Granite Crystal Clearcoat Metallic
+1064,honda,accord -l 2.0t,2018,37043,33999.0,4.8,4.8,4.7,4.8,4.8,Lunar Silver Metallic
+1065,gmc,sierra 1500 slt,2018,48031,38999.0,4.9,4.8,4.7,4.8,4.8,Quicksilver Metallic
+1066,audi,a4 2.0t premium  quattro,2010,122408,8995.0,4.5,4.4,4.2,4.4,4.0,Quartz Gray Metallic
+1067,porsche,cayenne s,2005,84644,9995.0,4.4,4.6,4.6,4.4,4.0,Basalt Black Metallic
+1068,lexus,rx 350 rx 350,2018,45133,39964.0,4.8,4.9,4.8,4.8,4.8,Nebula Gray Pearl
+1069,mercedes-benz,e-class e 350,2010,85810,16991.0,4.7,4.7,4.7,4.9,4.7,Black
+1070,lexus,nx 300 f,2020,39706,39491.0,4.8,4.8,4.8,4.8,4.9,Nebula Gray Pearl
+1071,ford,expedition max,2019,68416,44890.0,5.0,4.8,5.0,5.0,5.0,Agate Black Metallic
+1072,nissan,murano,2021,14192,43999.0,4.9,4.9,4.6,4.8,4.7,Boulder Gray
+1073,jeep,grand cherokee summit,2015,80611,27795.0,4.9,4.8,4.8,4.9,4.7,Bright White Clearcoat
+1074,mercedes-benz,gla 250  4matic,2018,55174,28500.0,4.5,4.5,4.4,4.8,4.4,Cosmos Black Metallic
+1075,maserati,levante,2019,11768,65985.0,5.0,4.9,4.8,5.0,5.0,Blu Passione Mica
+1076,nissan,versa 1.6 s+,2016,94289,7995.0,4.3,4.0,4.2,4.3,4.4,Brilliant Silver
+1077,land,rover defender 110 x,2021,13681,103982.0,5.0,4.8,5.0,5.0,5.0,Santorini Black
+1078,nissan,maxima 3.5,2019,27000,29995.0,4.8,4.9,4.8,5.0,4.6,Super Black
+1079,lexus,ls 500,2019,15095,60772.0,3.7,3.7,3.7,3.9,3.9,Gray
+1080,hyundai,palisade sel,2020,18172,42781.0,4.8,4.8,4.5,4.7,4.6,Steel / Graphite
+1081,land,rover range rover,2020,23797,69900.0,4.5,4.7,4.6,4.8,4.3,Narvik Black
+1082,bmw,x3 xdrive28i,2014,12262,24800.0,4.7,4.6,4.8,4.7,4.7,Mineral Silver Metallic
+1083,nissan,pathfinder,2015,84962,19563.0,4.6,4.4,4.3,4.4,4.3,Brilliant Silver
+1084,bmw,x2 xdrive28i,2022,10941,37898.0,5.0,4.5,5.0,4.5,5.0,Alpine White
+1085,acura,mdx sh-awd 7-passenger,2020,18149,40889.0,4.9,4.9,4.9,4.8,4.9,Platinum White Pearl
+1086,jeep,grand cherokee,2015,83298,21985.0,4.9,4.8,4.8,4.9,4.7,Maximum Steel Metallic
+1087,volkswagen,tiguan 2.0t s,2021,13604,29842.0,4.7,4.6,4.7,4.9,4.8,Atlantic Blue
+1088,gmc,yukon  slt,2021,10969,83000.0,5.0,5.0,5.0,5.0,5.0,Onyx Black
+1089,mercedes-benz,gle 350  4matic,2021,13776,60991.0,4.9,4.8,4.6,4.8,4.9,Gray
+1090,ford,edge sel,2020,63261,27995.0,4.9,4.9,4.9,4.9,4.9,Agate Black
+1091,porsche,911 carrera gts,2017,17870,129985.0,4.6,4.8,5.0,4.9,5.0,Racing Yellow
+1092,volkswagen,taos 1.5t,2022,11486,29988.0,4.5,4.2,3.9,4.2,4.1,Deep Black Pearl Effect
+1093,acura,rdx technology package,2020,17652,42441.0,4.8,4.7,4.7,4.8,4.6,Majestic Black Pearl
+1094,toyota,highlander,2017,45082,35689.0,4.9,4.8,4.7,4.8,4.8,Predawn Gray Mica
+1095,audi,rs 5 2.9t,2021,19052,84844.0,5.0,5.0,5.0,5.0,5.0,Glacier White Metallic
+1096,lincoln,nautilus select,2019,17944,38998.0,4.9,4.7,4.6,4.9,4.7,Black
+1097,chevrolet,blazer 2lt,2020,14941,34500.0,4.8,4.7,4.8,4.9,4.8,Red
+1098,chrysler,300,2018,55742,25981.0,4.9,4.9,4.7,4.9,4.8,Billet Silver Metallic Clearcoat
+1099,honda,accord -l,2016,21459,29899.0,4.8,4.7,4.7,4.8,4.8,Crystal Black Pearl
+1100,bmw,430 gran coupe i,2018,86605,25441.0,5.0,4.9,4.9,4.9,5.0,Jet Black
+1101,ford,expedition,2019,15454,58000.0,4.9,4.9,4.8,4.9,4.7,Agate Black
+1102,ford,zx2,2003,93424,6995.0,3.7,3.3,3.7,4.1,4.6,Orange
+1103,land,rover range rover 3.0l turbocharged diesel td6,2016,92316,42234.0,5.0,4.9,5.0,4.9,4.7,Santorini Black
+1104,maserati,ghibli s,2018,31442,41518.0,4.6,4.5,4.8,4.8,4.5,White
+1105,mercedes-benz,gle 350  4matic,2017,36149,35499.0,4.9,4.8,4.8,4.8,4.9,Polar White
+1106,chevrolet,traverse lt leather,2020,67820,35589.0,4.8,4.9,4.9,4.9,4.8,Graphite Metallic
+1107,dodge,durango gt,2019,18284,39650.0,4.8,4.7,4.7,4.7,4.6,DB Black Clearcoat
+1108,mercedes-benz,amg gt 63 4-door,2019,14515,131490.0,4.3,4.8,5.0,5.0,5.0,Graphite Gray Metallic
+1109,mazda,cx-5 carbon edition,2022,14596,32988.0,4.4,4.3,4.3,4.7,4.9,Polymetal Gray Metallic
+1110,land,rover range rover  3.0l supercharged hse,2019,44737,63804.0,4.7,4.9,4.7,4.9,4.6,Loire Blue
+1111,hyundai,elantra,2016,61455,10899.0,4.6,4.5,4.4,4.6,4.6,Red
+1112,volvo,xc90 t6 r-design,2019,32317,46981.0,4.9,4.7,4.8,4.8,4.6,Onyx Black Metallic
+1113,dodge,durango citadel,2014,83891,20890.0,4.8,4.7,4.8,4.8,4.7,Bright White Clearcoat
+1114,mercedes-benz,amg c 43  4matic,2017,89494,32995.0,4.4,4.8,4.8,4.8,4.6,Black
+1115,jeep,grand cherokee overland,2019,17090,44998.0,4.9,4.9,4.8,4.9,4.8,Black
+1116,toyota,rav4,2019,52480,35445.0,4.6,4.6,4.4,4.7,4.6,Blizzard Pearl
+1117,subaru,impreza 2.0i,2018,17634,22481.0,4.7,4.6,4.6,4.7,4.8,Magnetite Gray Metallic
+1118,lincoln,navigator select,2017,121415,35887.0,5.0,4.9,5.0,5.0,4.9,Black Velvet
+1119,honda,accord,2014,99835,19998.0,4.6,4.6,4.6,4.7,4.8,Gray
+1120,hyundai,tucson,2021,11706,26932.0,4.8,4.8,4.8,4.8,4.8,Winter White
+1121,cadillac,escalade luxury,2019,18036,49995.0,4.8,4.8,4.8,4.7,4.9,Shadow Metallic
+1122,mercedes-benz,e-class e 300,2017,50617,33998.0,4.9,4.9,4.6,4.8,4.8,Silver
+1123,audi,a6 2.0t premium,2016,67505,24983.0,4.9,4.9,4.8,4.8,4.8,Mythos Black Metallic
+1124,toyota,camry xse v6,2021,27980,41998.0,4.8,4.8,4.8,4.9,4.9,White
+1125,jaguar,f-type premium,2017,41391,44900.0,4.5,4.8,4.8,4.9,4.7,Ebony Black
+1126,hyundai,palisade calligraphy,2022,2602,53991.0,5.0,5.0,4.5,4.5,4.5,Silver
+1127,audi,a4 2.0t premium,2019,29422,34239.0,5.0,4.9,4.7,4.7,4.8,Ibis White
+1128,toyota,4runner sr5,2014,216759,21998.0,4.6,4.6,4.5,4.7,4.9,Classic Silver Metallic
+1129,chevrolet,suburban rst,2021,18676,74383.0,4.9,4.9,4.2,4.8,4.2,Midnight Blue Metallic
+1130,ford,escape sel,2019,49608,23475.0,4.8,4.7,4.7,4.7,4.7,Magnetic Metallic
+1131,infiniti,qx60,2016,60282,24955.0,4.8,4.8,4.7,4.8,4.8,Jade Green
+1132,lincoln,continental select,2017,33226,29998.0,4.9,4.8,4.7,4.8,4.7,Burgundy Velvet Tinted Clearcoat
+1133,infiniti,qx50 luxe,2020,19123,36205.0,4.8,4.8,4.3,4.7,4.6,Hermosa Blue
+1134,land,rover defender 110,2020,45909,76988.0,4.3,4.5,4.3,4.3,3.7,Pangea Green
+1135,volvo,s60 t5 momentum,2019,21425,31998.0,4.9,5.0,4.9,5.0,5.0,Black
+1136,honda,accord,2017,72000,18950.0,4.8,4.8,4.8,4.8,4.9,Gray
+1137,lexus,is 300,2020,12345,38985.0,5.0,4.7,4.7,5.0,5.0,Obsidian Black
+1138,lamborghini,urus,2019,14024,279950.0,5.0,5.0,5.0,5.0,4.8,Grigio Lynx Metallic
+1139,lexus,es 350,2013,87201,18980.0,4.8,4.6,4.7,4.6,4.8,Silver Lining Metallic
+1140,dodge,durango r/t,2019,19845,42950.0,4.8,4.7,4.7,4.7,4.6,Vice White
+1141,volvo,xc90 t5 momentum 7 passenger,2020,15748,45995.0,4.9,4.8,4.6,4.9,4.7,Thunder Gray Metallic
+1142,mercedes-benz,amg gle 43 coupe 4matic,2018,15183,58500.0,4.9,4.9,4.9,4.8,5.0,Black
+1143,mercedes-benz,cls-class cls 550 4matic,2014,39531,32623.0,4.8,4.8,5.0,5.0,4.8,Steel Gray Metallic
+1144,honda,pilot touring,2016,65393,28967.0,4.7,4.6,4.5,4.6,4.6,Modern Steel Metallic
+1145,tesla,model s 100d,2018,32509,69950.0,4.9,4.8,5.0,4.9,4.9,Silver
+1146,chevrolet,silverado 1500 high country,2019,44323,53800.0,4.4,4.2,4.3,4.6,4.2,Black
+1147,nissan,pathfinder s,2018,63795,22890.0,4.8,4.7,4.6,4.6,4.6,Gun Metallic
+1148,kia,telluride,2021,11332,50028.0,5.0,4.9,4.9,5.0,4.9,Dark Moss
+1149,chevrolet,silverado 1500 lt,2020,31049,39000.0,4.7,4.6,4.6,4.8,4.5,Black
+1150,porsche,911 carrera 4,2021,10418,139900.0,5.0,4.8,5.0,5.0,4.8,Agate Gray Metallic
+1151,porsche,911 turbo s,2015,13289,149995.0,4.8,4.8,4.9,4.9,4.9,Agate Gray Metallic
+1152,lexus,es 350 luxury,2019,17920,41562.0,4.7,4.6,4.6,4.7,4.6,Nightfall Mica
+1153,mercedes-benz,e-class e 450,2019,33632,50591.0,4.8,4.8,4.7,4.7,4.7,Obsidian Black Metallic
+1154,jeep,grand cherokee overland,2016,47544,30997.0,4.8,4.7,4.7,4.7,4.6,Brilliant Black Crystal Pearlcoat
+1155,land,rover range rover hse westminster,2021,13520,121996.0,5.0,5.0,5.0,5.0,5.0,Santorini Black
+1156,chevrolet,trailblazer ls,2004,57731,6495.0,4.5,4.1,4.0,4.2,4.1,Maroon
+1157,land,rover range rover  3.0l supercharged,2019,34311,65996.0,4.7,4.9,4.7,4.9,4.6,Santorini Black
+1158,ram,1500 longhorn,2020,44452,53495.0,4.9,4.9,4.8,4.8,4.7,Diamond Black
+1159,chevrolet,equinox 1lt,2019,47626,23135.0,4.6,4.6,4.5,4.6,4.5,Iridescent Pearl Tricoat
+1160,hyundai,kona,2019,18206,23990.0,4.8,4.7,4.7,4.9,4.8,Ultra Black
+1161,mercedes-benz,glb 250 4matic,2021,17248,43880.0,4.5,4.9,4.7,4.5,4.2,Black
+1162,mercedes-benz,gle 450 awd 4matic,2020,24900,62550.0,4.7,4.7,4.3,4.6,3.5,Emerald Green Metallic
+1163,hyundai,palisade,2022,10251,39798.0,5.0,5.0,4.5,4.5,4.5,Rainforest
+1164,dodge,challenger gt,2018,14090,38779.0,4.8,4.7,4.9,4.9,4.8,Destroyer Gray Clearcoat
+1165,chevrolet,corvette stingray,2017,17189,55500.0,4.6,4.7,4.9,4.9,4.8,Arctic White
+1166,alfa,romeo stelvio,2021,16185,39900.0,4.6,4.9,5.0,4.9,5.0,Alfa White
+1167,mini,countryman cooper s,2019,31557,29591.0,4.9,4.9,4.9,4.8,4.9,Midnight Black Metallic
+1168,ford,mustang ecoboost premium,2016,68431,18990.0,4.6,4.7,4.8,4.9,4.7,Black
+1169,subaru,legacy 2.5i premium,2017,38603,13399.0,4.8,4.7,4.6,4.7,4.9,Crystal White Pearl
+1170,porsche,911 turbo,2015,17504,154999.0,4.8,4.8,4.9,4.9,4.9,Rhodium Silver
+1171,lexus,gx 460,2017,83877,36998.0,4.6,4.2,4.3,4.4,4.7,Starfire Pearl
+1172,land,rover discovery hse,2018,15756,51241.0,3.8,3.8,3.4,4.0,2.9,Namib Orange
+1173,porsche,911 carrera s,2021,18990,179900.0,5.0,4.8,5.0,5.0,4.8,Chalk
+1174,bmw,530 i,2019,43515,38997.0,4.9,4.8,4.8,4.9,4.7,Glacier Silver Metallic
+1175,volvo,xc40 t5 r-design,2021,21539,47962.0,4.9,4.8,4.8,4.8,4.7,Magnesium
+1176,acura,rdx w/a-spec package,2021,11926,45995.0,4.9,4.9,4.7,4.9,4.8,Platinum White Pearl
+1177,honda,civic -l,2019,34002,28995.0,4.8,4.8,4.9,4.9,4.9,Black
+1178,acura,tlx a-spec,2022,5044,47898.0,5.0,4.0,5.0,5.0,5.0,Platinum White
+1179,mercedes-benz,c-class c 300 4matic,2020,16149,41491.0,4.8,4.8,4.8,4.7,4.1,Black
+1180,mercedes-benz,amg g 63,2019,22940,189999.0,4.9,5.0,5.0,5.0,4.9,Graphite
+1181,bmw,x3 xdrive35i,2016,56637,27998.0,4.7,4.6,4.6,4.8,4.8,Silver
+1182,porsche,macan,2018,44707,41995.0,4.9,4.8,4.9,4.9,4.9,Silver
+1183,mercedes-benz,glc 350e  4matic,2019,49775,39990.0,4.7,4.5,4.1,4.5,3.9,WHITE
+1184,honda,cr-v touring,2020,34691,34742.0,4.9,4.8,4.8,4.9,4.9,Modern Steel Metallic
+1185,ford,f-150 king ranch,2011,199784,14450.0,4.7,4.5,4.5,4.6,4.5,Black
+1186,audi,a4 2.0t premium,2018,53813,27959.0,4.8,4.9,4.8,4.8,4.7,Glacier White Metallic
+1187,chevrolet,impala lt,2006,121000,2300.0,4.3,4.0,4.3,4.2,4.1,White
+1188,bmw,530 i,2018,30661,36989.0,4.8,4.8,4.8,4.8,4.8,White
+1189,buick,encore  touring,2019,18252,23718.0,4.7,4.6,4.6,4.8,4.7,Deep
+1190,volkswagen,tiguan 2.0t s,2019,49743,23279.0,4.6,4.7,4.3,4.6,4.5,Habanero Orange Metallic
+1191,porsche,911 carrera,2008,103956,34995.0,4.6,4.8,5.0,5.0,4.7,Cobalt Blue Metallic
+1192,acura,mdx touring,2005,174916,6495.0,4.8,4.5,4.6,4.6,4.9,Black
+1193,nissan,pathfinder s,2019,59952,26181.0,4.7,4.5,4.6,4.7,4.6,Glacier White
+1194,audi,a3 2.0t premium,2016,60353,21515.0,4.7,4.7,4.8,4.9,4.7,Brilliant Red
+1195,honda,cr-v touring,2016,46437,28595.0,4.6,4.5,4.6,4.7,4.7,White
+1196,dodge,journey,2019,19592,8000.0,4.5,4.3,4.2,4.4,4.4,Gray
+1197,volkswagen,atlas 3.6 v6  w/ technology,2021,17001,40000.0,4.9,4.7,4.8,4.9,4.9,Deep Black Pearl Effect
+1198,chevrolet,equinox premier w/1lz,2020,30477,27994.0,4.8,4.7,4.7,4.8,4.7,Summit White
+1199,ford,fusion,2020,53518,24000.0,4.8,4.8,4.7,4.9,4.8,Magnetic Metallic
+1200,bmw,540 i,2018,59339,36900.0,4.9,4.8,4.9,4.7,4.7,Carbon Black Metallic
+1201,nissan,sentra sv,2021,13528,28999.0,4.9,4.8,4.7,4.9,4.8,Rosewood Metallic
+1202,cadillac,escalade esv luxury,2019,39569,59992.0,5.0,5.0,5.0,5.0,5.0,Black Raven
+1203,dodge,charger gt,2021,35330,35259.0,5.0,4.9,5.0,5.0,5.0,Pitch Black Clearcoat
+1204,ram,1500 laramie,2019,48411,47827.0,4.8,4.9,4.7,4.8,4.5,Granite Crystal Clearcoat Metallic
+1205,ford,edge sel,2019,15178,32491.0,4.8,4.7,4.7,4.8,4.7,Stone Gray Metallic
+1206,ford,f-150,2019,18186,56000.0,4.9,4.8,4.8,4.8,4.7,White Platinum Tri-Coat Metallic
+1207,chevrolet,traverse ltz,2016,89085,23995.0,4.7,4.5,4.5,4.6,4.5,Mosaic Black Metallic
+1208,toyota,rav4  premium,2019,14877,40982.0,4.6,4.6,4.4,4.7,4.6,Ruby Flare Pearl
+1209,lexus,rx 350 f  performance,2020,18705,54000.0,4.9,4.8,4.8,4.8,4.9,Ultra White
+1210,lincoln,continental black label,2018,81963,38980.0,4.9,4.8,4.8,4.8,4.8,Black Velvet
+1211,chevrolet,impala lt,2012,82492,11790.0,4.5,4.2,4.6,4.2,4.6,Gold Mist Metallic
+1212,chevrolet,traverse premier,2020,37016,51111.0,4.8,4.9,4.9,4.9,4.8,Mosaic Black Metallic
+1213,gmc,sierra 1500 denali,2021,11755,64999.0,4.4,4.3,4.1,4.4,3.9,Onyx Black
+1214,chevrolet,traverse lt cloth,2019,47502,32000.0,4.8,4.8,4.7,4.9,4.6,Satin Steel Metallic
+1215,chevrolet,silverado 1500 lt,2019,33178,36750.0,4.4,4.2,4.3,4.6,4.2,Northsky Blue Metallic
+1216,subaru,legacy 2.5i,2018,84827,23869.0,4.8,4.6,4.7,4.7,4.8,Ice Silver Metallic
+1217,honda,pilot -l w/ navigation,2013,97260,19552.0,4.6,4.5,4.4,4.4,4.7,Polished Metal Metallic
+1218,kia,sorento,2021,45236,31995.0,4.9,4.9,4.7,4.9,4.7,Ebony Black
+1219,chevrolet,suburban lt,2019,80204,48398.0,4.7,4.6,4.7,4.6,4.7,Silver Ice Metallic
+1220,mercedes-benz,gl-class gl 450 4matic,2013,97018,22282.0,4.8,4.7,4.8,4.8,4.6,Steel Gray Metallic
+1221,lexus,lc 500,2018,65815,67490.0,4.9,5.0,4.9,5.0,5.0,Ultra White
+1222,jeep,wrangler,2018,44235,35998.0,4.7,4.8,4.7,5.0,4.6,Red
+1223,kia,sorento,2016,49219,19993.0,4.7,4.7,4.7,4.7,4.7,Ebony Black
+1224,buick,enclave leather,2017,47743,25744.0,4.9,4.8,4.7,4.9,4.8,Blue
+1225,bmw,x5 xdrive35i,2011,88560,11999.0,4.5,4.5,4.4,4.6,3.9,Black Sapphire Metallic
+1226,mazda,mazda3 fwd w/premium package,2019,18563,25287.0,4.8,4.8,4.7,4.9,4.7,Jet Black Mica
+1227,porsche,macan s,2017,31850,47990.0,4.9,4.8,5.0,4.9,4.9,Sapphire Blue Metallic
+1228,scion,xb,2015,95852,13492.0,4.7,4.5,4.5,4.7,4.9,Black Sand Pearl
+1229,bmw,430 i xdrive,2020,31375,55995.0,4.9,5.0,4.9,5.0,5.0,Mediterranean Blue Metallic
+1230,volkswagen,atlas 3.6 v6 sel,2021,22648,46599.0,4.9,4.7,4.8,4.9,4.9,Platinum Gray Metallic
+1231,gmc,sierra 2500 denali,2020,45998,77980.0,4.9,4.9,4.8,4.9,4.7,Quicksilver Metallic
+1232,gmc,yukon  denali,2018,104050,42900.0,4.9,4.8,4.9,4.8,5.0,Onyx Black
+1233,toyota,highlander hybrid,2019,80506,37900.0,4.9,4.9,4.9,4.8,4.5,Blizzard Pearl
+1234,ford,explorer,2014,38425,24500.0,4.7,4.6,4.5,4.7,4.6,White
+1235,acura,ilx premium package,2021,13654,34999.0,4.7,4.7,5.0,4.7,5.0,Platinum White
+1236,chevrolet,traverse ls,2020,26663,34869.0,4.8,4.9,4.9,4.9,4.8,Satin Steel Metallic
+1237,honda,accord  1.5t,2020,32016,28990.0,4.8,4.8,4.8,4.9,4.9,Crystal Black
+1238,gmc,sierra 1500 denali,2018,40065,48985.0,4.9,4.8,4.7,4.8,4.8,Mineral Metallic
+1239,infiniti,qx60,2018,38000,34500.0,4.9,4.8,4.8,4.8,4.8,Black Obsidian
+1240,audi,a3 2.0t premium,2015,115784,9995.0,4.6,4.5,4.6,4.6,4.4,White
+1241,ford,flex,2019,51053,28999.0,4.9,4.8,4.7,4.7,4.8,Burgundy Velvet Metallic Tinted Clearcoat
+1242,mercedes-benz,s-class s 550 4matic,2016,52618,63993.0,4.9,5.0,4.9,4.9,4.8,Black
+1243,land,rover range rover evoque pure,2013,86720,19943.0,4.4,4.5,3.9,4.7,3.5,Fuji White
+1244,nissan,rogue sv,2020,49859,25261.0,4.9,4.7,4.7,4.8,4.8,Black
+1245,jeep,grand cherokee high altitude,2018,45046,39944.0,4.9,4.8,4.8,4.9,4.7,Diamond Black
+1246,mercedes-benz,c-class c 300,2016,43093,27998.0,4.7,4.8,4.6,4.8,4.7,Black
+1247,ford,fiesta,2019,57630,14600.0,4.5,4.6,4.6,4.5,4.8,Black Shadow
+1248,mercedes-benz,amg c 63 s,2019,33507,79998.0,5.0,5.0,5.0,5.0,5.0,designo Graphite
+1249,honda,passport touring,2020,36097,38250.0,4.9,4.8,4.8,4.8,4.8,Platinum White Pearl
+1250,cadillac,escalade luxury,2020,39919,67011.0,5.0,5.0,5.0,5.0,5.0,Satin Steel Metallic
+1251,infiniti,q50 3.0t sensory,2021,31373,41799.0,4.9,4.9,4.9,4.9,4.9,Graphite Shadow
+1252,honda,passport,2019,11827,35500.0,4.8,4.7,4.7,4.7,4.8,Lunar Silver Metallic
+1253,toyota,highlander,2017,83955,30993.0,4.9,4.8,4.7,4.8,4.8,Toasted Walnut Pearl
+1254,volkswagen,atlas cross  3.6l v6 sel,2020,14555,42570.0,4.8,4.6,4.5,4.8,4.6,Aurora Red Metallic
+1255,cadillac,srx luxury collection,2015,71442,23491.0,4.8,4.8,4.8,4.8,4.7,Crystal Red Tintcoat
+1256,toyota,corolla hatchback,2021,13755,30509.0,4.7,4.8,4.8,5.0,5.0,Red
+1257,mercedes-benz,gls 550  4matic,2017,80731,44989.0,4.8,4.7,5.0,5.0,5.0,Lunar Blue Metallic
+1258,toyota,sienna  auto access seat,2019,35878,25995.0,4.7,4.6,4.6,4.6,4.7,Silver
+1259,hyundai,tucson value,2021,17668,27597.0,4.8,4.8,4.8,4.8,4.8,Magnetic Force
+1260,mercedes-benz,glc 300,2019,50784,34998.0,4.8,4.8,4.6,4.7,4.6,Black
+1261,mercedes-benz,s-class s 550 4matic,2015,54558,59999.0,4.9,4.9,4.9,4.9,4.8,designo Diamond White
+1262,lexus,rx 350,2021,19332,54000.0,4.8,4.8,4.8,4.7,4.8,Caviar
+1263,buick,encore preferred,2020,36710,21987.0,4.9,5.0,4.9,4.9,5.0,Ebony Twilight Metallic
+1264,nissan,maxima 3.5 sv,2016,52815,15995.0,4.8,4.6,4.7,4.8,4.7,Pearl White
+1265,subaru,forester premium,2020,45164,28739.0,4.9,4.8,4.8,4.8,4.9,Magnetite Gray Metallic
+1266,mercedes-benz,g-class g 550,2017,583,409999.0,3.0,4.5,3.0,5.0,4.5,Cream
+1267,cadillac,escalade esv,2015,90675,35000.0,4.8,4.8,4.8,4.7,4.3,Dark Granite Metallic
+1268,jaguar,f-pace 25t premium,2019,24231,41590.0,4.8,4.8,4.8,4.9,4.6,Corris Grey
+1269,gmc,acadia sle-2,2019,40758,34900.0,4.8,4.7,4.8,4.8,4.9,Red Quartz Tintcoat
+1270,hyundai,tucson,2019,17531,29999.0,4.8,4.7,4.6,4.8,4.7,Coliseum Gray
+1271,mercedes-benz,s-class s 450,2019,24925,67837.0,5.0,4.8,4.4,4.7,4.3,designo Diamond White
+1272,alfa,romeo giulia ti,2018,35201,29599.0,4.6,4.7,5.0,4.9,4.6,Alfa Black
+1273,cadillac,escalade,2020,25060,82900.0,5.0,5.0,5.0,5.0,5.0,Black Raven
+1274,kia,sorento sx,2021,18545,41459.0,4.9,4.9,4.7,4.9,4.7,Passion Red Tintcoat
+1275,porsche,macan,2021,16236,62998.0,4.7,5.0,5.0,4.7,5.0,Black
+1276,gmc,yukon  slt,2020,59771,52632.0,5.0,5.0,5.0,5.0,4.7,Summit White
+1277,bmw,320 i,2018,47094,26998.0,4.9,4.8,4.9,4.8,5.0,Silver
+1278,jeep,patriot latitude,2012,94000,9890.0,3.8,3.8,3.4,4.1,4.0,Gray
+1279,ford,escape titanium,2013,82199,15745.0,4.2,4.1,4.1,4.4,3.9,Deep Impact Blue
+1280,bmw,x6 xdrive35i,2016,38144,41985.0,4.8,4.7,4.9,4.9,4.7,Space Gray Metallic
+1281,acura,tlx type s,2021,10027,58588.0,4.8,4.8,4.7,4.8,4.6,Majestic Black Pearl
+1282,toyota,rav4,2019,31572,29990.0,4.6,4.6,4.4,4.7,4.6,Silver
+1283,nissan,murano,2004,105345,5999.0,4.5,4.4,4.1,4.6,4.0,–
+1284,mercedes-benz,gls 450  4matic,2020,45135,71987.0,4.8,4.6,4.6,4.7,4.2,Black
+1285,honda,cr-v touring,2021,16187,39963.0,5.0,4.9,4.8,4.9,4.9,Black
+1286,chevrolet,tahoe ltz,2014,155151,19995.0,4.8,4.8,4.7,4.8,4.6,Black
+1287,kia,seltos sx,2021,10138,33186.0,4.8,4.8,4.7,4.9,4.8,Gravity Gray
+1288,hyundai,kona sel,2022,10574,23700.0,3.9,4.0,4.0,4.4,4.1,Ultra Black
+1289,volvo,xc40 t5 momentum,2019,12430,35800.0,4.9,4.8,4.8,4.9,4.7,Red
+1290,toyota,4runner sr5,2016,86012,31881.0,4.7,4.6,4.6,4.8,4.9,Midnight Black Metallic
+1291,tesla,model x p90d,2016,46766,72700.0,4.8,4.7,4.8,4.7,4.6,–
+1292,mazda,mazda3 s,2005,123785,5995.0,4.5,4.5,4.6,4.6,4.7,Titanium Gray Metallic
+1293,jaguar,f-pace s,2018,22444,49990.0,4.6,4.5,4.7,4.8,4.6,Santorini Black
+1294,lincoln,mkc standard,2019,17672,28490.0,4.8,4.8,4.7,4.9,4.8,Iced Mocha Metallic
+1295,cadillac,escalade premium luxury,2019,30668,65997.0,4.8,4.8,4.8,4.7,4.9,Black
+1296,gmc,sierra 1500 denali,2019,30923,56900.0,4.6,4.4,4.6,4.7,4.4,Onyx Black
+1297,hyundai,tucson,2017,22492,27765.0,4.8,4.7,4.6,4.8,4.8,Mojave Sand
+1298,lincoln,corsair standard,2021,18597,40389.0,5.0,4.6,5.0,5.0,5.0,Black
+1299,ford,escape titanium,2017,35658,27170.0,4.7,4.7,4.7,4.8,4.7,Shadow Black
+1300,chevrolet,equinox 1lt,2015,55732,21995.0,4.7,4.6,4.4,4.7,4.6,Blue Velvet Metallic
+1301,gmc,yukon denali,2017,67333,46988.0,4.8,4.8,4.7,4.9,4.7,White Frost Tri-Coat
+1302,mercedes-benz,c-class c 300 4matic,2021,15139,49000.0,5.0,4.8,5.0,5.0,5.0,Black
+1303,gmc,yukon slt,2021,35652,69560.0,4.3,4.5,4.2,4.7,3.5,Satin Steel Metallic
+1304,maserati,granturismo,2014,39158,49995.0,4.6,4.4,4.5,5.0,4.5,Bianco Eldorado
+1305,lincoln,navigator select,2019,31400,60962.0,4.7,4.8,5.0,4.9,4.9,Blue Diamond
+1306,kia,forte,2016,108939,12995.0,4.7,4.7,4.6,4.7,4.8,Red
+1307,nissan,maxima sv,2013,82799,15000.0,4.7,4.5,4.8,4.8,4.7,Java Metallic
+1308,chevrolet,equinox 2lt,2019,12330,23980.0,4.6,4.6,4.5,4.6,4.5,Gray
+1309,nissan,rogue s,2013,88216,7995.0,4.2,4.1,3.9,4.2,4.0,Pearl White
+1310,audi,s5 3.0t premium,2019,60280,44595.0,4.7,5.0,4.6,4.5,4.8,Daytona Gray Pearl Effect
+1311,toyota,camry,2017,62670,23025.0,4.7,4.7,4.7,4.7,4.9,Black
+1312,porsche,macan 4dr suv awd,2019,34364,49981.0,5.0,4.8,5.0,5.0,4.8,Black
+1313,hyundai,kona ultimate,2020,16138,29500.0,4.8,4.8,4.7,4.9,4.9,Ultra Black
+1314,chevrolet,equinox 1lt,2017,48235,21030.0,4.8,4.7,4.6,4.8,4.8,Mosaic Black Metallic
+1315,gmc,yukon  1500 sle,2015,98099,31981.0,4.8,4.7,4.6,4.8,4.5,Quicksilver Metallic
+1316,cadillac,escalade  edition,2013,143588,22500.0,4.7,4.7,4.7,4.8,4.8,Black Raven
+1317,honda,accord -l,2013,49077,18888.0,4.4,4.4,4.5,4.6,4.6,Crystal Black Pearl
+1318,porsche,macan s,2015,54393,38995.0,4.8,4.8,4.9,4.8,4.7,Aurum Metallic
+1319,audi,a8 l 55,2019,45924,55900.0,5.0,4.2,5.0,4.8,5.0,Vesuvius Gray Metallic
+1320,mercedes-benz,e-class e 300,2019,29229,42289.0,4.8,4.8,4.7,4.7,4.7,Black
+1321,tesla,model 3 performance,2018,49583,58998.0,4.7,4.7,4.9,4.7,4.6,Pearl White Multi
+1322,mercedes-benz,glb 250  4matic,2021,10179,48890.0,4.5,4.9,4.7,4.5,4.2,Polar White
+1323,ford,f-150 lariat supercab,2009,123686,14931.0,4.7,4.7,4.6,4.7,4.6,Black Clearcoat
+1324,ram,1500 laramie,2021,29148,53500.0,4.9,4.9,4.8,4.9,4.8,Diamond Black
+1325,bmw,x3 m  (a8),2020,10672,67950.0,4.3,4.9,4.9,4.9,4.6,Black Sapphire Metallic
+1326,acura,tlx fwd,2015,45336,24897.0,4.7,4.5,4.4,4.6,4.5,Black
+1327,infiniti,qx80 4wd,2016,82359,35699.0,4.9,4.8,4.6,4.8,4.7,Majestic White
+1328,honda,pilot elite,2019,39607,40000.0,4.9,4.8,4.7,4.7,4.8,Crystal Black Pearl
+1329,subaru,ascent premium,2020,19000,29500.0,4.8,4.8,4.8,4.9,4.8,Ice Silver Metallic
+1330,ford,expedition xlt,2018,46175,39995.0,4.9,4.8,4.8,4.7,4.6,Silver
+1331,ford,escape titanium,2014,80930,15044.0,4.4,4.4,4.4,4.6,4.4,Red
+1332,gmc,acadia,2017,38812,30989.0,4.9,4.8,4.7,4.8,4.7,Summit White
+1333,toyota,camry,2011,102602,8985.0,4.6,4.3,4.5,4.5,4.7,Black
+1334,gmc,sierra 1500  sle,2019,30211,37340.0,5.0,4.9,5.0,5.0,5.0,Stone Blue Metallic
+1335,volvo,xc60 b5 inscription,2022,18310,48500.0,5.0,5.0,1.0,5.0,1.0,Crystal White Metallic
+1336,acura,rdx,2020,54369,37440.0,4.8,4.7,4.7,4.8,4.6,Majestic Black Pearl
+1337,ford,escape,2018,45657,19854.0,4.8,4.7,4.7,4.8,4.8,Cinnamon Glaze Metallic
+1338,toyota,sequoia sr5,2012,128075,19000.0,4.8,4.5,4.7,4.2,4.8,Silver Sky Metallic
+1339,mercedes-benz,gls 580  4matic,2020,18700,104788.0,5.0,5.0,5.0,5.0,4.0,Black
+1340,gmc,yukon at4,2021,12554,79960.0,4.3,4.5,4.2,4.7,3.5,Onyx Black
+1341,toyota,tundra sr5,2020,30123,43800.0,4.8,4.6,4.7,4.8,4.9,Cement
+1342,nissan,rogue s,2019,32577,25919.0,4.8,4.8,4.6,4.8,4.7,Magnetic Black
+1343,mercedes-benz,g-class g 63 amg,2015,29419,94900.0,4.7,4.8,4.8,4.9,4.8,Steel Gray Metallic
+1344,subaru,forester premium,2019,37645,28764.0,4.8,4.7,4.6,4.7,4.8,Dark Gray Metallic
+1345,volvo,s60 t5,2014,55515,18498.0,4.7,4.8,4.9,4.8,4.9,Black Stone
+1346,lexus,nx 300,2019,11603,42988.0,4.8,4.7,4.6,4.8,4.7,Caviar
+1347,jaguar,f-pace 25t prestige,2019,26244,39987.0,4.8,4.8,4.8,4.9,4.6,Indus Silver
+1348,porsche,macan,2019,18654,53995.0,5.0,4.8,5.0,5.0,4.8,Chalk
+1349,porsche,macan s,2018,34180,51880.0,4.9,4.8,4.9,4.9,4.9,Black
+1350,lexus,ux 250h,2020,1295,39400.0,4.9,4.9,5.0,5.0,5.0,Eminent White Pearl
+1351,jeep,compass trailhawk,2020,39354,29429.0,4.8,4.8,4.7,4.9,4.8,Diamond Black
+1352,kia,telluride sx,2022,17092,56347.0,5.0,5.0,4.6,4.9,4.4,Glacial White Pearl
+1353,ford,ecosport,2020,14026,23935.0,4.7,4.8,4.5,4.8,4.9,Smoke Metallic
+1354,ford,escape titanium,2018,35936,29995.0,4.8,4.7,4.7,4.8,4.8,Magnetic Metallic
+1355,ford,mustang mach-e premium,2021,3304,66495.0,4.8,4.9,4.8,4.8,4.6,Gray
+1356,cadillac,xt6 awd premium luxury,2020,19253,54490.0,4.6,4.5,4.6,4.7,4.5,Stellar Black Metallic
+1357,honda,pilot touring,2011,127252,13995.0,4.7,4.4,4.4,4.5,4.6,White Diamond Pearl
+1358,jeep,grand cherokee trackhawk,2018,37197,87000.0,4.9,4.8,4.8,4.9,4.7,Diamond Black
+1359,ford,explorer,2020,19440,52400.0,4.7,4.6,4.5,4.7,4.3,Agate Black Metallic
+1360,gmc,yukon slt,2018,103787,39900.0,4.9,5.0,5.0,4.9,4.9,Onyx Black
+1361,chevrolet,suburban premier,2017,88230,40495.0,4.8,4.7,4.5,4.7,4.4,Tungsten Metallic
+1362,acura,tl 3.5,2014,86994,17286.0,4.8,4.8,4.9,4.7,4.9,Crystal Black Pearl
+1363,kia,sportage s,2020,18007,29997.0,4.8,4.8,4.8,4.8,4.9,Black Cherry Pearl
+1364,subaru,forester 2.5i premium,2018,31450,26911.0,4.8,4.6,4.7,4.7,4.8,Crystal Black Pearl
+1365,subaru,ascent touring 7-passenger,2021,16666,45300.0,4.8,4.8,4.7,4.5,4.7,Magnetite Gray Metallic
+1366,porsche,718 boxster s,2017,19866,69990.0,4.6,4.8,4.9,4.9,4.9,Black
+1367,infiniti,qx50 luxe,2019,11857,38998.0,4.9,4.8,4.6,4.9,4.7,Lunar White
+1368,hyundai,kona,2020,49512,18991.0,4.8,4.8,4.7,4.9,4.9,Chalk White
+1369,hyundai,tucson value,2019,15850,28900.0,4.8,4.7,4.6,4.8,4.7,Black
+1370,ram,1500 big horn,2020,15747,40400.0,4.9,4.9,4.8,4.8,4.7,Diamond Black
+1371,bmw,530 i xdrive,2019,33814,35950.0,4.9,4.8,4.8,4.9,4.7,Black
+1372,buick,encore preferred,2017,31844,13900.0,4.6,4.6,4.5,4.8,4.7,Silver
+1373,chevrolet,tahoe lt,2017,49394,42499.0,4.8,4.7,4.6,4.8,4.7,Pepperdust Metallic
+1374,volkswagen,atlas 2.0t s,2021,17596,37000.0,4.9,4.7,4.8,4.9,4.9,Tourmaline Blue Metallic
+1375,toyota,rav4,2018,16670,28972.0,4.8,4.7,4.8,4.8,4.9,Silver
+1376,honda,civic,2019,7869,29100.0,4.8,4.8,4.9,4.9,4.9,Modern Steel Metallic
+1377,mercedes-benz,a-class a 220,2020,19695,39987.0,5.0,5.0,5.0,5.0,5.0,Metallic
+1378,ram,1500 classic slt,2020,13326,39000.0,4.8,4.8,4.8,4.8,4.7,Black Clearcoat
+1379,volkswagen,atlas 3.6 v6  w/ technology r-line,2021,19130,43488.0,4.9,4.7,4.8,4.9,4.9,Pyrite Silver Metallic
+1380,cadillac,ct6 luxury,2019,17676,43281.0,5.0,5.0,4.8,5.0,4.9,Crystal White Tri-Coat
+1381,bmw,m340 i xdrive,2020,33550,51209.0,4.8,4.8,5.0,4.9,4.9,Black Sapphire Metallic
+1382,jeep,gladiator rubicon,2021,15294,53600.0,4.9,4.9,4.9,5.0,5.0,Sarge Green Clearcoat
+1383,ford,escape,2006,137104,5995.0,4.1,4.0,3.9,4.3,4.2,Gray
+1384,hyundai,santa fe  2.4l,2018,44731,20489.0,4.7,4.8,4.6,4.8,4.8,Nightfall Blue
+1385,chevrolet,tahoe premier,2017,89699,39977.0,4.8,4.7,4.6,4.8,4.7,Iridescent Pearl Tricoat
+1386,buick,envision essence,2019,35813,27989.0,4.7,4.8,4.6,4.8,4.7,Ebony Twilight Metallic
+1387,nissan,armada,2020,45053,38303.0,5.0,4.6,4.7,4.6,4.7,Super Black
+1388,mazda,mazda3 i touring,2013,45258,16995.0,4.5,4.6,4.8,4.7,4.8,Velocity Red Mica
+1389,mercedes-benz,gle-class gle 350,2016,30491,33995.0,4.9,4.9,4.7,4.8,4.7,Black
+1390,jeep,grand cherokee overland,2021,23100,45578.0,4.7,4.7,4.7,4.7,4.7,Diamond Black
+1391,mercedes-benz,s-class s 550,2016,72486,44995.0,4.9,5.0,4.9,4.9,4.8,Dark Green
+1392,kia,cadenza technology,2017,50449,23382.0,4.9,4.9,4.7,4.8,4.8,Silky Silver
+1393,toyota,camry,2020,16188,32000.0,4.7,4.7,4.7,4.8,4.8,Galactic Aqua
+1394,lexus,rx 350,2010,88728,17949.0,4.7,4.6,4.6,4.7,4.7,Smoky Granite
+1395,land,rover range rover velar s r-dynamic,2020,15866,59998.0,4.2,4.5,4.1,4.9,4.2,Eiger Grey
+1396,volvo,s60 t6 inscription,2019,15391,38351.0,4.9,5.0,4.9,5.0,5.0,Crystal White Pearl Metallic
+1397,audi,sq5 3.0t premium,2018,37212,41988.0,4.7,4.8,4.6,4.8,4.6,Ibis White
+1398,mercedes-benz,gla 250,2019,25624,29894.0,4.6,4.5,4.6,4.7,4.7,Jupiter Red
+1399,bmw,750 i,2019,22479,62984.0,5.0,5.0,5.0,5.0,5.0,Black Sapphire Metallic
+1400,infiniti,q50 3.0t,2017,49386,25995.0,4.6,4.6,4.7,4.8,4.7,Hagane Blue
+1401,jeep,grand cherokee altitude,2018,62527,30995.0,4.9,4.8,4.8,4.9,4.7,Diamond Black
+1402,buick,enclave premium,2014,87439,19991.0,4.8,4.7,4.5,4.8,4.5,Quicksilver Metallic
+1403,mercedes-benz,cla 250,2018,27170,33250.0,4.4,4.5,4.6,4.8,4.5,Polar White
+1404,jeep,wrangler,2021,18306,40000.0,4.8,4.8,4.8,4.8,4.8,Snazzberry Pearlcoat
+1405,chevrolet,corvette z06,2016,16040,78675.0,4.7,4.8,4.9,4.9,4.8,Arctic White
+1406,chevrolet,tahoe lt,2012,81915,22962.0,4.9,4.7,4.8,4.8,4.8,Black
+1407,bmw,x2 xdrive28i,2018,36673,33490.0,4.6,4.7,4.7,4.9,4.5,Black Sapphire Metallic
+1408,mercedes-benz,glc 300  4matic,2018,46161,31999.0,4.8,4.7,4.6,4.8,4.6,Black
+1409,volkswagen,passat 2.0t,2020,45199,21990.0,4.8,4.6,4.6,4.7,4.8,Deep Black Pearl Effect
+1410,kia,sorento,2021,17140,39677.0,4.9,4.9,4.7,4.9,4.7,Passion Red Tintcoat
+1411,toyota,4runner trd pro,2021,22628,58517.0,5.0,4.9,4.8,4.9,4.9,Midnight Black Metallic
+1412,toyota,camry,2012,93692,13785.0,4.5,4.5,4.5,4.4,4.7,Silver
+1413,hyundai,sonata sel,2021,15043,31691.0,4.8,4.8,4.7,4.9,4.8,Phantom Black
+1414,jaguar,xe 35t first edition,2017,71305,29992.0,4.7,4.5,4.8,4.8,4.8,Glacier White
+1415,chevrolet,cruze lt w/1lt,2012,81859,6250.0,4.1,4.3,3.9,4.4,4.0,Red
+1416,bmw,m3,2018,43219,61950.0,4.4,4.6,4.7,4.6,4.3,White
+1417,mercedes-benz,amg gle 53,2021,18822,92995.0,4.2,4.6,3.8,4.6,2.5,White
+1418,hyundai,santa fe  2.4,2020,14725,29500.0,4.9,4.8,4.7,4.9,4.9,Portofino Gray
+1419,subaru,forester 2.5i,2015,48558,22991.0,4.5,4.4,4.6,4.5,4.7,Burnished Bronze Metallic
+1420,audi,a4 40 premium,2021,13390,36993.0,5.0,5.0,5.0,4.8,5.0,Manhattan Gray Metallic
+1421,lexus,gs 350,2015,85126,24895.0,4.8,4.8,4.6,4.8,4.9,Nebula Gray Pearl
+1422,honda,accord touring,2016,82707,24319.0,4.8,4.7,4.7,4.8,4.8,Black
+1423,ford,explorer,2019,47280,33888.0,4.8,4.8,4.8,4.9,4.8,Burgundy
+1424,subaru,outback,2020,48121,36988.0,4.9,4.7,4.6,4.8,4.7,Magnetite Gray Metallic
+1425,jeep,wrangler unlimited rubicon,2021,14417,61471.0,4.9,5.0,4.9,4.9,4.8,STING
+1426,chevrolet,camaro 1lt,2019,28576,31491.0,4.5,4.6,4.9,4.9,4.8,Black
+1427,dodge,durango gt,2021,13211,40997.0,4.9,4.9,4.7,4.9,4.8,Reactor Blue Pearlcoat
+1428,mitsubishi,eclipse gs,2012,19949,12985.0,4.6,4.1,4.4,4.7,4.7,Silver
+1429,hyundai,sonata gls,2011,151856,7500.0,4.4,4.5,4.4,4.7,4.3,Radiant Silver
+1430,kia,k5 gt-line,2021,33282,32391.0,4.8,4.8,4.5,4.8,4.6,Sapphire Blue
+1431,mini,hardtop cooper,2015,77270,15900.0,4.5,4.8,4.9,4.9,4.9,Electric Blue Metallic
+1432,toyota,highlander,2019,35998,40000.0,4.8,4.7,4.6,4.7,4.6,Midnight Black Metallic
+1433,subaru,ascent touring 7-passenger,2019,16251,40173.0,4.7,4.6,4.6,4.6,4.5,White
+1434,nissan,rogue  sv,2019,12533,26500.0,4.6,4.5,4.5,4.6,4.7,Gun Metallic
+1435,jaguar,e-pace p250,2021,11062,47777.0,5.0,5.0,5.0,5.0,5.0,Fuji White
+1436,audi,a5 2.0t premium,2018,63576,30954.0,4.8,4.8,4.9,5.0,5.0,Glacier White Metallic
+1437,volkswagen,tiguan 2.0t sel premium r-line,2020,11261,39998.0,4.8,4.8,4.6,4.8,4.8,Deep Black Pearl Effect
+1438,toyota,corolla s,2015,41670,17995.0,4.6,4.6,4.6,4.6,4.8,Black
+1439,mazda,cx-5 touring,2018,37215,26990.0,4.8,4.8,4.7,4.8,4.8,Jet Black Mica
+1440,bmw,x2 m35i,2022,12610,44773.0,5.0,4.5,5.0,4.5,5.0,Black Sapphire Metallic
+1441,nissan,pathfinder,2019,18050,36541.0,4.7,4.5,4.6,4.7,4.6,Gun Metallic
+1442,chevrolet,suburban z71,2021,16632,78793.0,4.9,4.9,4.2,4.8,4.2,Shadow Gray Metallic
+1443,porsche,cayenne  edition,2017,53907,48901.0,4.8,4.8,4.9,4.8,4.7,Mahogany Metallic
+1444,alfa,romeo giulia ti,2019,19114,36998.0,4.7,4.7,4.8,5.0,4.3,Rosso
+1445,jeep,renegade latitude,2019,28899,22289.0,4.5,4.5,4.4,4.5,4.6,Alpine White Clearcoat
+1446,mercedes-benz,a-class a 220,2021,10844,39998.0,4.5,4.5,4.5,4.5,4.5,Gray
+1447,maserati,ghibli,2019,28150,47880.0,5.0,4.7,5.0,5.0,5.0,Black
+1448,jeep,wrangler unlimited rubicon 392,2021,19867,86999.0,4.9,5.0,4.9,4.9,4.8,Granite Crystal Clearcoat Metallic
+1449,tesla,model x 90d,2017,63522,74991.0,4.7,4.6,4.9,4.7,4.6,White
+1450,lincoln,nautilus reserve,2019,27166,42345.0,4.9,4.7,4.6,4.9,4.7,Infinite Black Metallic
+1451,mercedes-benz,c-class c 300,2015,81274,22495.0,4.8,4.8,4.7,4.8,4.6,Lunar Blue Metallic
+1452,land,rover range rover 5.0l supercharged,2016,86448,48990.0,5.0,4.9,5.0,4.9,4.7,Fuji White
+1453,kia,sportage,2021,33176,24729.0,4.9,4.8,4.8,4.8,4.8,Steel Gray
+1454,kia,optima sx turbo,2019,41495,29795.0,4.8,4.9,4.7,4.9,4.8,Ebony Black
+1455,chevrolet,equinox premier w/1lz,2018,50177,26123.0,4.7,4.7,4.7,4.8,4.7,Mosaic Black Metallic
+1456,acura,tlx w/technology package,2017,96641,20894.0,4.9,4.6,4.4,4.7,4.8,Black
+1457,kia,optima,2013,86052,18998.0,4.6,4.6,4.5,4.8,4.5,Black
+1458,chevrolet,silverado 1500 ls,2017,60050,29000.0,4.8,4.7,4.7,4.9,4.7,Black
+1459,lincoln,continental select,2019,19334,43995.0,4.5,4.5,4.6,4.8,4.4,Ceramic Pearl
+1460,ford,explorer,2017,84585,28000.0,4.8,4.7,4.6,4.8,4.7,–
+1461,toyota,sienna,2013,140199,16495.0,4.7,4.5,4.5,4.5,4.6,Maroon
+1462,jeep,grand cherokee,2016,48301,27777.0,4.8,4.7,4.7,4.7,4.6,Bright White Clearcoat
+1463,kia,sportage nightfall,2022,11795,32500.0,4.9,4.6,4.7,5.0,4.6,Steel Gray
+1464,toyota,sienna,2017,45643,31998.0,4.8,4.8,4.6,4.7,4.8,Gray
+1465,ford,f-150 xlt,2012,137659,18750.0,4.7,4.6,4.6,4.7,4.5,Pale Adobe Metallic
+1466,honda,odyssey touring,2013,142567,16189.0,4.8,4.6,4.5,4.6,4.7,Polished Metal Metallic
+1467,hyundai,tucson,2020,16414,25999.0,4.8,4.8,4.7,4.8,4.8,Black Noir Pearl
+1468,jeep,patriot,2014,89982,15799.0,4.4,4.3,4.1,4.5,4.4,Black Clearcoat
+1469,kia,forte lxs,2021,35112,22498.0,4.8,4.9,4.8,4.9,4.8,Silky Silver
+1470,mercedes-benz,glc 300,2021,11860,51988.0,4.9,4.8,4.7,4.8,4.5,Black
+1471,mercedes-benz,gla 250,2018,14300,34999.0,4.5,4.5,4.4,4.8,4.4,Midnight Black
+1472,acura,tlx v6 tech,2016,66166,24975.0,4.6,4.4,4.5,4.6,4.5,–
+1473,honda,cr-v,2021,12416,37982.0,5.0,4.9,4.8,4.9,4.9,Gray
+1474,mazda,cx-5,2018,33615,26812.0,4.8,4.8,4.7,4.8,4.8,Eternal Blue Mica
+1475,chevrolet,blazer rs,2022,14719,47651.0,4.8,4.8,5.0,5.0,5.0,Cherry Red Tintcoat
+1476,bmw,m6,2018,45268,70997.0,5.0,5.0,5.0,5.0,5.0,San Marino Blue Metallic
+1477,gmc,terrain slt,2020,32284,30995.0,4.8,4.7,4.6,4.8,4.6,Graphite Gray Metallic
+1478,gmc,sierra 1500 at4,2021,18856,66450.0,4.4,4.3,4.1,4.4,3.9,–
+1479,bmw,x3 xdrive28i,2011,73361,12999.0,4.9,4.7,4.9,4.8,4.1,Black
+1480,bmw,x5 xdrive35i,2013,50569,14995.0,4.7,4.6,4.8,4.8,4.6,Silver Metallic
+1481,chevrolet,colorado z71,2017,61515,24977.0,4.6,4.5,4.6,4.7,4.6,Burning Hot Metallic
+1482,nissan,maxima 3.5,2018,16591,28999.0,4.9,4.9,4.9,4.9,4.8,Brilliant Silver
+1483,acura,mdx  hybrid 3.0l w/technology package,2020,18168,48999.0,5.0,5.0,5.0,4.0,5.0,Black
+1484,audi,q5 s line premium,2022,11599,48340.0,5.0,5.0,5.0,5.0,5.0,Glacier White Metallic
+1485,alfa,romeo giulia,2021,10146,35991.0,5.0,5.0,5.0,5.0,5.0,Alfa White
+1486,bmw,430 i,2020,16495,33998.0,4.9,5.0,4.9,5.0,5.0,Black
+1487,alfa,romeo stelvio ti,2018,34821,32888.0,4.7,4.5,4.9,4.8,4.6,Vulcano Black Metallic
+1488,honda,cr-v -l,2013,108533,16571.0,4.5,4.5,4.5,4.5,4.7,White Diamond Pearl
+1489,audi,e-tron premium,2019,18169,62990.0,4.8,4.8,4.3,4.8,4.3,Mythos Black Metallic
+1490,kia,sportage,2022,13623,29000.0,4.9,4.6,4.7,5.0,4.6,Pacific Blue
+1491,dodge,durango sxt,2021,11603,37599.0,4.9,4.9,4.7,4.9,4.8,White Knuckle Clearcoat
+1492,infiniti,qx30 premium,2017,33401,26500.0,4.3,4.2,4.2,4.5,4.2,White
+1493,lexus,es 350,2017,23870,34000.0,4.7,4.7,4.7,4.7,4.8,Satin Cashmere Metallic
+1494,infiniti,qx60,2017,60265,29787.0,4.8,4.6,4.7,4.7,4.7,White
+1495,nissan,juke sv,2014,85022,13499.0,4.6,4.6,4.8,4.8,4.7,Brilliant Silver
+1496,gmc,sierra 1500 denali,2017,39135,43499.0,4.8,4.7,4.6,4.8,4.6,Onyx Black
+1497,volvo,s60 momentum,2019,25291,36995.0,4.9,5.0,4.9,5.0,5.0,OSMIUM GREY MET
+1498,bmw,m5 competition,2020,17748,96995.0,4.8,5.0,5.0,5.0,5.0,Gray Metallic
+1499,audi,a7 3.0t premium,2018,37450,48221.0,4.9,4.8,4.9,4.8,4.8,Mythos Black Metallic
+1500,lexus,rx 350 rx 350,2021,13426,50999.0,4.8,4.8,4.8,4.7,4.8,Eminent White Pearl
+1501,bmw,m3 cs,2018,53388,56787.0,4.4,4.6,4.7,4.6,4.3,Azurite Black Metallic
+1502,land,rover range rover velar p340  r-dynamic,2019,23866,54995.0,3.7,4.2,3.3,4.5,2.9,Corris Grey
+1503,audi,a8 l 4.0t,2016,23663,45995.0,4.9,4.8,4.9,4.8,4.9,Glacier White Metallic
+1504,porsche,911 targa 4s,2018,18070,149991.0,4.5,4.8,5.0,5.0,4.8,Jet Black Metallic
+1505,chevrolet,tahoe ltz,2013,80482,28452.0,4.8,4.5,4.4,4.7,4.6,Black
+1506,land,rover range rover evoque  premium,2016,83544,26212.0,4.2,4.6,4.1,4.7,4.0,Fuji White
+1507,audi,a5 2.0t premium,2021,13921,53777.0,5.0,4.7,5.0,4.9,4.4,Mythos Black Metallic
+1508,chrysler,300c,2016,176504,13997.0,4.9,4.8,4.9,4.9,4.8,Billet Silver Metallic Clearcoat
+1509,toyota,corolla xse,2020,46357,29885.0,4.7,4.7,4.7,4.8,4.8,Black
+1510,audi,a6 2.0t premium,2017,58199,29577.0,4.8,4.9,4.9,4.9,4.8,Glacier White Metallic
+1511,lexus,rx 450h rx 450h,2017,36873,45988.0,4.9,4.8,4.7,4.8,4.9,Black
+1512,volvo,s60 t6 momentum,2020,32022,35509.0,5.0,4.9,5.0,5.0,4.9,Gray Metallic
+1513,volvo,xc60 t6 inscription,2018,30588,39989.0,4.9,4.9,4.8,4.9,4.8,Onyx Black Metallic
+1514,land,rover discovery  hse,2019,23802,37997.0,4.8,4.6,4.8,4.9,4.4,Narvik Black
+1515,jeep,wrangler unlimited sahara altitude,2021,17620,58970.0,4.9,5.0,4.9,4.9,4.8,Black Clearcoat
+1516,jeep,grand cherokee overland,2011,117906,14998.0,4.7,4.6,4.4,4.7,4.4,Brilliant Black Crystal Pearl
+1517,lexus,rx 350 350 package!,2018,53239,38275.0,4.8,4.9,4.8,4.8,4.8,Nebula Gray Pearl
+1518,mercedes-benz,e-class e 450 4matic,2020,21561,64994.0,5.0,5.0,5.0,5.0,5.0,Black
+1519,kia,sorento,2016,82839,18994.0,4.7,4.7,4.7,4.7,4.7,Remington Red
+1520,kia,sportage,2019,49899,19612.0,4.7,4.7,4.6,4.8,4.8,Steel Gray
+1521,bmw,x2 xdrive28i,2020,9304,43495.0,4.8,5.0,5.0,5.0,4.9,Black Sapphire Metallic
+1522,honda,pilot touring,2017,81203,29110.0,4.8,4.7,4.7,4.7,4.7,Crystal Black Pearl
+1523,toyota,highlander,2020,15000,47588.0,4.6,4.6,4.7,4.7,4.8,Blizzard Pearl
+1524,mazda,cx-5 grand touring reserve,2020,24274,34081.0,4.9,4.9,4.8,4.9,4.9,Deep Crystal Blue Mica
+1525,buick,enclave premium,2012,57635,16295.0,4.8,4.5,4.3,4.7,4.4,Cocoa Metallic
+1526,lexus,lc 500,2019,21970,84990.0,5.0,5.0,5.0,5.0,5.0,Nightfall Mica
+1527,hyundai,tucson sel,2019,19280,26000.0,4.8,4.7,4.6,4.8,4.7,Sage Brown
+1528,mitsubishi,outlander  2.0 es,2020,15740,22995.0,5.0,4.9,4.8,5.0,5.0,Alloy Silver Metallic
+1529,audi,a4 2.0t premium,2017,86942,26979.0,4.8,4.9,4.8,4.7,4.8,Manhattan Gray Metallic
+1530,honda,hr-v,2022,16471,27999.0,3.5,2.8,3.2,4.0,4.0,Modern Steel Metallic
+1531,buick,encore essence,2020,48450,21050.0,4.9,5.0,4.9,4.9,5.0,Ebony Twilight Metallic
+1532,dodge,journey crossroad,2017,63324,16204.0,4.7,4.6,4.6,4.7,4.7,Billet Clearcoat
+1533,chevrolet,equinox 1lt,2021,45081,29991.0,4.8,4.8,4.7,4.8,4.7,Cajun Red Tintcoat
+1534,toyota,4runner trd pro,2020,36123,57487.0,4.8,4.7,4.7,4.8,4.9,Midnight Black Metallic
+1535,audi,a3 1.8t premium,2015,33780,19450.0,4.6,4.5,4.6,4.6,4.4,Black
+1536,nissan,armada,2019,48462,37397.0,4.8,4.8,4.5,4.8,4.5,Black
+1537,subaru,forester,2019,15659,34998.0,4.8,4.7,4.6,4.7,4.8,Ice Silver Metallic
+1538,toyota,tacoma,2015,59669,22700.0,4.5,4.5,4.6,4.7,4.9,Blue Ribbon Metallic
+1539,hyundai,tucson,2018,43709,21199.0,4.7,4.7,4.6,4.8,4.7,Black Noir Pearl
+1540,audi,a3 2.0t premium,2018,29721,30900.0,4.9,4.9,4.9,4.9,4.9,Mythos Black Metallic
+1541,land,rover range rover 5.0l v8 supercharged,2019,23636,88929.0,4.7,4.6,4.5,4.5,4.4,Santorini Black
+1542,honda,hr-v,2019,10604,25280.0,4.6,4.6,4.4,4.8,4.7,Black
+1543,mercedes-benz,450,2020,7583,94563.0,5.0,4.7,4.7,5.0,5.0,Black
+1544,honda,accord  2.0t,2021,13894,36356.0,4.9,5.0,4.9,5.0,5.0,Still Night Pearl
+1545,lexus,rx 350l premium,2019,21221,42569.0,5.0,4.8,4.9,4.8,4.9,Nightfall Mica
+1546,acura,tlx technology,2020,15843,32560.0,4.9,4.8,4.8,4.8,4.9,Blue
+1547,acura,rdx,2018,54524,26998.0,4.8,4.7,4.7,4.7,4.9,Black
+1548,bmw,x1 sdrive28i,2022,5645,38777.0,5.0,5.0,5.0,5.0,5.0,Black Sapphire Metallic
+1549,porsche,cayman gt4,2016,19766,105899.0,4.5,5.0,4.8,5.0,4.9,Racing Yellow
+1550,acura,tsx 2.4,2011,65579,16950.0,4.6,4.5,4.5,4.7,4.6,Black
+1551,toyota,4runner sr5,2018,56409,37958.0,4.8,4.7,4.7,4.9,4.9,Midnight Black Metallic
+1552,toyota,tundra,2007,130818,19989.0,4.4,4.3,4.6,4.5,4.6,Red
+1553,ford,explorer xlt,2017,85180,23998.0,4.8,4.7,4.6,4.8,4.7,Gray
+1554,lexus,gs 350,2014,49940,28496.0,4.8,4.8,4.6,4.6,4.9,Obsidian Black
+1555,mazda,cx-9 touring,2013,92383,13998.0,4.6,4.5,4.5,4.7,4.5,Brilliant Black Clearcoat
+1556,volkswagen,jetta 1.4t s,2021,20285,23996.0,4.9,4.6,4.9,4.9,4.8,Black
+1557,nissan,maxima 3.5,2017,57257,24990.0,4.8,4.8,4.8,4.8,4.8,Super Black
+1558,lexus,is 300,2019,10207,38998.0,5.0,4.8,4.8,5.0,5.0,Gray
+1559,hyundai,ioniq 5,2022,520,58236.0,5.0,5.0,4.7,5.0,5.0,Phantom Black
+1560,mercedes-benz,m-class ml 350 4matic,2013,87270,21500.0,4.7,4.7,4.6,4.7,4.6,Black
+1561,mercedes-benz,cla 250  4matic,2018,18965,31500.0,4.4,4.5,4.6,4.8,4.5,Polar White
+1562,land,rover range rover velar p380 hse r-dynamic,2019,43076,68995.0,3.7,4.2,3.3,4.5,2.9,Corris Grey
+1563,gmc,terrain slt,2021,39164,32940.0,4.8,4.8,4.6,4.9,4.8,Summit White
+1564,dodge,charger,2010,101000,6995.0,4.5,4.2,4.5,4.6,4.5,Black
+1565,chevrolet,silverado 1500 lt,2021,17307,39900.0,4.7,4.6,4.5,4.6,4.2,Black
+1566,hyundai,tucson value,2020,47965,21717.0,4.8,4.8,4.7,4.8,4.8,Gemstone Red
+1567,kia,forte lxs,2020,14785,20750.0,4.7,4.8,4.6,4.8,4.7,White
+1568,mercedes-benz,amg glc 63 s 4matic,2019,28915,81502.0,4.3,4.3,3.7,4.3,3.7,White
+1569,land,rover range rover  3.0l supercharged hse,2020,19987,74979.0,4.5,4.7,4.6,4.8,4.3,Eiger Grey
+1570,volkswagen,atlas 3.6l sel premium,2019,54386,44998.0,4.7,4.6,4.3,4.7,4.4,Pure White
+1571,lexus,is 350,2020,18412,40000.0,5.0,5.0,5.0,5.0,5.0,Obsidian Black
+1572,ford,explorer st,2020,24250,52985.0,4.7,4.6,4.5,4.7,4.3,Agate Black Metallic
+1573,lexus,rx 350,2011,69853,20699.0,4.8,4.7,4.6,4.7,4.8,Satin Cashmere Metallic
+1574,jeep,grand cherokee,2011,144005,13533.0,4.7,4.6,4.4,4.7,4.4,Inferno Red Crystal Pearl
+1575,kia,forte lxs,2022,12042,22228.0,4.8,5.0,5.0,5.0,5.0,Deep Sea Blue
+1576,subaru,crosstrek,2021,13413,27000.0,4.9,4.8,4.8,4.8,4.8,Magnetite Gray Metallic
+1577,audi,a4 2.0t premium,2017,38000,23900.0,4.8,4.9,4.8,4.7,4.8,Brilliant Black
+1578,audi,q5 2.0t prestige,2019,22589,45842.0,4.8,4.6,4.7,4.7,4.7,Manhattan Gray Metallic
+1579,ford,mustang ecoboost premium,2021,16055,36987.0,4.8,4.8,5.0,4.8,5.0,Shadow Black
+1580,chevrolet,malibu 1lt,2017,68114,20500.0,4.8,4.7,4.6,4.8,4.7,Mosaic Black Metallic
+1581,ford,explorer,2015,87752,23989.0,4.6,4.6,4.5,4.6,4.5,White Platinum Tri-Coat Metallic
+1582,chevrolet,silverado 1500 custom,2020,21011,36742.0,4.7,4.6,4.6,4.8,4.5,Black
+1583,honda,fit,2011,49540,12750.0,4.4,4.6,4.4,4.7,5.0,Celestial Blue Metallic
+1584,gmc,terrain sle,2021,12468,33991.0,4.8,4.8,4.6,4.9,4.8,Ebony Twilight Metallic
+1585,mercedes-benz,glc 300 4matic coupe,2021,12976,63579.0,4.9,4.8,4.7,4.8,4.5,Black
+1586,ford,escape,2019,46468,24795.0,4.8,4.7,4.7,4.7,4.7,Oxford White
+1587,kia,soul +,2015,146925,6495.0,4.6,4.7,4.5,4.7,4.6,Black
+1588,hyundai,elantra,2018,10826,18873.0,4.7,4.7,4.7,4.8,4.8,Symphony Silver
+1589,ford,fusion sel,2012,105245,7995.0,4.4,4.4,4.3,4.5,4.4,Black
+1590,land,rover range rover  hse,2009,95745,12930.0,4.6,4.5,4.5,4.9,4.2,Black
+1591,volvo,xc90 t6 momentum 7 passenger,2021,19388,55384.0,5.0,5.0,5.0,5.0,5.0,Onyx Black Metallic
+1592,hyundai,kona sel,2021,11466,26329.0,5.0,4.9,4.9,5.0,5.0,Sonic Silver
+1593,porsche,911 carrera s,2020,15143,150994.0,4.9,4.9,5.0,5.0,4.6,–
+1594,honda,cr-v,2017,18242,28750.0,4.8,4.8,4.7,4.8,4.8,Basque Red Pearl II
+1595,porsche,911 turbo s,2021,18339,245500.0,5.0,4.8,5.0,5.0,4.8,Agate Gray Metallic
+1596,mazda,cx-5 touring,2020,19845,28692.0,4.9,4.9,4.8,4.9,4.9,Deep Crystal Blue Mica
+1597,subaru,outback 2.5i,2016,69365,24654.0,4.7,4.6,4.7,4.7,4.8,Crystal White Pearl
+1598,ford,f-150 xlt,2020,26087,41729.0,4.9,4.8,4.8,4.8,4.8,Gray
+1599,jeep,gladiator,2021,18171,47700.0,4.9,4.9,4.9,5.0,5.0,Black Clearcoat
+1600,lincoln,mkc select,2019,10250,34500.0,4.8,4.8,4.7,4.9,4.8,Ingot Silver Metallic
+1601,ford,focus,2018,44920,17998.0,4.6,4.6,4.5,4.7,4.7,Black
+1602,kia,optima,2020,10955,25999.0,4.9,4.9,4.7,4.9,5.0,Sparkling Silver
+1603,jeep,cherokee trailhawk,2019,17405,29500.0,4.8,4.7,4.5,4.7,4.6,Red
+1604,nissan,altima 2.5,2018,39104,24791.0,4.9,4.7,4.7,4.8,4.8,Super Black
+1605,chevrolet,tahoe lt,2018,49429,44990.0,4.9,4.8,4.8,4.8,4.8,Blue Velvet Metallic
+1606,audi,a5 40 premium,2021,11524,43500.0,5.0,4.7,5.0,4.9,4.4,Manhattan Gray Metallic
+1607,jaguar,f-pace 35t premium,2017,45349,33995.0,4.6,4.5,4.9,4.9,4.6,Polaris White
+1608,toyota,c-hr,2020,37257,26700.0,5.0,4.9,4.9,5.0,5.0,Magnetic Gray Metallic
+1609,subaru,forester,2021,20808,28752.0,4.9,4.9,4.9,4.8,4.9,Magnetite Gray Metallic
+1610,dodge,durango srt hellcat,2021,16682,104999.0,4.9,4.9,4.7,4.9,4.8,Octane Red Pearlcoat
+1611,bmw,328d,2018,48689,25886.0,4.9,4.8,4.9,4.7,4.6,Mineral Gray Metallic
+1612,toyota,camry,2019,39789,26997.0,4.8,4.7,4.7,4.9,4.8,Brownstone
+1613,hyundai,sonata sel,2019,33117,23939.0,4.9,4.8,4.7,4.8,4.8,Scarlet Red
+1614,volkswagen,atlas cross  2.0t,2020,45981,34991.0,4.8,4.6,4.5,4.8,4.6,Pacific Blue
+1615,jeep,compass latitude,2014,114211,13887.0,4.4,4.3,4.2,4.5,4.4,Black Clearcoat
+1616,subaru,outback 2.5i premium,2019,18462,29123.0,4.8,4.7,4.7,4.7,4.7,Wilderness Green Metallic
+1617,toyota,highlander,2020,48986,44900.0,4.6,4.6,4.7,4.7,4.8,Gray
+1618,porsche,macan s,2016,47923,39900.0,4.8,4.8,4.8,5.0,4.8,White
+1619,land,rover defender 110 first edition,2020,19085,78900.0,4.3,4.5,4.3,4.3,3.7,Indus Silver
+1620,land,rover range rover 5.0l v8 supercharged autobiography,2019,24912,124990.0,4.7,4.6,4.5,4.5,4.4,–
+1621,jeep,grand cherokee overland,2015,84945,25850.0,4.9,4.8,4.8,4.9,4.7,White
+1622,land,rover range rover velar p250 s,2021,14679,60272.0,5.0,4.7,5.0,5.0,4.7,Hakuba Silver Metallic
+1623,audi,q5 premium,2021,12813,47862.0,4.6,4.4,4.7,4.5,4.7,White
+1624,audi,q7 55 premium,2020,51403,44995.0,5.0,4.8,5.0,5.0,5.0,Florett Silver Metallic
+1625,chevrolet,traverse ls,2014,144812,8495.0,4.7,4.6,4.5,4.7,4.6,White
+1626,infiniti,q50 3.0t,2020,18355,39595.0,4.8,4.8,4.9,4.8,4.9,Liquid Platinum
+1627,mercedes-benz,gle 350,2020,22376,53490.0,4.6,4.6,4.0,4.6,4.1,Black
+1628,ford,ecosport,2018,47168,18139.0,4.6,4.6,4.3,4.6,4.5,Shadow Black
+1629,gmc,yukon  slt,2019,40822,53063.0,4.9,4.8,4.7,4.9,4.7,Dark Sky Metallic
+1630,lexus,es 300h,2019,46501,42985.0,4.9,4.9,4.7,4.9,5.0,Atomic Silver
+1631,toyota,4runner  4wd,2018,55920,41571.0,4.8,4.7,4.7,4.9,4.9,White
+1632,toyota,tundra 1794,2022,15936,86991.0,4.8,5.0,4.5,4.8,4.2,Silver
+1633,toyota,4runner sr5 4wd,2020,40306,41504.0,4.8,4.7,4.7,4.8,4.9,Ice
+1634,genesis,g80 3.8,2017,43771,33500.0,4.9,4.8,4.7,4.8,4.8,Manhattan Brown
+1635,cadillac,xt6  awd,2020,10284,56007.0,4.6,4.5,4.6,4.7,4.5,Shadow Metallic
+1636,ford,edge,2013,125010,12995.0,4.6,4.5,4.5,4.7,4.5,Brown
+1637,ford,f-150,2018,63074,49995.0,4.9,4.8,4.8,4.8,4.7,White
+1638,ford,f-150,2021,19355,81301.0,4.8,4.9,4.8,4.9,4.7,Agate Black Metallic
+1639,mazda,cx-30 premium package,2020,23535,30388.0,4.9,4.8,4.8,4.9,5.0,Soul Red Crystal Metallic
+1640,chevrolet,tahoe high country,2021,15843,79991.0,4.6,4.7,4.4,4.7,4.3,Black
+1641,ford,escape titanium,2020,19301,34698.0,4.7,4.6,4.5,4.7,4.6,Black
+1642,nissan,maxima 3.5 s,2018,42202,25998.0,4.9,4.9,4.9,4.9,4.8,Gray
+1643,porsche,911 carrera 4 coupe,2008,35100,47000.0,4.6,4.8,5.0,5.0,4.7,White
+1644,hyundai,elantra,2014,67737,13999.0,4.5,4.6,4.4,4.7,4.5,Venetian Red
+1645,porsche,cayenne turbo coupe awd,2020,8430,142790.0,4.6,4.4,4.6,4.9,4.1,Jet Black Metallic
+1646,genesis,gv70 2.5t,2022,13218,49477.0,5.0,5.0,5.0,5.0,5.0,Red
+1647,toyota,corolla,2018,55034,14495.0,4.7,4.6,4.7,4.7,4.9,Gray
+1648,jeep,wrangler unlimited,2018,35380,34689.0,4.6,4.7,4.7,4.9,4.6,Granite Crystal Clearcoat Metallic
+1649,land,rover range rover evoque pure,2014,130029,16900.0,4.5,4.6,4.2,4.7,4.0,Aintree Green Metallic
+1650,nissan,maxima sv,2012,87032,12000.0,4.8,4.7,4.8,4.8,4.8,Metallic Slate
+1651,mercedes-benz,e-class e 400 4matic,2018,19567,49357.0,4.9,5.0,4.8,4.9,4.8,Polar White
+1652,toyota,rav4,2017,64055,22000.0,4.8,4.7,4.7,4.8,4.9,SELECT
+1653,volkswagen,atlas 2.0t,2018,47375,27943.0,4.8,4.7,4.5,4.8,4.6,Deep Black Pearl Effect
+1654,honda,pilot touring 7-passenger,2020,27832,39459.0,4.6,4.6,4.3,4.5,4.1,Crystal Black Pearl
+1655,bmw,x5 sdrive35i,2017,60267,37997.0,4.8,4.7,4.7,4.8,4.7,Black Sapphire Metallic
+1656,ford,escape,2017,66955,18750.0,4.7,4.7,4.7,4.8,4.7,Magnetic Metallic
+1657,honda,civic,2016,49846,21991.0,4.6,4.6,4.6,4.8,4.6,Modern Steel Metallic
+1658,chevrolet,traverse premier,2019,37501,42400.0,4.8,4.8,4.7,4.9,4.6,Iridescent Pearl Tricoat
+1659,porsche,macan s,2021,14677,78052.0,4.7,5.0,5.0,4.7,5.0,Carrara White Metallic
+1660,bmw,740 i,2019,31625,54488.0,5.0,4.0,4.5,4.0,4.5,Mineral White Metallic
+1661,volvo,xc90 t5 momentum 7 passenger,2021,8883,49800.0,5.0,5.0,5.0,5.0,5.0,Gray
+1662,land,rover discovery,2019,49463,39943.0,4.2,3.5,3.5,3.7,2.8,Narvik Black
+1663,mitsubishi,outlander  es,2020,45280,22577.0,5.0,4.9,4.8,5.0,5.0,Diamond Red
+1664,subaru,forester 2.5i premium,2016,15296,25795.0,4.5,4.4,4.6,4.5,4.7,Burnished Bronze Metallic
+1665,volkswagen,passat 2.0t sel,2020,31980,28495.0,4.8,4.6,4.6,4.7,4.8,Platinum Gray Metallic
+1666,toyota,corolla l,2019,48046,23923.0,4.8,4.7,4.7,4.8,4.9,Gray
+1667,volvo,xc90 t6 momentum,2021,11388,54900.0,5.0,5.0,5.0,5.0,5.0,Gray
+1668,dodge,challenger sxt,2016,69597,24525.0,4.8,4.7,4.8,4.9,4.8,Bright White Clearcoat
+1669,ford,taurus sho,2015,94946,21599.0,4.8,4.6,4.8,4.8,4.7,Ruby Red Metallic Tinted Clearcoat
+1670,volvo,xc60 t5 inscription,2021,7353,54805.0,5.0,5.0,4.9,5.0,4.8,Crystal White
+1671,mazda,cx-9 grand touring,2017,49125,29499.0,4.7,4.8,4.7,4.8,4.6,Machine Gray Metallic
+1672,honda,ridgeline rtl-e,2020,13540,45350.0,4.8,4.8,4.6,4.7,4.7,Pacific Pewter Metallic
+1673,mercedes-benz,g-class g 550 4matic,2020,5549,179999.0,4.6,5.0,5.0,5.0,4.6,Polar White
+1674,chevrolet,tahoe rst,2022,3548,79750.0,5.0,5.0,5.0,5.0,5.0,Summit White
+1675,bmw,640 gran turismo i xdrive,2019,24630,46995.0,5.0,5.0,5.0,4.7,5.0,Carbon Black Metallic
+1676,ford,f-150 king ranch,2020,59817,48549.0,4.9,4.8,4.8,4.8,4.8,Oxford White
+1677,jeep,grand cherokee l,2021,11482,52047.0,4.5,4.7,4.3,4.7,4.2,Diamond Black
+1678,ford,escape s,2018,14927,22652.0,4.8,4.7,4.7,4.8,4.8,White Gold Metallic
+1679,ford,expedition max,2018,84831,44995.0,5.0,5.0,4.8,4.9,5.0,White Platinum Tri-Coat Metallic
+1680,gmc,terrain denali,2019,16517,35997.0,4.7,4.6,4.5,4.8,4.4,Ebony Twilight Metallic
+1681,audi,a4 premium,2019,38500,19500.0,5.0,4.9,4.7,4.7,4.8,Mythos Black Metallic
+1682,bmw,228 gran coupe i xdrive,2021,10268,39997.0,5.0,5.0,5.0,5.0,5.0,Mineral Gray Metallic
+1683,land,rover range rover p525 hse,2020,48921,93770.0,4.8,4.6,4.4,5.0,4.8,Santorini Black
+1684,ram,1500 rebel,2020,16990,48975.0,4.9,4.9,4.8,4.8,4.7,Diamond Black
+1685,audi,a6 3.0t,2018,27273,36789.0,4.7,4.7,4.7,4.8,4.9,Tornado Gray Metallic
+1686,subaru,outback 3.6r,2015,74099,23600.0,4.7,4.5,4.5,4.6,4.7,Ice Silver Metallic
+1687,bmw,x6 m50i,2021,22943,93444.0,5.0,5.0,4.6,5.0,4.6,Carbon Black Metallic
+1688,cadillac,ct6 3.6l luxury,2017,89199,31438.0,4.8,4.7,4.8,4.9,4.8,Black Raven
+1689,infiniti,qx80,2017,80073,34500.0,5.0,4.8,4.8,4.9,4.8,Black Obsidian
+1690,chevrolet,tahoe lt,2011,85000,19950.0,4.7,4.4,4.4,4.7,4.7,Black
+1691,hyundai,sonata,2020,17268,25347.0,4.8,4.8,4.8,4.9,4.8,Stormy Sea
+1692,gmc,terrain sle,2020,13245,28989.0,4.8,4.7,4.6,4.8,4.6,Ebony Twilight Metallic
+1693,dodge,durango sxt,2020,14365,37998.0,5.0,4.8,4.9,4.9,4.8,White Knuckle Clearcoat
+1694,acura,mdx 3.5l w/technology package,2018,36888,37498.0,4.9,4.6,4.7,4.7,4.7,Gray
+1695,mitsubishi,lancer evolution gsr,2011,14066,29901.0,4.4,4.1,4.8,4.6,4.9,Phantom Black Pearl
+1696,audi,q5 45 titanium premium,2020,22595,41287.0,4.8,4.7,4.9,4.8,4.7,Mythos Black Metallic
+1697,cadillac,escalade premium luxury,2021,29615,97995.0,3.5,4.1,2.6,3.8,2.1,Black Raven
+1698,audi,q7 45 premium,2019,19924,45998.0,4.8,4.6,4.8,4.8,4.6,Orca Black Metallic
+1699,audi,q8 premium,2019,28882,57799.0,4.9,4.8,4.8,5.0,4.9,Orca Black Metallic
+1700,acura,rdx technology,2013,82973,19201.0,4.5,4.4,4.4,4.5,4.4,Black
+1701,gmc,yukon slt,2015,82136,32950.0,4.6,4.6,4.4,4.7,4.2,Onyx Black
+1702,toyota,camry,2016,48433,22700.0,4.7,4.6,4.7,4.7,4.9,Creme Brulee Mica
+1703,ford,mustang gt premium,2018,13442,40985.0,4.7,4.8,4.9,4.9,4.8,Ruby Red Metallic Tinted Clearcoat
+1704,dodge,charger r/t,2021,15100,49995.0,5.0,4.9,5.0,5.0,5.0,Smoke Show
+1705,toyota,camry,2018,16740,28541.0,4.7,4.6,4.6,4.8,4.8,Wind Chill Pearl
+1706,toyota,tundra,2016,67012,40000.0,4.8,4.6,4.9,4.8,5.0,Super White
+1707,infiniti,q50 3.0t luxe,2020,20645,37000.0,4.8,4.8,4.9,4.8,4.9,Graphite Shadow
+1708,porsche,macan,2017,51828,42998.0,4.9,4.8,5.0,4.9,4.9,Gray
+1709,volkswagen,atlas 3.6 v6 sel premium,2021,31384,48702.0,4.9,4.7,4.8,4.9,4.9,Platinum Gray Metallic
+1710,honda,civic,2014,30505,13900.0,4.5,4.5,4.5,4.6,4.8,Modern Steel Metallic
+1711,bmw,530 i,2021,55953,45999.0,5.0,5.0,5.0,5.0,5.0,–
+1712,subaru,ascent premium 7-passenger,2020,17720,34128.0,4.8,4.8,4.8,4.9,4.8,Crystal White Pearl
+1713,dodge,challenger r/t scat pack,2021,19508,49000.0,4.9,4.8,4.9,5.0,4.8,F8 Green
+1714,lexus,ux 250h,2021,10769,44900.0,4.8,4.6,4.6,4.8,4.9,Obsidian Black
+1715,bmw,328 gran turismo i xdrive,2014,36557,21698.0,5.0,5.0,4.9,4.9,5.0,Mineral Gray
+1716,chevrolet,camaro 2ls,2014,30000,14990.0,4.4,4.4,4.7,4.9,4.6,Maroon
+1717,cadillac,escalade,2013,153897,18311.0,4.7,4.7,4.7,4.8,4.8,Crystal Red Tintcoat
+1718,subaru,crosstrek 2.0i premium,2017,47011,23450.0,4.7,4.6,4.6,4.8,4.8,Crystal Black Silica
+1719,jeep,grand cherokee laredo,2019,13775,31888.0,4.9,4.9,4.8,4.9,4.8,Bright White Clearcoat
+1720,mazda,cx-5 grand touring,2015,83830,18291.0,4.5,4.5,4.5,4.8,4.6,Meteor Gray Mica
+1721,mercedes-benz,gla 250  4matic,2017,38113,30755.0,4.5,4.4,4.5,4.7,4.5,Gray
+1722,gmc,sierra 3500 denali,2020,22989,85342.0,4.9,5.0,5.0,5.0,5.0,Carbon Black Metallic
+1723,mazda,cx-9 touring,2018,38060,31998.0,4.8,4.9,4.8,4.8,4.8,Titanium Flash Mica
+1724,volvo,v90 cross country t6,2020,24616,57962.0,5.0,5.0,5.0,5.0,5.0,Crystal White Pearl Metallic
+1725,toyota,4runner sr5,2021,35663,41675.0,5.0,4.9,4.8,4.9,4.9,Midnight Black Metallic
+1726,mercedes-benz,cls 450,2020,10666,72987.0,4.2,5.0,4.8,5.0,5.0,designo Diamond White
+1727,jeep,grand cherokee altitude,2020,37807,39500.0,4.9,4.8,4.8,4.9,4.8,Diamond Black
+1728,jeep,commander,2006,149776,6999.0,4.5,4.2,4.3,4.5,4.2,Black
+1729,kia,optima,2018,21083,20888.0,4.9,4.8,4.8,4.9,4.9,Sangria Red
+1730,land,rover range rover p525 hse lwb,2020,15796,129495.0,4.8,4.6,4.4,5.0,4.8,Portofino Blue
+1731,honda,cr-v,2016,55202,22995.0,4.6,4.5,4.6,4.7,4.7,Copper Sunset Pearl
+1732,gmc,sierra 2500 denali,2015,73320,52998.0,4.8,4.8,4.8,4.9,4.7,Summit White
+1733,acura,rdx technology package,2015,48892,22433.0,4.7,4.4,4.6,4.5,4.8,Gray
+1734,hyundai,santa fe sel,2022,17168,33236.0,4.8,4.8,4.0,4.8,4.2,Twilight Black
+1735,chevrolet,suburban lt,2016,84963,34855.0,4.9,4.7,4.5,4.7,4.4,Iridescent Pearl Tricoat
+1736,volkswagen,jetta 1.4t s,2020,38842,24498.0,4.9,4.9,4.9,4.9,4.9,Pure White
+1737,lexus,570 three-row,2021,30403,98998.0,5.0,5.0,4.7,4.7,5.0,Eminent White Pearl
+1738,toyota,sequoia,2016,126709,37500.0,5.0,4.7,5.0,4.4,5.0,Blizzard Pearl
+1739,toyota,tundra sr5,2006,129825,11450.0,4.6,4.4,4.6,4.5,4.8,Gray
+1740,subaru,crosstrek premium,2020,37585,27186.0,4.8,4.8,4.7,4.8,4.9,Crystal Black Silica
+1741,chevrolet,equinox ls,2010,145700,5999.0,4.4,4.2,3.8,4.4,3.8,Red
+1742,toyota,highlander,2013,153174,15900.0,4.7,4.7,4.7,4.7,4.8,Classic Silver Metallic
+1743,jeep,compass trailhawk,2019,60691,26998.0,4.6,4.7,4.2,4.8,4.4,Redline Pearlcoat
+1744,honda,pilot special edition,2022,2212,45998.0,5.0,5.0,5.0,5.0,5.0,Crystal Black Pearl
+1745,cadillac,srx luxury collection,2016,63053,16985.0,4.7,4.6,4.5,4.8,4.6,Black Raven
+1746,toyota,4runner  nightshade,2019,40817,45241.0,4.8,4.7,4.8,4.8,4.9,White
+1747,hyundai,kona sel,2021,12139,29990.0,5.0,4.9,4.9,5.0,5.0,Thunder Gray
+1748,audi,a3 2.0t premium,2019,35102,25498.0,5.0,4.7,5.0,4.8,4.8,Brilliant Black
+1749,chevrolet,colorado z71,2021,18906,38995.0,4.7,4.6,4.7,4.8,4.6,Black
+1750,maserati,granturismo,2013,17540,63777.0,4.8,4.9,4.9,5.0,4.6,Nero Carbonio Metallic
+1751,chrysler,300,2017,87200,24725.0,4.8,4.7,4.8,4.7,4.7,Velvet Red Pearlcoat
+1752,lincoln,navigator black label,2021,30538,109835.0,5.0,5.0,5.0,5.0,5.0,Pristine White
+1753,toyota,corolla,2022,13984,29398.0,5.0,5.0,5.0,5.0,5.0,Ruby Flare Pearl
+1754,infiniti,q50 3.0t red  400,2019,19304,43529.0,4.7,4.6,4.8,4.8,4.7,Graphite Shadow
+1755,toyota,corolla hatchback,2019,11618,24702.0,4.8,4.7,4.7,4.9,4.9,Smoked Paprika Metallic
+1756,ford,f-150 king ranch,2018,85187,44500.0,4.9,4.8,4.8,4.8,4.7,Shadow Black
+1757,hyundai,palisade sel,2022,11660,44992.0,5.0,5.0,4.5,4.5,4.5,Steel / Graphite
+1758,lexus,rc 350,2016,33279,39991.0,4.8,4.5,4.5,4.8,4.8,Obsidian Black
+1759,nissan,pathfinder sv,2016,64950,19994.0,4.8,4.6,4.6,4.6,4.6,Magnetic Black
+1760,cadillac,ats 2.0l turbo luxury,2015,11506,27203.0,4.4,4.5,4.7,4.7,4.6,Opulent Blue Metallic
+1761,buick,lacrosse premium 1,2014,24747,21995.0,4.8,4.7,4.7,4.8,4.7,White
+1762,ford,ranger xlt,2020,16969,37757.0,4.9,4.8,4.9,4.9,4.8,Shadow Black
+1763,toyota,highlander,2016,44711,32296.0,4.8,4.7,4.8,4.8,4.9,Silver Sky Metallic
+1764,chrysler,300,2020,44260,32990.0,4.7,4.7,4.8,4.8,4.9,Granite Crystal Clearcoat Metallic
+1765,chevrolet,tahoe rst,2021,16184,71896.0,4.6,4.7,4.4,4.7,4.3,Black
+1766,tesla,model 3 mid range,2018,46289,47900.0,4.7,4.7,4.9,4.7,4.6,Black
+1767,land,rover discovery landmark,2020,15730,64998.0,5.0,4.7,5.0,5.0,5.0,Santorini Black
+1768,honda,pilot elite,2016,65069,28990.0,4.7,4.6,4.5,4.6,4.6,Crystal Black Pearl
+1769,lexus,es 350,2019,20623,38455.0,4.7,4.6,4.6,4.7,4.6,Eminent White Pearl
+1770,dodge,journey,2018,45381,25998.0,4.7,4.6,4.5,4.6,4.7,Granite Pearl
+1771,nissan,altima 2.5,2021,10202,31500.0,4.9,5.0,4.9,5.0,4.9,Gun Metallic
+1772,ford,expedition,2019,47221,56000.0,4.9,4.9,4.8,4.9,4.7,Agate Black Metallic
+1773,land,rover range rover velar s,2021,16843,67997.0,5.0,4.7,5.0,5.0,4.7,Eiger Grey
+1774,porsche,cayenne s,2012,91260,27985.0,4.9,4.8,4.9,4.9,4.7,Jet Black Metallic
+1775,mazda,mazda3 premium,2021,12539,35288.0,4.8,4.8,4.9,4.9,4.8,Machine Gray Metallic
+1776,volvo,xc90 3.2,2007,234114,4498.0,4.6,4.3,4.3,4.6,4.4,Gray
+1777,volkswagen,arteon 2.0t  r-line,2019,17919,35690.0,4.8,4.6,4.4,5.0,4.5,Deep Black Pearl Effect
+1778,volkswagen,atlas 3.6l sel,2021,47186,45990.0,4.9,4.7,4.8,4.9,4.9,Pyrite Silver Metallic
+1779,chevrolet,traverse rs,2019,49272,39347.0,4.8,4.8,4.7,4.9,4.6,Graphite Metallic
+1780,buick,encore gx select,2021,12700,28992.0,4.4,4.5,4.5,4.7,4.4,Ebony Twilight Metallic
+1781,bmw,x1 xdrive 28i,2017,80481,24996.0,4.6,4.6,4.8,4.8,4.7,Estoril Blue Metallic
+1782,hyundai,elantra,2017,76548,18998.0,4.7,4.7,4.6,4.8,4.8,Scarlet Red
+1783,subaru,forester 2.5x,2012,165571,7995.0,4.3,4.0,4.2,4.2,4.5,Ice Silver Metallic
+1784,audi,q3 2.0t premium,2016,67825,20798.0,4.9,4.6,4.7,4.9,4.8,Brilliant Black
+1785,lexus,is-f,2011,63954,34995.0,4.0,4.0,4.5,4.3,4.8,Black
+1786,nissan,rogue,2021,19221,41998.0,4.9,4.8,4.6,4.9,4.6,Gun Metallic
+1787,infiniti,q70 3.7x,2016,99210,23988.0,5.0,4.9,4.9,5.0,5.0,Gun Metallic
+1788,audi,q3 s line premium,2020,17230,40999.0,4.4,4.2,3.7,4.7,3.5,Pulse Orange
+1789,subaru,legacy 2.5i,2017,42293,20999.0,4.8,4.7,4.6,4.7,4.9,Tungsten Metallic
+1790,kia,forte lxs,2019,63859,13995.0,4.8,4.7,4.6,4.8,4.7,–
+1791,subaru,impreza premium,2020,32566,25498.0,4.6,4.7,4.7,4.8,4.8,Ice Silver Metallic
+1792,jeep,renegade altitude,2018,49898,23599.0,4.7,4.6,4.5,4.7,4.6,Hypergreen Clearcoat
+1793,jeep,cherokee latitude,2020,17410,27898.0,4.8,4.8,4.8,4.8,4.8,Sting Gray Clearcoat
+1794,dodge,durango gt,2017,65568,28980.0,4.8,4.8,4.6,4.8,4.7,Granite Clearcoat Metallic
+1795,porsche,911 turbo s,2017,38525,162990.0,4.6,4.8,5.0,4.9,5.0,–
+1796,bmw,330 i,2020,35633,38998.0,4.8,4.7,4.5,4.6,4.7,Mineral Gray Metallic
+1797,chrysler,town & country touring-l,2013,115004,11404.0,4.8,4.8,4.6,4.6,4.7,Stone White
+1798,toyota,4runner trd off road,2019,20405,44454.0,4.8,4.7,4.8,4.8,4.9,Midnight Black Metallic
+1799,volkswagen,passat 2.0t s,2018,20386,22896.0,4.7,4.7,4.6,4.7,4.7,Tourmaline Blue Metallic
+1800,kia,soul,2016,42032,16570.0,4.7,4.7,4.5,4.7,4.8,Clear White
+1801,jeep,wrangler jk,2018,15250,33950.0,4.6,4.6,4.7,4.8,4.8,Rhino Clearcoat
+1802,chevrolet,equinox 2lt,2020,16357,26795.0,4.8,4.7,4.7,4.8,4.7,Silver Ice Metallic
+1803,infiniti,q50 3.0t,2019,56755,32980.0,4.7,4.6,4.8,4.8,4.7,Graphite Shadow
+1804,ford,mustang ecoboost,2019,24775,29000.0,4.6,4.7,4.9,4.9,4.7,Magnetic
+1805,volkswagen,atlas cross  2.0t,2021,14637,39124.0,4.7,4.5,4.4,4.5,4.4,Deep Black Pearl Effect
+1806,bmw,z4 sdrive35is,2015,16609,49400.0,4.4,4.6,4.7,4.9,4.4,Black Sapphire Metallic
+1807,mazda,mazda6 touring,2018,63617,23577.0,4.9,4.9,4.8,4.9,4.8,Deep Crystal Blue Mica
+1808,lincoln,aviator reserve awd,2021,2968,58990.0,4.7,4.6,4.8,4.8,4.5,Black
+1809,mercedes-benz,slk-class slk 250,2012,46337,26775.0,4.7,4.9,4.9,4.9,4.9,Black
+1810,bmw,430 i,2017,46076,28996.0,5.0,5.0,5.0,5.0,4.8,Imperial Blue Metallic
+1811,kia,sorento,2015,84376,15900.0,4.6,4.6,4.4,4.6,4.5,Dark Cherry
+1812,mazda,cx-9 grand touring,2011,171318,7995.0,4.5,4.4,4.3,4.4,4.4,Brilliant Black Clearcoat
+1813,toyota,highlander,2017,61861,28500.0,4.9,4.8,4.7,4.8,4.8,Midnight Black Metallic
+1814,honda,civic,2015,118645,16998.0,4.6,4.6,4.6,4.6,4.8,Silver
+1815,lexus,570,2017,53375,66850.0,4.6,4.7,4.3,4.5,4.8,Pearl
+1816,bmw,750 i xdrive,2017,53871,44998.0,4.9,4.9,4.8,4.6,4.5,White
+1817,audi,a6 3.0t prestige,2016,88255,25687.0,4.9,4.9,4.8,4.8,4.8,Mythos Black Metallic
+1818,bentley,continental gt speed,2014,11025,134664.0,4.5,4.8,5.0,5.0,4.7,Ghost White 3 Coat Pearlescent
+1819,cadillac,cts 2.0l turbo standard,2016,63838,22999.0,4.6,4.5,4.7,4.8,4.6,Black Raven
+1820,volkswagen,atlas 3.6l  w/technology,2019,18229,35995.0,4.7,4.6,4.3,4.7,4.4,Reflex Silver Metallic
+1821,nissan,murano s,2006,140748,5700.0,4.6,4.4,4.2,4.5,4.0,Glacier Pearl
+1822,cadillac,cts premium,2012,60697,21495.0,4.7,4.7,4.6,4.9,4.8,Black Raven
+1823,kia,sorento s,2020,49780,29898.0,4.8,4.7,4.7,4.8,4.7,Snow White Pearl
+1824,toyota,camry,2018,42615,28000.0,4.7,4.6,4.6,4.8,4.8,Galactic Aqua
+1825,lexus,is 250,2009,98000,14995.0,4.4,4.6,4.7,4.8,4.8,Smoky Granite Mica
+1826,hyundai,santa fe  2.0l turbo,2016,68808,21998.0,4.6,4.5,4.3,4.7,4.4,Mineral Gray
+1827,lincoln,mkz hybrid reserve i,2019,31792,31500.0,4.9,5.0,4.9,4.9,5.0,Blue Diamond
+1828,chrysler,pacifica,2020,47589,32485.0,4.9,4.8,4.7,4.9,4.7,Brilliant Black Crystal Pearlcoat
+1829,jeep,grand cherokee summit,2017,24237,36000.0,4.8,4.8,4.7,4.8,4.8,Luxury Brown Pearlcoat
+1830,audi,q7 3.0t premium,2018,30827,43895.0,4.9,4.8,4.8,4.7,4.7,Florett Silver Metallic
+1831,dodge,durango gt,2019,25242,32995.0,4.8,4.7,4.7,4.7,4.6,DB Black Clearcoat
+1832,chevrolet,tahoe lt,2016,80371,32950.0,4.8,4.7,4.5,4.7,4.7,Black
+1833,toyota,tacoma sr5,2022,15818,39905.0,4.2,4.8,4.5,4.8,4.8,Black
+1834,chevrolet,silverado 1500 1lt,2018,21641,42255.0,4.7,4.6,4.6,4.7,4.6,Black
+1835,ford,f-150,2020,52878,57595.0,4.9,4.8,4.8,4.8,4.8,Magnetic
+1836,land,rover discovery hse luxury,2019,45089,56950.0,4.2,3.5,3.5,3.7,2.8,Byron Blue
+1837,chevrolet,corvette grand,2013,18600,47000.0,4.5,4.6,5.0,4.9,4.8,Arctic White
+1838,ford,explorer,2021,15246,35279.0,4.9,4.8,4.9,4.9,4.8,Iconic Silver
+1839,chevrolet,impala ls fleet,2011,99789,7999.0,4.4,4.0,4.2,4.2,4.2,White
+1840,cadillac,escalade luxury,2016,45897,49350.0,4.6,4.7,4.4,4.7,4.2,Black Raven
+1841,jeep,grand cherokee high altitude,2015,62564,31995.0,4.9,4.8,4.8,4.9,4.7,Gray
+1842,ram,1500 longhorn,2014,83786,30599.0,4.6,4.5,4.6,4.6,4.5,Western Brown
+1843,mercedes-benz,cla-class cla 250,2016,63237,23000.0,4.9,4.9,4.6,4.9,5.0,Cirrus White
+1844,mitsubishi,outlander,2020,47622,21739.0,5.0,4.9,4.8,5.0,5.0,Mercury Gray Metallic
+1845,chevrolet,tahoe ls,2019,25671,43725.0,4.7,4.6,4.6,4.7,4.7,Black
+1846,ram,1500 classic warlock,2019,16201,33916.0,4.7,4.6,4.7,4.7,4.8,Diamond Black
+1847,acura,tlx technology package,2017,38812,24581.0,4.9,4.6,4.4,4.7,4.8,Modern Steel Metallic
+1848,volvo,s60 t5 premier,2015,87250,15771.0,4.8,4.7,4.7,4.7,4.8,Savile Gray Metallic
+1849,porsche,911 carrera,2014,33126,75422.0,4.7,4.8,5.0,4.9,4.7,Black
+1850,scion,tc,2010,135000,6619.0,4.4,4.1,4.4,4.4,4.7,Gray
+1851,kia,soul,2017,14918,18504.0,4.8,4.8,4.8,4.8,4.9,Bright Silver
+1852,volkswagen,atlas cross  2.0t s,2020,12014,32198.0,4.8,4.6,4.5,4.8,4.6,Pure White
+1853,porsche,macan gts,2018,65250,54983.0,4.9,4.8,4.9,4.9,4.9,Carrara White Metallic
+1854,saturn,outlook xr,2009,84295,9868.0,4.8,4.6,4.3,4.6,4.2,DK
+1855,cadillac,ats 2.0l turbo,2018,47057,26778.0,4.7,4.7,4.8,4.9,4.8,Black Raven
+1856,gmc,yukon  denali,2017,80242,45897.0,4.6,4.8,4.6,4.8,4.8,Iridium
+1857,audi,q3 2.0t premium,2018,17264,35998.0,4.8,4.8,4.7,4.9,4.8,Glacier White Metallic
+1858,chevrolet,tahoe lt,2020,39453,56880.0,4.3,4.2,4.6,4.5,4.6,Black
+1859,mazda,cx-5,2019,14766,27797.0,4.8,4.8,4.8,4.9,4.8,Soul Red Crystal Metallic
+1860,kia,sportage s,2021,20172,29298.0,4.9,4.8,4.8,4.8,4.8,Snow White Pearl
+1861,acura,rdx w/technology package,2021,35930,44876.0,4.9,4.9,4.7,4.9,4.8,Platinum White Pearl
+1862,alfa,romeo giulia ti,2020,11373,37999.0,5.0,5.0,5.0,5.0,4.6,Stromboli Gray Metallic
+1863,nissan,altima 2.5 s,2016,60852,16800.0,4.7,4.6,4.6,4.8,4.6,Gun Metallic
+1864,mercedes-benz,gle-class gle 350 4matic,2016,65996,29985.0,4.9,4.9,4.7,4.8,4.7,Off White
+1865,acura,tl technology,2012,96854,16489.0,4.7,4.7,4.7,4.7,4.8,Crystal Black Pearl
+1866,porsche,macan,2018,17400,55998.0,4.9,4.8,4.9,4.9,4.9,Black
+1867,porsche,718 boxster,2019,29848,60998.0,4.7,4.8,5.0,5.0,4.9,White
+1868,honda,civic,2022,10960,34988.0,5.0,5.0,5.0,5.0,5.0,Sonic Gray Pearl
+1869,lexus,ls 460,2014,40598,38999.0,5.0,4.9,4.8,4.9,5.0,Obsidian Black
+1870,volkswagen,atlas 3.6l  w/technology,2021,19367,42987.0,4.9,4.7,4.8,4.9,4.9,Deep Black Pearl Effect
+1871,toyota,camry,2019,10200,33900.0,4.8,4.7,4.7,4.9,4.8,Ruby Flare Pearl
+1872,lincoln,navigator l select,2018,18286,59962.0,5.0,5.0,5.0,5.0,5.0,White Platinum Tri-Coat Metallic
+1873,volkswagen,atlas 3.6l s,2019,65477,28590.0,4.7,4.6,4.3,4.7,4.4,Deep Black Pearl Effect
+1874,hyundai,tucson sel,2022,11642,32750.0,4.9,4.9,4.3,4.9,4.5,Shimmering Silver
+1875,infiniti,qx60,2015,70281,23990.0,4.8,4.6,4.6,4.6,4.7,Black Obsidian
+1876,hyundai,tucson,2020,11011,30289.0,4.8,4.8,4.7,4.8,4.8,Cream White Pearl
+1877,mercedes-benz,cla 250,2021,15175,51500.0,4.5,4.5,4.0,4.0,4.0,White
+1878,mazda,cx-5,2020,14489,27291.0,4.9,4.9,4.8,4.9,4.9,Jet Black Mica
+1879,volkswagen,tiguan 2.0t,2017,90000,17990.0,4.8,4.7,4.8,4.7,4.8,Deep Black Pearl Effect
+1880,mercedes-benz,e-class e 350,2020,31369,43980.0,5.0,5.0,5.0,5.0,5.0,Black
+1881,bmw,528 i,2014,81465,16829.0,4.8,4.8,4.6,4.8,4.7,Alpine White
+1882,chevrolet,trailblazer lt,2021,17347,29905.0,4.8,4.8,4.8,4.9,4.8,Midnight Blue Metallic
+1883,kia,sportage,2017,48921,19583.0,4.8,4.8,4.8,4.8,4.8,Sparkling Silver
+1884,acura,tl 3.2,2003,60112,11990.0,4.6,4.5,4.5,4.4,4.3,Gold
+1885,mazda,mazda6 i grand touring,2014,60653,17983.0,4.6,4.5,4.5,4.9,4.7,Meteor Gray Mica
+1886,chevrolet,tahoe premier,2019,54612,54911.0,4.7,4.6,4.6,4.7,4.7,Black
+1887,acura,rdx,2016,48439,25998.0,4.8,4.7,4.9,4.8,4.8,White
+1888,buick,envision essence,2021,24421,36304.0,4.8,5.0,4.9,4.9,5.0,Summit White
+1889,lexus,rx 350 f,2018,41420,43997.0,4.8,4.9,4.8,4.8,4.8,Obsidian Black
+1890,chevrolet,trax lt,2020,18636,24500.0,4.5,4.5,4.4,4.6,4.6,Mosaic Black Metallic
+1891,gmc,acadia denali,2018,45706,36200.0,4.6,4.4,4.6,4.7,4.5,Iridium Metallic
+1892,honda,pilot touring 8-passenger,2019,19174,40999.0,4.9,4.8,4.7,4.7,4.8,Gray
+1893,toyota,highlander,2021,19090,39250.0,4.9,4.8,4.8,4.8,4.9,Magnetic Gray Metallic
+1894,toyota,camry xse,2021,12782,39998.0,4.8,4.8,4.8,4.9,4.9,White
+1895,gmc,yukon slt,2017,83978,39999.0,4.8,4.8,4.7,4.9,4.7,Quicksilver Metallic
+1896,honda,hr-v,2019,16718,26995.0,4.6,4.6,4.4,4.8,4.7,Midnight Amethyst Metallic
+1897,honda,hr-v,2021,15905,27594.0,4.7,4.6,4.6,4.7,4.8,Midnight
+1898,jeep,wrangler x,2007,84164,13900.0,4.0,4.2,4.2,4.6,4.3,Red
+1899,alfa,romeo giulia,2019,48357,32995.0,4.7,4.7,4.8,5.0,4.3,Alfa White
+1900,mercedes-benz,c-class c 300 4matic,2017,39700,27888.0,4.8,4.8,4.8,4.8,4.7,–
+1901,jeep,grand cherokee laredo e,2021,18749,38500.0,4.7,4.7,4.7,4.7,4.7,Granite Crystal Clearcoat Metallic
+1902,toyota,c-hr,2019,25798,24750.0,4.8,4.8,4.7,4.9,4.8,Ruby Flare Pearl
+1903,volkswagen,jetta 1.8t,2015,95043,13895.0,4.6,4.6,4.6,4.7,4.7,Silk Blue
+1904,audi,q7 55 quattro premium,2020,56160,48995.0,5.0,4.8,5.0,5.0,5.0,Carrara White
+1905,bmw,535 i,2013,86371,17999.0,4.9,4.7,4.7,4.8,4.7,White
+1906,subaru,ascent  7-passenger,2021,16128,41019.0,4.8,4.8,4.7,4.5,4.7,Crystal White Pearl
+1907,ford,edge titanium,2016,78756,20395.0,4.8,4.7,4.6,4.7,4.6,Magnetic Metallic
+1908,toyota,c-hr  premium,2018,49098,24995.0,4.7,4.5,4.6,4.9,4.8,Ruby Flare Pearl
+1909,audi,q5 premium,2019,17565,42489.0,4.8,4.6,4.7,4.7,4.7,Florett Silver Metallic
+1910,jeep,wrangler unlimited rubicon,2015,48049,34985.0,4.4,4.5,4.6,4.8,4.8,Copper Brown Pearlcoat
+1911,jeep,grand cherokee summit,2016,85409,29785.0,4.8,4.7,4.7,4.7,4.6,Bright White Clearcoat
+1912,ferrari,gtc4lusso v12,2018,20096,244900.0,5.0,5.0,5.0,5.0,5.0,Grigio Scuro
+1913,mercedes-benz,glk-class glk 350 4matic,2010,87268,13985.0,4.7,4.4,4.7,4.7,4.5,Mars Red
+1914,infiniti,qx80,2017,53204,39330.0,5.0,4.8,4.8,4.9,4.8,Majestic White
+1915,ford,f-150 xlt,2021,19020,55995.0,4.8,4.9,4.8,4.9,4.7,Lead Foot
+1916,hyundai,tucson value,2018,47875,24289.0,4.7,4.7,4.6,4.8,4.7,Aqua Blue
+1917,subaru,forester 2.5i touring,2018,92180,26687.0,4.8,4.6,4.7,4.7,4.8,Crystal White Pearl
+1918,toyota,tacoma,2020,12494,37878.0,4.7,4.7,4.6,4.9,4.8,Silver Sky
+1919,hyundai,elantra gls,2004,228692,3995.0,4.0,3.9,3.9,3.8,4.3,Silver
+1920,ford,fusion titanium,2014,80661,15900.0,4.6,4.6,4.4,4.8,4.6,Black
+1921,bmw,430 gran coupe i,2019,19754,32998.0,4.7,4.7,4.9,4.9,4.6,Black
+1922,acura,tlx v6 w/technology package,2019,22564,34952.0,4.6,4.4,4.3,4.6,4.4,Platinum White Pearl
+1923,gmc,acadia slt-1,2018,19937,27995.0,4.6,4.4,4.6,4.7,4.5,Iridium Metallic
+1924,subaru,ascent  8-passenger,2020,89545,28995.0,4.8,4.8,4.8,4.9,4.8,Abyss Blue Pearl
+1925,lincoln,aviator reserve rwd,2020,45836,50500.0,4.4,4.4,4.1,4.5,3.5,Burgundy Velvet Metallic Tinted Clearcoat
+1926,ford,explorer,2017,81422,26344.0,4.8,4.7,4.6,4.8,4.7,Ingot Silver
+1927,ford,escape sel,2018,23530,24627.0,4.8,4.7,4.7,4.8,4.8,Magnetic Metallic
+1928,audi,q8 55 premium,2020,30440,68365.0,4.7,4.8,4.7,4.8,4.6,Orca Black Metallic
+1929,gmc,sierra 1500 slt,2016,85486,34990.0,4.7,4.6,4.6,4.7,4.7,Onyx Black
+1930,volvo,s90 t6 r-design,2020,30051,44989.0,5.0,5.0,5.0,5.0,5.0,Crystal White Metallic
+1931,ford,ecosport,2019,12092,20302.0,4.6,4.5,4.3,4.6,4.6,Canyon Ridge
+1932,mazda,cx-9 grand touring,2021,13223,43977.0,4.8,4.8,4.8,4.9,4.9,Soul Red Crystal Metallic
+1933,land,rover range rover swb,2020,43783,89350.0,4.8,4.6,4.4,5.0,4.8,Eiger Grey
+1934,honda,civic,2022,11888,28998.0,5.0,5.0,5.0,5.0,5.0,White
+1935,dodge,dakota big horn/lone star,2011,145572,12900.0,4.5,4.4,4.0,4.7,4.4,Brilliant Black Crystal Pearlcoat
+1936,acura,ilx w/premium pkg,2019,11872,30995.0,4.7,4.6,4.6,4.8,4.6,Black
+1937,land,rover range rover 5.0 supercharged lwb,2019,37188,109998.0,4.7,4.6,4.5,4.5,4.4,–
+1938,subaru,outback premium,2021,2000,34003.0,4.9,4.8,4.7,4.8,4.8,Crystal Black Silica
+1939,honda,hr-v,2020,20488,25990.0,4.7,4.8,4.7,4.8,4.7,–
+1940,bmw,328 i,2012,85495,18998.0,4.3,4.5,4.8,4.8,4.5,Gray
+1941,chevrolet,silverado 1500 ltz,2014,93863,34995.0,4.7,4.7,4.5,4.7,4.5,Black
+1942,land,rover defender 110 x-dynamic hse,2021,21267,113985.0,5.0,4.8,5.0,5.0,5.0,Fuji White
+1943,subaru,wrx sti,2017,21915,35991.0,4.3,4.6,4.9,4.7,4.7,Dark Gray Metallic
+1944,volkswagen,jetta 1.4t s,2017,43469,18465.0,4.7,4.6,4.7,4.7,4.8,White Silver Metallic
+1945,gmc,yukon  denali,2019,47517,58965.0,4.9,4.8,4.7,4.9,4.7,Satin Steel Metallic
+1946,buick,enclave essence,2021,45716,38901.0,4.9,4.7,4.9,4.9,4.7,Satin Steel Metallic
+1947,tesla,model s plaid,2022,2512,137998.0,5.0,5.0,5.0,5.0,5.0,Red Multi
+1948,volvo,s90 t5 momentum,2018,45166,34484.0,4.9,4.9,4.7,4.9,4.8,Bright Silver Metallic
+1949,dodge,challenger sxt,2019,19342,29900.0,4.8,4.7,4.9,4.9,4.8,Octane Red Pearlcoat
+1950,cadillac,ct4 premium luxury,2020,18225,39240.0,4.7,4.9,5.0,4.9,4.9,Satin Steel Metallic
+1951,gmc,sierra 1500 at4,2020,20842,52995.0,4.9,4.8,4.8,4.9,4.7,Satin Steel Metallic
+1952,hyundai,elantra gls,2013,142189,9992.0,4.4,4.4,4.2,4.6,4.5,Atlantic Blue
+1953,ford,transit-250,2020,24736,48797.0,5.0,5.0,5.0,5.0,5.0,UNKNOWN
+1954,ford,mustang gt premium,2020,7173,42495.0,4.8,4.8,4.9,4.9,4.9,Iconic Silver Metallic
+1955,bmw,428 i sulev,2016,48236,31970.0,4.7,4.8,4.8,4.9,4.8,Gray
+1956,audi,q7 2.0t premium,2018,65447,33999.0,4.9,4.8,4.8,4.7,4.7,Carrara White
+1957,porsche,panamera  turismo turbo,2018,18798,122888.0,4.7,5.0,5.0,4.7,4.7,White
+1958,audi,r8 5.2 quattro,2018,17919,178895.0,4.8,5.0,5.0,5.0,4.8,Mythos Black Metallic w/ Black Roof
+1959,volvo,xc90 t6 inscription,2019,19294,50000.0,4.9,4.7,4.8,4.8,4.6,Black
+1960,bmw,530 i xdrive,2017,42553,32700.0,4.9,4.8,5.0,4.8,4.6,Bluestone Metallic
+1961,mercedes-benz,s-class s 560,2019,19622,75791.0,5.0,4.8,4.4,4.7,4.3,Black
+1962,land,rover range rover supercharged,2012,84555,25995.0,4.7,4.5,4.4,4.8,4.0,Fuji White
+1963,mazda,mazda3 fwd w/preferred package,2019,38446,23993.0,4.8,4.8,4.7,4.9,4.7,Machine Gray Metallic
+1964,gmc,sierra 1500 elevation,2021,18509,55997.0,4.4,4.3,4.1,4.4,3.9,Dark Sky Metallic
+1965,toyota,4runner sr5,2020,22823,45974.0,4.8,4.7,4.7,4.8,4.9,Black
+1966,bmw,330 i xdrive,2020,20029,42450.0,4.8,4.7,4.5,4.6,4.7,Alpine White
+1967,bmw,340 i xdrive,2018,24470,41532.0,4.9,4.8,5.0,4.9,4.9,Platinum Silver Metallic
+1968,subaru,crosstrek,2021,10998,34799.0,4.9,4.8,4.8,4.8,4.8,Crystal White Pearl
+1969,buick,enclave premium,2017,49064,33980.0,4.9,4.8,4.7,4.9,4.8,Crimson Red Tintcoat
+1970,volkswagen,atlas 2.0t,2021,14978,38850.0,4.9,4.7,4.8,4.9,4.9,Pyrite Silver Metallic
+1971,honda,accord -l,2019,49239,29967.0,4.7,4.8,4.7,4.8,4.8,Crystal Black Pearl
+1972,ford,escape,2010,94934,7990.0,4.3,4.3,4.1,4.4,4.3,Black
+1973,lexus,rc 350 350,2019,29033,48641.0,4.9,4.7,4.9,4.9,5.0,Atomic Silver
+1974,gmc,acadia sle,2021,29119,38900.0,5.0,4.9,4.9,5.0,4.9,Satin Steel Metallic
+1975,ford,bronco  big bend,2021,17483,37919.0,4.8,4.7,4.8,4.8,4.8,Kodiak Brown Metallic
+1976,bmw,540 i xdrive,2021,14733,63500.0,5.0,5.0,5.0,5.0,4.7,Black Sapphire Metallic
+1977,acura,mdx 3.5l w/advance package,2020,12825,50505.0,4.9,4.9,4.9,4.8,4.9,Platinum White Pearl
+1978,acura,tlx v6 w/technology package,2020,24504,35998.0,4.9,4.8,4.8,4.8,4.9,White
+1979,infiniti,q50 3.0t luxe,2019,18782,29700.0,4.7,4.6,4.8,4.8,4.7,Liquid Platinum
+1980,toyota,camry,2016,19439,23496.0,4.7,4.6,4.7,4.7,4.9,Gold
+1981,chevrolet,corvette grand,2017,36685,59999.0,4.6,4.7,4.9,4.9,4.8,Blade Silver Metallic
+1982,ford,mustang premium,2010,94159,14995.0,4.5,4.7,4.7,4.9,4.7,White
+1983,bmw,535 i,2016,48304,31998.0,4.8,4.7,4.7,4.7,4.7,Mineral Gray Metallic
+1984,porsche,taycan,2021,14423,99999.0,5.0,5.0,5.0,5.0,5.0,Carrara White Metallic
+1985,volvo,s60 t5 premier,2015,21618,21918.0,4.8,4.7,4.7,4.7,4.8,Seashell Metallic
+1986,acura,tsx 2.4,2012,83355,17799.0,4.8,4.6,4.6,4.8,4.9,Bellanova White Pearl
+1987,ford,f-150,2015,89624,37630.0,4.8,4.7,4.8,4.8,4.7,Magnetic Metallic
+1988,nissan,murano,2012,96059,15753.0,4.7,4.7,4.7,4.7,4.6,Glacier Pearl
+1989,nissan,rogue,2021,15572,36299.0,4.9,4.8,4.6,4.9,4.6,Boulder Gray
+1990,nissan,rogue sv,2017,16029,21644.0,4.7,4.7,4.6,4.8,4.7,Palatial Ruby
+1991,bmw,440 gran coupe i xdrive,2019,23911,41990.0,4.9,4.8,5.0,5.0,4.9,Mineral Gray Metallic
+1992,bmw,x6 sdrive35i,2017,59721,40997.0,5.0,5.0,4.8,4.9,4.7,Jet Black
+1993,ford,mustang gt premium,2019,17800,46853.0,4.6,4.7,4.9,4.9,4.7,Magnetic
+1994,subaru,outback 2.5i,2019,20155,29991.0,4.8,4.7,4.7,4.7,4.7,Crimson Red Pearl
+1995,ford,ranger xlt,2021,19069,38919.0,4.8,4.7,4.9,4.9,4.7,Shadow Black Metallic
+1996,nissan,maxima 3.5,2020,16666,36952.0,5.0,5.0,4.9,5.0,5.0,Black
+1997,honda,ridgeline black edition,2017,52312,34955.0,4.8,4.7,4.7,4.7,4.7,Crystal Black Pearl
+1998,volkswagen,passat 2.0l tdi dsg sel premium,2014,91334,19999.0,4.6,4.6,4.5,4.6,4.5,Candy White
+1999,acura,ilx,2020,23203,30998.0,4.5,4.6,4.5,4.7,4.4,Black
+2000,hyundai,santa fe,2018,96938,22706.0,4.7,4.7,4.6,4.8,4.8,Regal Red Pearl
+2001,bmw,535 i xdrive,2016,60237,23572.0,4.8,4.7,4.7,4.7,4.7,Black
+2002,mercedes-benz,m-class ml 350 4matic,2014,82171,22792.0,4.8,4.8,4.7,4.7,4.6,Brown
+2003,toyota,rav4,2013,154835,13850.0,4.5,4.4,4.4,4.5,4.7,Black
+2004,hyundai,genesis 3.8,2016,42867,29998.0,4.9,4.8,4.7,4.9,4.8,Caspian Black
+2005,honda,pilot touring,2018,86474,32015.0,4.7,4.6,4.7,4.6,4.7,White Diamond Pearl
+2006,honda,accord,2016,115498,19678.0,4.8,4.7,4.7,4.8,4.8,Black
+2007,volkswagen,tiguan 2.0t,2017,41991,20998.0,4.8,4.7,4.8,4.7,4.8,Deep Black Pearl Effect
+2008,jeep,grand cherokee overland,2017,88163,27991.0,4.8,4.8,4.7,4.8,4.8,Ivory
+2009,chevrolet,equinox lt,2016,65839,18981.0,4.8,4.7,4.6,4.7,4.8,Tungsten Metallic
+2010,gmc,sierra 1500 slt,2021,18903,59823.0,4.4,4.3,4.1,4.4,3.9,Onyx Black
+2011,bmw,228 i xdrive,2016,45316,24871.0,4.6,4.5,4.8,4.7,4.6,Mineral Gray Metallic
+2012,land,rover lr4,2016,59473,37995.0,4.7,4.5,4.6,4.9,4.3,Indus Silver
+2013,kia,sorento  v6,2019,48679,30500.0,4.8,4.8,4.7,4.8,4.8,Sangria Red
+2014,jaguar,f-pace 25t r-,2018,24619,45490.0,4.6,4.5,4.7,4.8,4.6,Corris Grey
+2015,bmw,535 i,2010,141769,7999.0,4.7,4.5,4.7,4.7,4.4,Black
+2016,nissan,rogue sv,2018,49800,23932.0,4.7,4.7,4.6,4.8,4.7,Caspian Blue
+2017,jeep,grand cherokee laredo,2020,13354,37698.0,4.9,4.8,4.8,4.9,4.8,Billet Silver Metallic Clearcoat
+2018,alfa,romeo stelvio ti,2020,17111,39995.0,4.8,4.8,5.0,5.0,4.8,Vesuvio Gray Metallic
+2019,volkswagen,atlas cross  3.6l v6 sel r-line,2021,10064,46332.0,4.7,4.5,4.4,4.5,4.4,Pure Gray
+2020,hyundai,tucson gls,2011,111536,10799.0,4.4,4.6,4.0,4.8,4.3,Ash Black
+2021,subaru,outback onyx edition xt,2020,24932,38500.0,4.9,4.7,4.6,4.8,4.7,Magnetite Gray Metallic
+2022,kia,seltos,2021,19788,27500.0,4.8,4.8,4.7,4.9,4.8,Snow White Pearl
+2023,mercury,mariner premier i4 awd 4dr suv,2010,136940,5995.0,4.4,4.2,3.9,4.4,3.9,Gold
+2024,ram,1500 trx,2021,14000,91993.0,4.9,4.9,4.8,4.9,4.8,Flame Red Clearcoat
+2025,nissan,armada,2020,18554,55995.0,5.0,4.6,4.7,4.6,4.7,Black
+2026,porsche,cayenne gts,2014,80821,35960.0,4.9,4.9,4.8,4.9,4.7,White
+2027,chevrolet,malibu 1ls,2018,24483,17989.0,4.7,4.6,4.3,4.8,4.5,White
+2028,honda,passport touring,2021,15578,43871.0,4.9,4.7,4.9,4.8,4.8,Platinum White Pearl
+2029,ford,escape s,2014,11210,18000.0,4.4,4.4,4.4,4.6,4.4,Gold
+2030,chevrolet,corvette stingray,2016,11771,59817.0,4.7,4.8,4.9,4.9,4.8,Arctic White
+2031,mercedes-benz,e-class e 400,2018,38376,55995.0,4.9,5.0,4.8,4.9,4.8,Black
+2032,audi,s4 3.0t prestige,2019,19759,47995.0,5.0,4.7,5.0,4.8,4.7,Mythos Black Metallic
+2033,nissan,rogue sv,2019,13142,29951.0,4.8,4.8,4.6,4.8,4.7,White
+2034,honda,odyssey touring,2014,45780,25995.0,4.7,4.6,4.5,4.6,4.8,Silver Gray
+2035,jeep,wrangler sahara,2017,48320,32000.0,4.6,4.6,4.8,4.8,4.8,Black Clearcoat
+2036,subaru,ascent premium 7-passenger,2019,29676,32998.0,4.7,4.6,4.6,4.6,4.5,Tungsten Metallic
+2037,subaru,forester,2020,39275,35553.0,4.9,4.8,4.8,4.8,4.9,Magnetite Gray Metallic
+2038,cadillac,xt5 luxury awd,2019,38315,35989.0,4.8,4.7,4.6,4.7,4.5,Harbor Blue Metallic
+2039,ford,f-150,2021,15762,49090.0,4.8,4.9,4.8,4.9,4.7,Agate Black Metallic
+2040,chevrolet,equinox premier,2018,58682,25918.0,4.7,4.7,4.7,4.8,4.7,Mosaic Black Metallic
+2041,dodge,grand caravan gt,2019,64740,23998.0,4.8,4.7,4.6,4.6,4.7,White Knuckle Clearcoat
+2042,bmw,x5 sdrive40i,2021,17564,62997.0,4.9,5.0,4.9,4.9,4.9,Alpine White
+2043,kia,k5 gt-line,2022,16826,39995.0,4.6,4.6,4.6,4.8,4.8,–
+2044,honda,civic -l,2017,35518,25696.0,4.7,4.7,4.8,4.8,4.8,Silver
+2045,ford,escape titanium hybrid,2020,16268,40700.0,4.7,4.6,4.5,4.7,4.6,Rapid Red Metallic Tinted Clearcoat
+2046,nissan,altima 2.5 s,2021,40195,23398.0,4.9,5.0,4.9,5.0,4.9,Gun Metallic
+2047,mercedes-benz,glb 250,2021,36228,35950.0,4.5,4.9,4.7,4.5,4.2,Midnight Black
+2048,lexus,ls 460,2015,70492,27888.0,4.9,4.8,4.7,4.8,4.9,White
+2049,subaru,forester touring,2021,11467,39995.0,4.9,4.9,4.9,4.8,4.9,Crystal Black Silica
+2050,jeep,grand cherokee overland,2012,86582,19998.0,4.6,4.6,4.5,4.7,4.4,Black
+2051,toyota,rav4,2010,80894,13599.0,4.4,4.3,4.6,4.4,4.7,Brown
+2052,audi,a6 2.0t premium,2013,64832,17924.0,4.8,4.9,4.7,4.9,4.7,Quartz Gray Metallic
+2053,bmw,m6,2008,45000,27000.0,4.7,4.8,4.9,4.8,4.8,Silver
+2054,gmc,yukon sle,2016,87405,34860.0,4.6,4.6,4.2,4.6,4.1,Sparkling Silver Metallic
+2055,mercedes-benz,s-class s 550,2013,77295,26977.0,5.0,4.9,4.9,4.7,4.7,Iridium Silver Metallic
+2056,porsche,911,2021,11472,157993.0,5.0,4.8,5.0,5.0,4.8,GT Silver Metallic
+2057,dodge,challenger r/t,2016,66766,28500.0,4.8,4.7,4.8,4.9,4.8,Granite Pearlcoat
+2058,nissan,370z,2016,46501,28499.0,4.6,4.6,4.9,5.0,4.8,Brilliant Silver
+2059,bmw,x6 xdrive35i,2018,24799,54491.0,4.7,4.8,4.8,4.9,4.6,Flamenco Red Metallic
+2060,hyundai,elantra,2020,11699,24995.0,4.8,4.7,4.7,4.8,4.8,Machine Gray
+2061,chevrolet,traverse ls,2018,45455,27985.0,4.9,4.8,4.6,4.8,4.6,Silver Ice Metallic
+2062,mitsubishi,outlander sel,2020,46515,23893.0,4.8,4.6,4.6,4.7,4.8,Mercury Gray Metallic
+2063,volkswagen,passat 2.0t r-line,2020,19846,27295.0,4.8,4.6,4.6,4.7,4.8,Deep Black Pearl Effect
+2064,lincoln,navigator,2015,80245,27750.0,4.9,4.7,4.7,4.8,4.8,Gray
+2065,volvo,s60 t5 premier,2013,66650,12999.0,4.7,4.6,4.7,4.8,4.7,Flamenco Red Metallic
+2066,kia,telluride,2021,24532,43500.0,5.0,4.9,4.9,5.0,4.9,Gray
+2067,subaru,outback touring,2020,51633,37333.0,4.9,4.7,4.6,4.8,4.7,Autumn Green Metallic
+2068,kia,soul gt-line 1.6l,2020,15732,29533.0,4.7,4.7,4.7,4.8,4.8,Gravity Gray
+2069,bmw,x3 sdrive28i,2017,45646,28993.0,4.8,4.8,4.9,4.8,4.9,White Metallic
+2070,tesla,model 3 mid range,2019,18565,49999.0,4.9,4.9,5.0,4.9,5.0,Black
+2071,toyota,highlander,2018,31086,34990.0,4.8,4.7,4.7,4.8,4.8,Celestial Silver Metallic
+2072,bmw,x5 xdrive50i,2018,36215,44995.0,4.8,4.9,4.9,4.9,4.8,Black Sapphire Metallic
+2073,jeep,grand cherokee laredo,2021,15808,43496.0,4.7,4.7,4.7,4.7,4.7,Granite Crystal Clearcoat Metallic
+2074,toyota,4runner sr5 premium,2020,48397,39989.0,4.8,4.7,4.7,4.8,4.9,Magnetic Gray Metallic
+2075,honda,accord,2017,40614,23982.0,4.8,4.8,4.8,4.8,4.9,Crystal Black Pearl
+2076,gmc,sierra 1500 slt,2019,83932,41955.0,4.6,4.4,4.6,4.7,4.4,Onyx Black
+2077,hyundai,kona ev,2019,18614,33075.0,4.8,4.9,4.9,4.7,4.8,Sonic Silver
+2078,chevrolet,captiva  2ls,2015,110750,9991.0,5.0,4.8,4.9,4.8,4.9,Arctic Ice
+2079,chevrolet,spark 1lt,2020,47942,15536.0,4.5,4.7,4.4,4.9,4.8,Red
+2080,ford,f-150,2021,17076,68000.0,4.8,4.9,4.8,4.9,4.7,Black
+2081,ford,expedition,2017,10300,34780.0,4.9,4.6,4.8,4.6,4.7,Iconic Silver Metallic
+2082,toyota,tundra,2017,98493,36889.0,4.8,4.5,4.8,4.8,4.9,Silver Sky Metallic
+2083,kia,telluride s,2021,34575,41991.0,5.0,4.9,4.9,5.0,4.9,Ebony Black
+2084,audi,q5 3.0t premium,2016,35956,28989.0,4.8,4.8,4.8,4.7,4.7,Brilliant Black
+2085,chevrolet,trailblazer activ,2021,29919,33509.0,4.8,4.8,4.8,4.9,4.8,Summit White
+2086,jeep,wrangler jk unlimited sahara,2018,21144,41290.0,4.7,4.7,4.8,4.9,4.8,Black Clearcoat
+2087,honda,odyssey -l,2022,11027,51999.0,4.5,4.7,4.5,4.7,4.5,Modern Steel Metallic
+2088,tesla,model 3 standard range,2020,18401,51900.0,4.6,4.4,4.6,4.2,4.4,Black
+2089,chevrolet,silverado 1500 lt,2015,49437,34725.0,4.7,4.6,4.6,4.8,4.6,Tungsten Metallic
+2090,nissan,murano,2019,39048,35584.0,5.0,4.9,4.8,4.9,4.8,Magnetic Black Pearl
+2091,hyundai,elantra gt,2014,86789,13786.0,4.2,4.3,3.9,4.3,4.4,Black Noir Pearl
+2092,dodge,charger srt8,2021,5173,49800.0,5.0,4.9,5.0,5.0,5.0,Triple Nickel Clearcoat
+2093,jeep,compass latitude,2018,16737,24333.0,4.6,4.6,4.4,4.8,4.5,Granite Crystal Clearcoat Metallic
+2094,lexus,es 350 premium,2019,28093,37000.0,4.7,4.6,4.6,4.7,4.6,Black
+2095,kia,sorento,2008,69000,8995.0,4.5,4.3,4.6,4.4,4.8,Black
+2096,land,rover range rover velar p250 hse r-dynamic,2018,56063,48995.0,4.2,4.3,4.0,4.6,3.4,Narvik Black
+2097,land,rover discovery,2020,61102,38500.0,5.0,4.7,5.0,5.0,5.0,Narvik Black
+2098,chevrolet,silverado 1500 custom trail boss,2021,11285,47590.0,4.7,4.6,4.5,4.6,4.2,Black
+2099,bmw,x5 xdrive50i,2016,91976,30995.0,4.8,4.8,4.8,4.8,4.7,White Metallic
+2100,gmc,sierra 2500 denali,2018,85285,62945.0,4.9,4.9,5.0,4.9,4.8,Gray
+2101,subaru,wrx sti,2020,47069,40695.0,3.6,4.1,4.6,4.7,4.4,Ice Silver Metallic
+2102,subaru,legacy touring xt,2020,21752,34988.0,5.0,4.9,4.6,4.9,4.9,Abyss Blue Pearl
+2103,genesis,g90 3.3t premium,2019,22209,43123.0,5.0,5.0,4.8,4.8,5.0,Santiago Silver
+2104,bmw,x3 xdrive28i,2015,28490,18995.0,4.5,4.5,4.7,4.7,4.5,Space Gray Metallic
+2105,mazda,cx-30 select,2020,49005,21977.0,4.9,4.8,4.8,4.9,5.0,Jet Black Mica
+2106,dodge,challenger r/t,2020,18951,37118.0,4.9,4.9,4.9,5.0,4.9,Smoke Show
+2107,land,rover range rover hse,2011,83676,17996.0,4.8,4.8,4.8,4.9,4.2,Baltic Blue
+2108,bmw,550 i xdrive,2011,73142,15895.0,4.6,4.5,4.6,4.6,4.2,–
+2109,audi,a7 3.0t prestige quattro,2013,85250,25495.0,4.9,4.8,4.9,5.0,4.9,Ice Silver Metallic
+2110,porsche,718 cayman s,2018,34704,69900.0,4.7,4.9,5.0,5.0,5.0,–
+2111,honda,accord,2019,18735,25500.0,4.7,4.8,4.7,4.8,4.8,Crystal Black Pearl
+2112,mercedes-benz,-class sl550 roadster,2009,48096,32989.0,4.8,4.6,4.9,4.8,4.5,Black
+2113,subaru,forester 2.5i,2017,20892,27491.0,4.7,4.5,4.7,4.7,4.8,Jasmine Green Metallic
+2114,lincoln,mkc select,2017,30500,27381.0,4.8,4.7,4.8,4.9,4.7,Magnetic Gray Metallic
+2115,toyota,c-hr,2019,11191,25527.0,4.8,4.8,4.7,4.9,4.8,Silver Knockout Metallic
+2116,volkswagen,atlas cross  2.0t  w/technology,2022,10371,36998.0,4.3,3.7,3.7,4.3,4.7,Platinum Gray Metallic
+2117,nissan,altima 2.5 s,2020,39666,22939.0,4.8,4.7,4.6,4.8,4.7,Black
+2118,chevrolet,tahoe ls,2018,43261,43971.0,4.9,4.8,4.8,4.8,4.8,Black
+2119,gmc,yukon denali,2020,29180,65985.0,5.0,4.9,5.0,4.9,4.9,Dark Sapphire Blue Metallic
+2120,nissan,rogue s,2011,65142,8950.0,4.4,4.3,4.3,4.5,4.3,Brilliant Silver
+2121,hyundai,elantra value edition,2018,11197,21993.0,4.7,4.7,4.7,4.8,4.8,Scarlet Red Pearl
+2122,toyota,tundra sr5,2018,43786,44550.0,4.8,4.6,4.9,4.8,4.9,Midnight Black Metallic
+2123,mercedes-benz,e-class e 300 luxury,2017,21497,35991.0,4.9,4.9,4.6,4.8,4.8,Lunar Blue Metallic
+2124,chevrolet,equinox premier,2019,46971,29647.0,4.6,4.6,4.5,4.6,4.5,Iridescent Pearl Tricoat
+2125,chevrolet,cruze ltz,2011,99680,9823.0,4.0,4.2,3.7,4.4,3.7,–
+2126,toyota,4runner sr5 4wd,2021,18500,37990.0,5.0,4.9,4.8,4.9,4.9,Silver
+2127,mercedes-benz,c-class c 350,2014,92197,15388.0,4.7,4.7,4.7,4.8,4.7,Black
+2128,ford,escape,2012,129000,7355.0,4.5,4.3,4.2,4.5,4.5,White
+2129,porsche,taycan turbo s,2020,12705,173987.0,4.0,5.0,5.0,4.0,4.0,Jet Black Metallic
+2130,chevrolet,silverado 1500 wt,2021,19957,37990.0,4.7,4.6,4.5,4.6,4.2,Black
+2131,lincoln,navigator l reserve,2019,47472,63990.0,4.8,4.8,4.3,4.8,4.3,Infinite Black Metallic
+2132,land,rover range rover 3.0l supercharged hse,2017,62883,53952.0,4.8,4.7,4.7,4.6,4.5,Santorini Black
+2133,ford,edge,2016,81517,25598.0,4.8,4.7,4.6,4.7,4.6,Ingot Silver Metallic
+2134,infiniti,q50 3.0t luxe,2021,17022,36500.0,4.9,4.9,4.9,4.9,4.9,Midnight Black
+2135,dodge,challenger srt hellcat,2020,18506,83500.0,4.9,4.9,4.9,5.0,4.9,Pitch Black Clearcoat
+2136,lexus,es 350,2009,141383,12475.0,4.9,4.8,4.8,4.6,4.9,Smoky Granite Mica
+2137,hyundai,sonata n line night edition,2022,10400,39900.0,5.0,5.0,5.0,5.0,5.0,Black
+2138,chevrolet,blazer 1lt,2020,24985,37674.0,4.8,4.7,4.8,4.9,4.8,Black
+2139,nissan,altima 2.5,2020,22811,31669.0,4.8,4.7,4.6,4.8,4.7,Black
+2140,gmc,yukon slt,2016,87371,36255.0,4.6,4.6,4.2,4.6,4.1,Onyx Black
+2141,jeep,grand cherokee overland,2014,96452,20999.0,4.7,4.6,4.5,4.8,4.3,Gray
+2142,audi,a4 2.0t premium,2018,36737,31639.0,4.8,4.9,4.8,4.8,4.7,Manhattan Gray Metallic
+2143,jeep,wrangler unlimited sahara,2013,52640,33000.0,4.4,4.6,4.6,4.8,4.7,Crush Clearcoat
+2144,porsche,cayenne awd,2020,19411,86900.0,4.6,4.4,4.6,4.9,4.1,Dolomite Silver Metallic
+2145,genesis,g70 2.0t,2021,12848,35384.0,4.6,5.0,4.7,5.0,4.9,Adriatic Blue
+2146,porsche,cayenne s,2017,48290,50998.0,4.8,4.8,4.9,4.8,4.7,Black
+2147,mercedes-benz,gla 250 4matic,2019,45092,31895.0,4.6,4.5,4.6,4.7,4.7,Polar White
+2148,land,rover range rover hse,2019,49603,74998.0,4.7,4.6,4.5,4.5,4.4,Santorini Black
+2149,hyundai,kona ev ultimate,2019,11696,37975.0,4.8,4.9,4.9,4.7,4.8,Chalk White
+2150,lexus,gx 460 gx 460 premium,2019,48093,42989.0,4.8,4.6,4.6,4.6,4.8,Black Onyx
+2151,ford,expedition,2018,45102,51995.0,4.9,4.8,4.8,4.7,4.6,Ingot Silver Metallic
+2152,nissan,kicks s,2021,14259,25324.0,5.0,4.8,4.8,5.0,4.8,Gun Metallic
+2153,acura,mdx 3.5l technology package,2014,85187,22800.0,4.8,4.6,4.7,4.6,4.6,Crystal Black Pearl
+2154,ford,escape titanium,2016,61332,20000.0,4.7,4.6,4.7,4.7,4.7,Ruby Red
+2155,toyota,tacoma trd off road,2021,17761,46498.0,4.8,4.8,4.6,4.9,4.9,Midnight Black Metallic
+2156,lexus,nx 300 f-,2019,62812,35998.0,4.8,4.7,4.6,4.8,4.7,Black
+2157,nissan,maxima 3.5 sv,2020,65668,29986.0,5.0,5.0,4.9,5.0,5.0,Brilliant Silver Metallic
+2158,chevrolet,traverse ls,2019,64230,28564.0,4.8,4.8,4.7,4.9,4.6,Satin Steel Metallic
+2159,toyota,camry hybrid,2020,38822,32998.0,4.9,4.8,4.3,4.9,4.6,White
+2160,mercedes-benz,glc 300,2018,48407,30295.0,4.8,4.7,4.6,4.8,4.6,Black
+2161,bmw,x5 xdrive35i,2015,82777,24946.0,4.8,4.8,4.9,4.8,4.5,Sparkling
+2162,volvo,xc90 t6 inscription 7 passenger,2020,22296,56996.0,4.9,4.8,4.6,4.9,4.7,Onyx Black Metallic
+2163,honda,fit,2007,51505,9995.0,4.3,4.4,4.4,4.6,4.8,Gray
+2164,nissan,altima 2.5 s,2018,10737,22944.0,4.9,4.7,4.7,4.8,4.8,Black
+2165,kia,sorento sx,2019,39725,34991.0,4.8,4.8,4.7,4.8,4.8,Snow White Pearl
+2166,honda,hr-v,2016,43593,15490.0,4.4,4.4,4.2,4.6,4.7,Charcoal
+2167,honda,accord  1.5t,2021,11390,33998.0,4.9,5.0,4.9,5.0,5.0,Silver
+2168,toyota,sequoia,2019,67309,59495.0,4.9,4.5,4.7,4.4,5.0,Magnetic Gray Metallic
+2169,bmw,x5 xdrive50i,2014,117760,23990.0,4.8,4.6,4.8,4.7,4.6,Space Gray Metallic
+2170,ford,expedition,2021,28013,65900.0,5.0,5.0,5.0,5.0,5.0,Agate Black Metallic
+2171,mercedes-benz,cla-class cla 250,2015,66992,21985.0,4.5,4.7,4.6,4.7,4.6,Citrus White
+2172,nissan,pathfinder sv,2020,47841,26709.0,4.9,4.9,4.8,4.9,5.0,Gun Metallic
+2173,nissan,maxima 3.5,2018,22666,30739.0,4.9,4.9,4.9,4.9,4.8,Black
+2174,dodge,durango sxt,2019,14100,33998.0,4.8,4.7,4.7,4.7,4.6,Black
+2175,kia,soul gt-line 2.0l,2020,12014,26771.0,4.7,4.7,4.7,4.8,4.8,Inferno Red
+2176,mazda,cx-5,2016,86216,17500.0,4.6,4.6,4.7,4.8,4.7,Sonic Silver Metalic
+2177,mercedes-benz,amg s 63 4matic,2019,15108,153995.0,5.0,5.0,5.0,5.0,5.0,Black
+2178,toyota,highlander hybrid,2019,29759,37981.0,4.9,4.9,4.9,4.8,4.5,Midnight Black Metallic
+2179,lexus,gx 460,2014,59619,34110.0,4.7,4.6,4.4,4.6,4.6,Black Onyx
+2180,dodge,durango sxt,2015,68109,24250.0,4.8,4.7,4.7,4.8,4.7,Bright White Clearcoat
+2181,lincoln,navigator reserve,2018,54172,59600.0,5.0,4.9,4.5,4.8,4.3,Iced Mocha Premium Colorant
+2182,acura,mdx 3.7l advance,2010,149813,13977.0,4.8,4.7,4.8,4.7,4.7,Ionized Bronze Metallic
+2183,toyota,tacoma,2012,83000,17950.0,4.4,4.5,4.5,4.6,4.7,Green
+2184,ford,fiesta,2016,23636,16510.0,4.3,4.4,4.4,4.6,4.6,White
+2185,toyota,rav4 hybrid hybrid,2020,41647,45499.0,4.7,4.6,4.7,4.8,4.7,R
+2186,dodge,challenger gt,2021,17387,37495.0,4.9,4.8,4.9,5.0,4.8,Pitch Black Clearcoat
+2187,volkswagen,beetle auto 1.8t,2015,100937,14900.0,4.6,4.7,4.7,4.9,4.7,White
+2188,ford,f-150 xlt,2013,64273,18900.0,4.8,4.6,4.7,4.7,4.6,Sterling Gray Metallic
+2189,chevrolet,tahoe premier,2020,57960,57111.0,4.3,4.2,4.6,4.5,4.6,Satin Steel Metallic
+2190,honda,civic,2015,87416,18000.0,4.6,4.6,4.6,4.6,4.8,Blue
+2191,chevrolet,silverado 1500 ltz,2020,14854,53695.0,4.7,4.6,4.6,4.8,4.5,Cajun Red Tintcoat
+2192,chevrolet,tahoe z71,2022,6256,79999.0,5.0,5.0,5.0,5.0,5.0,Satin Steel Metallic
+2193,lexus,rx 350 350,2020,50000,49000.0,4.9,4.8,4.8,4.8,4.9,Nebula Gray Pearl
+2194,toyota,prius,2019,24050,33981.0,4.9,4.7,4.9,4.8,4.9,Blizzard Pearl
+2195,porsche,panamera 4,2016,87866,39995.0,5.0,4.9,4.9,4.9,4.7,Tan / Brown
+2196,honda,accord touring,2018,47140,30985.0,4.8,4.8,4.7,4.8,4.8,Kona Coffee Metallic
+2197,lexus,rx 350l premium,2018,30336,44310.0,4.7,4.7,4.5,4.6,4.6,Nebula Gray Pearl
+2198,cadillac,escalade premium,2015,137948,35887.0,4.8,4.7,4.6,4.8,4.4,Dark Granite Metallic
+2199,hyundai,kona,2019,26069,26998.0,4.8,4.7,4.7,4.9,4.8,Chalk White
+2200,honda,hr-v,2018,149877,17829.0,4.7,4.5,4.7,4.8,4.8,Lunar Silver Metallic
+2201,lexus,rx 350l,2020,19211,50204.0,5.0,5.0,5.0,5.0,5.0,Atomic Silver
+2202,buick,enclave premium,2016,84186,23995.0,4.7,4.6,4.5,4.6,4.6,Iridium Metallic
+2203,jeep,cherokee latitude,2014,88338,17480.0,4.5,4.5,4.0,4.5,3.9,Brilliant Black Crystal Pearlcoat
+2204,hyundai,tucson,2019,24531,23700.0,4.8,4.7,4.6,4.8,4.7,Sage Brown
+2205,bmw,x2 xdrive28i,2019,34541,36999.0,4.7,4.9,4.6,4.9,4.7,Black Sapphire Metallic
+2206,nissan,pathfinder,2022,15363,47244.0,5.0,5.0,5.0,5.0,5.0,Mocha Almond
+2207,buick,encore essence,2017,20554,19577.0,4.6,4.6,4.5,4.8,4.7,Summit White
+2208,scion,tc,2010,166810,5950.0,4.4,4.1,4.4,4.4,4.7,Sizzling Crimson Mica
+2209,infiniti,q50 3.0t red  400,2016,64895,28495.0,4.8,4.8,4.8,4.8,4.8,Gray
+2210,subaru,brz,2022,1564,39581.0,4.0,4.0,5.0,5.0,5.0,WR Blue Pearl
+2211,mercedes-benz,e-class e 400,2017,40061,32998.0,4.9,4.9,4.6,4.8,4.8,Silver
+2212,gmc,acadia slt-1,2017,92777,31998.0,4.7,4.6,4.6,4.7,4.6,Ebony Twilight Metallic
+2213,toyota,tacoma,2021,17029,34451.0,4.8,4.8,4.6,4.9,4.9,Gray
+2214,ram,1500 classic slt,2019,19905,37282.0,4.7,4.6,4.7,4.7,4.8,Granite Crystal Clearcoat Metallic
+2215,nissan,versa 1.6 sv,2019,61690,19950.0,4.5,4.4,4.1,4.4,4.5,Fresh Powder
+2216,chevrolet,equinox ltz,2016,84209,17849.0,4.8,4.7,4.6,4.7,4.8,Mosaic Black Metallic
+2217,honda,hr-v -l w/navigation,2016,83541,21426.0,4.4,4.4,4.2,4.6,4.7,Mulberry Metallic
+2218,chevrolet,traverse lt cloth,2021,24071,38599.0,4.9,4.8,4.8,4.9,4.9,Mosaic Black Metallic
+2219,mercedes-benz,s-class s 550,2014,52331,42993.0,4.9,4.9,4.8,5.0,4.5,Black
+2220,nissan,titan sv,2019,26351,39492.0,4.9,4.7,4.8,4.8,4.4,Gun Metallic
+2221,jeep,grand cherokee laredo,2015,64822,23998.0,4.9,4.8,4.8,4.9,4.7,Gray
+2222,chevrolet,silverado 1500 custom,2021,15600,41985.0,4.7,4.6,4.5,4.6,4.2,Shadow Gray Metallic
+2223,toyota,tundra,2021,15183,54945.0,4.9,4.8,4.8,4.9,4.9,Midnight Black Metallic
+2224,toyota,sienna,2020,40007,42998.0,4.7,4.8,4.8,4.8,4.8,White
+2225,buick,enclave premium,2015,35221,23250.0,4.8,4.8,4.5,4.8,4.7,Iridium Metallic
+2226,audi,a6 55 premium,2019,33592,44988.0,4.7,4.8,4.6,5.0,4.5,Ibis White
+2227,volvo,v60 cross country t5,2020,31595,46000.0,4.9,4.7,4.5,4.9,4.7,Fusion Red Metallic
+2228,honda,odyssey -l,2020,20623,43861.0,4.8,4.8,4.7,4.7,4.7,Modern Steel Metallic
+2229,nissan,sentra s,2016,91684,13998.0,4.5,4.4,4.3,4.6,4.4,Black
+2230,audi,a4 2.0t titanium premium,2019,40578,31990.0,5.0,4.9,4.7,4.7,4.8,Brilliant Black
+2231,mercedes-benz,e-class e 300 4matic,2017,29454,36944.0,4.9,4.9,4.6,4.8,4.8,Black
+2232,hyundai,santa fe  2.4l,2017,84054,18494.0,4.8,4.7,4.6,4.8,4.8,Frost White Pearl
+2233,hyundai,santa fe sel,2021,17032,31499.0,4.8,4.8,4.6,4.8,4.8,Portofino Gray
+2234,chevrolet,tahoe ltz,2007,56845,16500.0,4.8,4.6,4.5,4.8,4.5,Black
+2235,volkswagen,passat 2.0 tdi sel premium,2012,146137,9995.0,4.7,4.6,4.5,4.6,4.7,Gray
+2236,jeep,cherokee latitude,2017,47130,21574.0,4.8,4.7,4.5,4.7,4.6,Granite Crystal Clearcoat Metallic
+2237,volkswagen,atlas 3.6l v6 sel premium,2019,18913,43962.0,4.7,4.6,4.3,4.7,4.4,Platinum Gray Metallic
+2238,dodge,journey  value,2020,47195,23452.0,4.4,4.4,4.0,4.3,4.2,Granite Pearlcoat
+2239,volvo,v60 t5 premier,2016,55072,22998.0,4.7,4.8,4.6,4.7,4.5,White
+2240,dodge,charger gt,2018,16444,31698.0,4.8,4.7,4.8,4.9,4.8,Indigo Blue
+2241,porsche,911 carrera 4s,2016,42747,97500.0,4.6,5.0,5.0,5.0,4.6,GT Silver Metallic
+2242,kia,soul +,2018,24039,19942.0,4.8,4.8,4.7,4.8,4.9,Mysterious Blue
+2243,ford,f-150 king ranch,2019,23655,54901.0,4.9,4.8,4.8,4.8,4.7,Magma Red Metallic
+2244,volkswagen,tiguan 2.0t  r-line black,2021,12648,34000.0,4.7,4.6,4.7,4.9,4.8,Pure White
+2245,jaguar,xj xjl portfolio,2016,38100,39996.0,5.0,4.8,4.8,4.8,4.3,Ebony
+2246,subaru,ascent  8-passenger,2021,21700,43483.0,4.8,4.8,4.7,4.5,4.7,Crystal White Pearl
+2247,toyota,camry,2013,85511,19998.0,4.4,4.3,4.4,4.4,4.6,Black
+2248,dodge,journey gt,2017,35942,17997.0,4.7,4.6,4.6,4.7,4.7,White
+2249,cadillac,xt6 awd,2020,30642,52990.0,4.6,4.5,4.6,4.7,4.5,Stellar Black Metallic
+2250,toyota,sienna l,2017,23603,40337.0,4.8,4.8,4.6,4.7,4.8,Salsa Red Pearl
+2251,nissan,maxima 3.5,2017,22950,32998.0,4.8,4.8,4.8,4.8,4.8,Gray
+2252,audi,q7 3.0 premium,2010,153876,11985.0,4.6,4.7,4.2,4.7,4.3,Gray
+2253,infiniti,q50 3.0t premium,2016,87091,21000.0,4.8,4.8,4.8,4.8,4.8,Gun Metallic
+2254,nissan,versa 1.6 sv,2017,81569,9700.0,4.3,4.2,4.2,4.4,4.5,Silver
+2255,hyundai,santa fe gls,2015,84416,19599.0,4.5,4.4,4.3,4.3,4.3,Monaco White
+2256,jeep,grand cherokee srt,2017,69090,59995.0,4.8,4.8,4.7,4.8,4.8,Diamond Black
+2257,jeep,grand cherokee summit,2021,13855,54500.0,4.7,4.7,4.7,4.7,4.7,Ivory
+2258,jeep,wrangler unlimited sahara,2021,14001,46000.0,4.9,5.0,4.9,4.9,4.8,Sarge Green Clearcoat
+2259,mercedes-benz,amg gle 53 4matic coupe,2021,21710,89910.0,4.2,4.6,3.8,4.6,2.5,Black
+2260,mazda,cx-9 touring,2021,10429,37980.0,4.8,4.8,4.8,4.9,4.9,Deep Crystal Blue Mica
+2261,acura,tlx advance,2021,12346,47682.0,4.8,4.8,4.7,4.8,4.6,Phantom Violet Pearl
+2262,tesla,model x 75d,2017,45184,69950.0,4.7,4.6,4.9,4.7,4.6,Blue
+2263,porsche,taycan 4s,2021,11776,129990.0,5.0,5.0,5.0,5.0,5.0,Gentian Blue Metallic
+2264,lexus,rc 350,2015,67620,30999.0,4.9,4.9,4.9,5.0,5.0,Nebula Gray Pearl
+2265,audi,s5 3.0t premium,2018,50351,40995.0,4.8,4.9,4.6,4.7,4.8,Black
+2266,jeep,compass high altitude,2017,57174,18989.0,4.6,4.6,4.4,4.6,4.6,Black Clearcoat
+2267,chevrolet,corvette stingray z51,2015,30357,49685.0,4.6,4.8,5.0,5.0,4.7,Black
+2268,chevrolet,silverado 1500 ltz,2021,20054,55468.0,4.7,4.6,4.5,4.6,4.2,Black
+2269,lexus,es 350 es 350,2020,18031,44988.0,4.9,4.8,4.9,4.8,5.0,Eminent White Pearl
+2270,bmw,328 i,2013,88544,15144.0,4.7,4.6,4.8,4.8,4.6,Black Sapphire Metallic
+2271,honda,accord -l 2.0t,2020,46264,34680.0,4.8,4.8,4.8,4.9,4.9,White
+2272,dodge,durango r/t,2015,106458,27991.0,4.8,4.7,4.7,4.8,4.7,Maximum Steel Metallic
+2273,hyundai,elantra,2013,56326,13000.0,4.4,4.4,4.2,4.6,4.5,Desert Bronze
+2274,honda,pilot touring 7-passenger,2021,19529,44985.0,4.9,4.7,4.8,4.7,4.8,Blue
+2275,dodge,charger sxt,2020,19582,32564.0,4.9,4.8,4.9,4.9,4.9,Granite Crystal Clearcoat Metallic
+2276,mazda,cx-9 grand touring,2015,64022,19991.0,4.8,4.6,4.8,4.8,4.8,Jet Black Mica
+2277,toyota,sienna,2019,62736,30998.0,4.7,4.6,4.6,4.6,4.7,Silver
+2278,acura,mdx 3.5l,2018,37161,36987.0,4.9,4.6,4.7,4.7,4.7,Crystal Black Pearl
+2279,dodge,journey,2013,91282,9999.0,4.5,4.4,4.2,4.4,4.3,Gray
+2280,audi,q7 3.0t premium,2014,46783,26500.0,4.8,4.7,4.9,4.8,4.8,Midnight Black
+2281,jeep,cherokee latitude,2018,133655,17495.0,4.8,4.8,4.7,4.8,4.8,Diamond Black
+2282,volkswagen,atlas cross  3.6l v6  w/technology,2020,14154,38995.0,4.8,4.6,4.5,4.8,4.6,Pure White
+2283,mazda,mazda6 touring,2020,46355,26129.0,5.0,5.0,4.9,5.0,4.9,Snowflake White Pearl
+2284,infiniti,qx80 luxe,2020,46985,43998.0,5.0,4.8,4.8,4.5,5.0,Black Obsidian
+2285,tesla,model x 75d,2018,25915,81990.0,4.6,4.6,4.7,4.9,4.1,Deep Blue Metallic
+2286,toyota,tundra,2020,17637,52985.0,4.8,4.6,4.7,4.8,4.9,Barcelona Red Metallic
+2287,toyota,tacoma trd pro,2021,13141,45200.0,4.8,4.8,4.6,4.9,4.9,Gray
+2288,jeep,wrangler,2017,16194,33693.0,4.6,4.6,4.8,4.8,4.8,Billet Silver Metallic Clearcoat
+2289,acura,rdx,2013,105414,16800.0,4.5,4.4,4.4,4.5,4.4,Crystal Black Pearl
+2290,porsche,718 cayman gts,2018,21160,81991.0,4.7,4.9,5.0,5.0,5.0,Jet Black Metallic
+2291,cadillac,srx performance collection,2012,141432,13997.0,4.6,4.6,4.7,4.7,4.6,Gray Flannel Metallic
+2292,toyota,highlander,2018,24723,35997.0,4.8,4.7,4.7,4.8,4.8,Toasted Walnut Pearl
+2293,toyota,venza,2021,16728,40396.0,4.7,4.7,4.7,4.9,4.7,Blue
+2294,lincoln,navigator black label,2019,19620,85889.0,4.7,4.8,5.0,4.9,4.9,Chroma Molten Gold
+2295,kia,soul s,2020,14256,23296.0,4.7,4.7,4.7,4.8,4.8,Mars Orange
+2296,cadillac,cts performance,2013,63811,24970.0,4.8,4.7,4.8,4.8,4.8,Radiant Silver Metallic
+2297,ford,f-150 raptor,2018,58963,57998.0,4.9,4.8,4.8,4.8,4.7,Red
+2298,audi,a4 2.0t premium  quattro,2009,128000,8995.0,4.7,4.6,4.5,4.8,4.2,Gray
+2299,toyota,highlander,2019,48098,40476.0,4.8,4.7,4.6,4.7,4.6,Blizzard Pearl
+2300,mercedes-benz,cls-class cls 550 4matic,2012,84570,22899.0,4.9,4.9,5.0,5.0,4.7,–
+2301,jeep,grand cherokee l overland,2021,17231,58711.0,4.5,4.7,4.3,4.7,4.2,Bright White Clearcoat
+2302,subaru,outback 2.5i,2013,24773,22000.0,4.6,4.5,4.3,4.5,4.6,Twighlight Blue Metallic
+2303,cadillac,xt5 premium luxury,2021,10150,53995.0,5.0,4.9,4.9,4.9,5.0,Crystal White Tri-Coat
+2304,nissan,sentra s,2021,13561,27500.0,4.9,4.8,4.7,4.9,4.8,Gun Metallic
+2305,honda,element,2008,125979,7999.0,4.4,4.5,4.2,4.6,4.7,Blue
+2306,chrysler,town & country,2015,92083,19500.0,4.7,4.6,4.6,4.5,4.6,Bright White Clearcoat
+2307,mercedes-benz,cls-class cls 550,2013,93017,23285.0,4.1,4.6,4.9,4.7,4.2,Gray
+2308,chevrolet,equinox ls,2014,88699,8990.0,4.5,4.4,4.3,4.5,4.4,Atlantis Blue Metallic
+2309,mazda,cx-5 carbon edition turbo,2021,14362,36998.0,4.8,4.8,4.8,4.8,4.8,Polymetal Gray Metallic
+2310,chrysler,town & country touring,2010,87405,10775.0,4.5,4.4,4.3,4.4,4.3,Deep Cherry Red Crystal Pearl
+2311,honda,civic,2021,14514,25582.0,4.7,4.7,4.7,4.8,4.6,Silver Metallic
+2312,mercedes-benz,cls 450,2019,23996,59688.0,4.4,4.9,4.5,4.7,4.4,designo Selenite Gray Magno
+2313,mazda,mazda3 touring,2018,45032,20999.0,4.8,4.8,4.8,4.8,4.9,Machine Gray Metallic
+2314,toyota,tacoma sr5,2020,20125,35992.0,4.7,4.7,4.6,4.9,4.8,Black
+2315,subaru,outback 2.5i touring,2019,29732,32132.0,4.8,4.7,4.7,4.7,4.7,Crystal Black Silica
+2316,bmw,x4 xdrive28i,2016,49090,29942.0,4.9,4.8,4.9,4.9,4.9,Alpine White
+2317,jeep,renegade,2019,14412,23989.0,4.5,4.5,4.4,4.5,4.6,Granite Crystal Clearcoat Metallic
+2318,bmw,228 gran coupe 228i sdrive gran coupe,2021,10845,35998.0,5.0,5.0,5.0,5.0,5.0,Black
+2319,mercedes-benz,s-class s 560 4matic,2020,6252,95999.0,5.0,5.0,5.0,5.0,5.0,designo Diamond White Metallic
+2320,jeep,grand cherokee trailhawk,2017,83292,29999.0,4.8,4.8,4.7,4.8,4.8,Diamond Black
+2321,lexus,is 250,2014,12384,31578.0,4.7,4.7,4.4,4.8,4.9,Atomic Silver
+2322,chevrolet,silverado 1500 1lz,2017,45817,38998.0,4.8,4.7,4.7,4.9,4.7,Black
+2323,hyundai,santa fe sel  2.4,2019,31925,30823.0,4.9,4.9,4.6,4.9,4.8,Twilight Black
+2324,jaguar,f-pace 25t premium,2018,21512,39241.0,4.6,4.5,4.7,4.8,4.6,Silicon Silver
+2325,bmw,330 gran turismo i xdrive,2017,40682,28995.0,5.0,5.0,4.9,4.7,4.7,Jet Black
+2326,mercedes-benz,gla 250,2017,40520,30400.0,4.5,4.4,4.5,4.7,4.5,Blue
+2327,honda,accord -l,2012,71383,17994.0,4.4,4.4,4.5,4.5,4.7,Pewter
+2328,mercedes-benz,glc 300 4matic,2019,14586,39987.0,4.8,4.8,4.6,4.7,4.6,Black
+2329,mercedes-benz,gla 250  4matic,2020,10968,36498.0,4.9,4.8,4.9,4.9,4.9,White
+2330,mercedes-benz,gl-class gl 450 4matic,2016,47470,39998.0,4.9,4.7,4.8,4.8,4.7,White
+2331,audi,a5 2.0t premium,2018,45810,39139.0,4.8,4.8,4.9,5.0,5.0,Mythos Black Metallic w/ Black Roof
+2332,ford,expedition xlt,2019,62426,39422.0,4.9,4.9,4.8,4.9,4.7,Agate Black
+2333,mercedes-benz,e-class e 350,2021,19040,56997.0,5.0,5.0,5.0,4.6,4.3,Graphite Gray Metallic
+2334,kia,sportage,2020,12039,32497.0,4.8,4.8,4.8,4.8,4.9,Black Cherry Pearl
+2335,chevrolet,blazer 2lt,2019,42630,35000.0,4.7,4.6,4.5,4.6,4.4,Cajun Red Tintcoat
+2336,jeep,grand cherokee laredo,2013,99453,16999.0,4.7,4.7,4.6,4.8,4.6,True Blue Pearlcoat
+2337,bmw,x1 xdrive 28i,2014,82392,14344.0,4.6,4.6,4.9,4.8,4.8,Alpine White
+2338,chevrolet,equinox 1lt,2018,49224,22998.0,4.7,4.7,4.7,4.8,4.7,Nightfall Gray Metallic
+2339,land,rover range rover  5.0l supercharged dynamic,2019,45685,73995.0,4.7,4.9,4.7,4.9,4.6,Santorini Black
+2340,scion,iq,2013,178132,5900.0,4.0,4.0,3.9,4.6,4.6,Pacific Blue Metallic
+2341,chevrolet,silverado 1500 ltz,2017,39555,40596.0,4.8,4.7,4.7,4.9,4.7,Black
+2342,kia,telluride,2020,64164,34995.0,4.9,4.9,4.8,4.9,4.9,Gravity Gray
+2343,toyota,tundra grade,2011,95552,18999.0,4.6,4.4,4.7,4.7,4.9,Gray
+2344,nissan,frontier pro-4x,2022,2000,55035.0,4.4,4.6,5.0,4.8,4.7,Tactical Green
+2345,chevrolet,silverado 1500 ltz,2016,71587,32639.0,4.7,4.6,4.6,4.8,4.5,Black
+2346,toyota,avalon hybrid,2021,13473,48998.0,4.6,4.9,4.6,4.4,5.0,Desert Wind
+2347,hyundai,elantra sel,2019,13876,20000.0,4.7,4.7,4.6,4.7,4.8,Quartz White Pearl
+2348,audi,q7 45 premium,2019,22417,42591.0,4.8,4.6,4.8,4.8,4.6,Florett Silver Metallic
+2349,toyota,sienna,2016,71227,27995.0,4.8,4.7,4.7,4.7,4.9,Blizzard Pearl
+2350,toyota,sienna  premium,2017,33320,43998.0,4.8,4.8,4.6,4.7,4.8,Black
+2351,gmc,acadia denali,2014,102030,19596.0,4.7,4.7,4.4,4.8,4.6,Iridium Metallic
+2352,toyota,4runner sr5,2007,119359,12993.0,4.5,4.2,4.6,4.6,4.8,Black
+2353,toyota,4runner trd off road premium,2021,20919,48245.0,5.0,4.9,4.8,4.9,4.9,Gray
+2354,chevrolet,equinox 2lt,2018,41651,25989.0,4.7,4.7,4.7,4.8,4.7,Summit White
+2355,acura,rdx,2014,111567,17495.0,4.8,4.6,4.8,4.7,4.8,Black
+2356,nissan,versa 1.6 s,2016,79331,11874.0,4.3,4.0,4.2,4.3,4.4,Super Black Metallic
+2357,mercedes-benz,cla 250,2019,46733,30000.0,3.9,4.0,4.1,4.5,4.3,Polar Silver Metallic
+2358,nissan,titan sv,2020,21014,38752.0,4.9,4.8,4.8,4.9,4.8,Black
+2359,chevrolet,corvette stingray z51,2017,15884,63693.0,4.6,4.7,4.9,4.9,4.8,Corvette Racing Yellow Tintcoat
+2360,lexus,rx 350,2016,69604,29995.0,4.6,4.6,4.2,4.6,4.5,Matador Red Mica
+2361,acura,mdx advance,2022,3846,62952.0,4.9,4.8,4.9,4.9,4.9,Liquid Carbon Metallic
+2362,ford,transit connect,2019,46345,28900.0,3.9,4.0,3.7,4.3,4.1,Frozen White
+2363,dodge,durango citadel,2015,79750,25999.0,4.8,4.7,4.7,4.8,4.7,Brilliant Black Crystal Pearlcoat
+2364,ford,mustang mach-e select,2021,3044,53995.0,4.8,4.9,4.8,4.8,4.6,Rapid Red Metallic Tinted Clearcoat
+2365,ram,1500 lone star,2021,11113,44891.0,4.9,4.9,4.8,4.9,4.8,Maximum Steel Metallic
+2366,dodge,journey /avp,2012,93757,9999.0,4.4,4.3,4.1,4.3,4.1,Brilliant Black Crystal Pearl
+2367,hyundai,santa fe calligraphy,2022,4048,44995.0,4.8,4.8,4.0,4.8,4.2,Quartz White
+2368,toyota,highlander,2013,145116,17995.0,4.7,4.7,4.7,4.7,4.8,Sizzling Crimson Mica
+2369,chevrolet,tahoe ls,2020,17044,49968.0,4.3,4.2,4.6,4.5,4.6,Black
+2370,jeep,cherokee trailhawk,2015,88278,20275.0,4.6,4.6,4.4,4.6,4.4,Anvil Clearcoat
+2371,kia,forte,2018,45078,17991.0,4.8,4.7,4.7,4.8,4.8,Clear White
+2372,toyota,sienna,2021,49869,35995.0,4.4,4.2,4.4,4.5,4.2,Predawn Gray Mica
+2373,mitsubishi,outlander  2.0 es,2016,57177,15411.0,4.6,4.5,4.5,4.8,4.8,Mercury Gray Metallic
+2374,porsche,911 carrera,2017,11128,99985.0,4.6,4.8,5.0,4.9,5.0,Agate Gray Metallic
+2375,dodge,durango sxt,2017,64483,25621.0,4.8,4.8,4.6,4.8,4.7,White Knuckle Clearcoat
+2376,toyota,camry,2016,123755,17323.0,4.7,4.6,4.7,4.7,4.9,Blue Streak Metallic
+2377,nissan,armada,2012,80696,19995.0,4.9,4.6,4.7,4.9,4.7,Lakeshore Slate
+2378,toyota,rav4 hybrid,2021,15966,38995.0,4.8,4.7,4.8,4.7,4.9,Magnetic Gray Metallic
+2379,lexus,rx 350 f,2016,87951,34998.0,4.6,4.6,4.2,4.6,4.5,Obsidian Black
+2380,bmw,x5 m,2021,22000,107489.0,4.7,5.0,5.0,5.0,5.0,Bay Blue
+2381,mini,countryman cooper s all4,2015,88630,17450.0,4.5,4.5,4.6,5.0,4.6,Blazing Red Metallic
+2382,nissan,murano,2018,40050,31999.0,4.9,4.8,4.8,4.8,4.8,Gun Metallic
+2383,gmc,acadia sle-2,2016,47678,21797.0,4.7,4.6,4.4,4.5,4.4,Ebony Twilight Metallic
+2384,dodge,durango,2015,122859,20981.0,4.8,4.7,4.7,4.8,4.7,Billet Silver Metallic Clearcoat
+2385,ford,f-150 xlt,2014,69388,22998.0,4.8,4.6,4.7,4.8,4.7,Gray
+2386,dodge,challenger srt hellcat,2016,8947,61500.0,4.8,4.7,4.8,4.9,4.8,Bright White Clearcoat
+2387,chevrolet,silverado 1500 rst,2020,18901,52913.0,4.7,4.6,4.6,4.8,4.5,Satin Steel Metallic
+2388,lincoln,mkz reserve ii,2019,15060,35900.0,5.0,4.9,4.9,4.9,5.0,Magnetic Gray
+2389,toyota,rav4,2014,68592,22500.0,4.3,4.2,4.4,4.5,4.6,Blizzard Pearl
+2390,ford,transit-250,2019,17299,47998.0,5.0,5.0,5.0,5.0,5.0,Oxford White
+2391,kia,optima,2019,45284,24624.0,4.8,4.9,4.7,4.9,4.8,Sangria Red
+2392,dodge,durango r/t,2016,125157,26998.0,4.7,4.7,4.6,4.8,4.8,Maximum Steel Metallic
+2393,jeep,wrangler unlimited rubicon,2017,36495,43990.0,4.6,4.6,4.6,4.9,4.8,Hypergreen Clearcoat
+2394,toyota,corolla s,2010,12519,19999.0,4.4,4.2,4.4,4.4,4.8,–
+2395,toyota,camry,2021,12872,28750.0,4.8,4.8,4.8,4.9,4.9,Blue
+2396,acura,mdx 3.5l,2016,96384,23277.0,4.7,4.5,4.5,4.5,4.6,Graphite
+2397,mercedes-benz,cls-class cls 63 amg,2012,55489,39999.0,4.9,4.9,5.0,5.0,4.7,Obsidian Black Metallic
+2398,toyota,highlander,2005,149000,5999.0,4.6,4.3,4.5,4.5,4.8,Black
+2399,audi,r8 5.2,2015,23090,128550.0,4.4,4.6,4.9,5.0,5.0,Suzuka Gray Metallic/Black Roof
+2400,nissan,rogue  s,2019,15405,24992.0,4.6,4.5,4.5,4.6,4.7,Gun Metallic
+2401,audi,q5 2.0t premium,2013,67336,14990.0,4.7,4.7,4.5,4.6,4.3,Silver Metallic
+2402,nissan,pathfinder,2019,55290,26952.0,4.7,4.5,4.6,4.7,4.6,Glacier White
+2403,lexus,nx 300 f,2021,11236,49980.0,4.8,4.7,4.7,4.8,4.8,Nebula Gray Pearl
+2404,infiniti,qx50 essential,2020,20966,38997.0,4.8,4.8,4.3,4.7,4.6,Graphite Shadow
+2405,lexus,nx 300,2018,16976,38500.0,4.9,4.8,4.8,4.9,4.9,White
+2406,jeep,grand cherokee altitude,2017,41500,28495.0,4.8,4.8,4.7,4.8,4.8,Billet Silver Metallic Clearcoat
+2407,lexus,nx 200t,2017,37600,36500.0,4.8,4.7,4.7,4.8,4.9,Nebula Gray Pearl
+2408,hyundai,sonata,2018,41235,19882.0,4.8,4.8,4.7,4.8,4.8,Phantom Black
+2409,bmw,440 gran coupe i xdrive,2018,61160,32995.0,4.7,4.7,5.0,5.0,4.4,Black Sapphire Metallic
+2410,honda,civic,2021,23685,29000.0,4.7,4.7,4.7,4.8,4.6,Sonic Gray Pearl
+2411,toyota,highlander,2012,154697,12988.0,4.7,4.6,4.7,4.6,4.9,Blizzard Pearl
+2412,chevrolet,corvette grand,2012,42528,42995.0,4.4,4.4,4.9,4.8,4.8,Carlisle Blue Metallic
+2413,bmw,335 i,2015,87799,19791.0,4.7,4.6,4.9,4.8,4.7,Jet Black
+2414,tesla,model 3 performance,2022,3909,72500.0,5.0,4.5,5.0,4.5,5.0,Red Multi-Coat
+2415,porsche,cayenne,2021,11263,86977.0,4.6,4.6,4.4,5.0,4.4,Chalk
+2416,lexus,gx 460 luxury,2016,69285,39712.0,4.6,4.5,4.5,4.7,4.5,Starfire Pearl
+2417,volkswagen,jetta gli 2.0t autobahn,2021,10136,36000.0,4.8,4.8,5.0,4.7,4.8,Deep Black Pearl Effect
+2418,chevrolet,silverado 1500 lt trail boss,2020,46816,50449.0,4.7,4.6,4.6,4.8,4.5,Black
+2419,lamborghini,huracan lp610-4,2016,37674,199500.0,4.4,4.9,5.0,4.7,4.8,Gray
+2420,bmw,330 i xdrive,2017,53126,24991.0,4.9,4.8,4.8,4.9,4.8,Blue Metallic
+2421,toyota,tundra w/ navigation&,2019,33344,49000.0,4.9,4.7,4.9,4.9,4.9,Midnight Black Metallic
+2422,land,rover range rover  hse,2013,56590,26998.0,4.9,4.6,4.9,4.9,4.6,Aintree Green
+2423,volkswagen,jetta 2.0l s w/technology,2015,68218,14587.0,4.6,4.6,4.6,4.7,4.7,Silver
+2424,toyota,highlander,2015,140725,20911.0,4.7,4.7,4.7,4.7,4.8,Attitude Black Metallic
+2425,nissan,murano s,2020,14242,32967.0,4.9,4.8,4.9,4.9,4.8,Deep Blue Pearl
+2426,jeep,grand cherokee high altitude,2020,34804,43484.0,4.9,4.8,4.8,4.9,4.8,Slate Blue Pearlcoat
+2427,chrysler,pacifica,2019,23651,41998.0,4.9,4.8,4.7,4.8,4.6,Black
+2428,jeep,wrangler unlimited sahara,2016,66621,31995.0,4.3,4.5,4.5,4.7,4.7,Rhino Clearcoat
+2429,buick,regal turbo premium i,2015,46317,18500.0,4.8,4.7,4.7,4.8,4.8,Smoky Gray Metallic
+2430,toyota,tundra,2021,21893,38792.0,4.9,4.8,4.8,4.9,4.9,Silver Sky Metallic
+2431,lincoln,corsair standard,2020,15682,38415.0,4.7,4.7,4.4,4.7,4.4,Pristine White
+2432,mazda,cx-9 grand touring,2014,87586,14995.0,4.7,4.6,4.7,4.8,4.7,Liquid Silver
+2433,lexus,es 300h,2013,89959,19999.0,4.8,4.7,4.5,4.7,4.8,Starfire Pearl
+2434,subaru,outback touring xt,2021,30025,39998.0,4.9,4.8,4.7,4.8,4.8,Abyss Blue Pearl
+2435,nissan,pathfinder sv,2014,83893,13990.0,4.3,4.2,4.0,4.2,3.8,Moonlight White
+2436,hyundai,genesis 3.8,2015,51090,22983.0,4.8,4.7,4.6,4.8,4.7,Caspian Black
+2437,chevrolet,camaro 2ss,2016,49867,37998.0,4.6,4.6,4.9,4.9,4.7,Burgundy
+2438,ford,explorer xlt,2015,85585,23988.0,4.6,4.6,4.5,4.6,4.5,Blue
+2439,jeep,grand cherokee,2009,114368,9985.0,4.8,4.7,4.5,4.7,4.5,Bright Silver Metallic
+2440,subaru,impreza,2017,44780,17995.0,4.7,4.7,4.6,4.8,4.8,Carbide Gray Metallic
+2441,jeep,grand cherokee l summit,2021,10194,68990.0,4.5,4.7,4.3,4.7,4.2,Diamond Black
+2442,nissan,sentra sv,2019,47190,21488.0,4.7,4.7,4.6,4.7,4.7,Brilliant Silver Metallic
+2443,nissan,altima 2.5 s,2015,68578,18998.0,4.7,4.6,4.6,4.7,4.7,Super Black
+2444,jeep,wrangler,2014,47571,26498.0,4.4,4.6,4.7,4.9,4.7,Anvil Clearcoat
+2445,infiniti,q50 3.0t,2018,45786,31500.0,4.7,4.6,4.7,4.7,4.8,Graphite Shadow
+2446,land,rover discovery landmark edition,2020,37924,56999.0,5.0,4.7,5.0,5.0,5.0,FUJI WHITE [WHITE]
+2447,mercedes-benz,amg gle amg gle 63 s-model 4matic,2016,47565,39888.0,4.4,4.4,4.4,4.7,4.6,White
+2448,porsche,911 carrera 4s,2015,35801,89688.0,4.8,4.8,4.9,4.9,4.9,White
+2449,bmw,x5 xdrive35i premium,2013,127871,13499.0,4.7,4.6,4.8,4.8,4.6,White
+2450,honda,accord  1.5t,2020,46678,26699.0,4.8,4.8,4.8,4.9,4.9,Modern Steel Metallic
+2451,alfa,romeo stelvio,2019,24721,28995.0,4.6,4.4,4.7,4.8,4.5,Alfa White
+2452,bentley,continental gt v8,2021,2794,268285.0,3.0,4.0,4.0,5.0,2.0,Glacier White
+2453,mazda,mx-5 miata club,2016,15366,28977.0,4.2,4.4,4.6,5.0,4.9,Meteor Gray
+2454,nissan,rogue,2008,185156,5995.0,4.4,4.3,4.1,4.3,4.2,Gotham Gray Metallic
+2455,chrysler,200 s,2016,42300,22998.0,4.5,4.5,4.3,4.7,4.4,Black
+2456,volkswagen,tiguan 2.0t,2018,48626,24499.0,4.8,4.9,4.5,4.9,4.8,Deep Black Pearl Effect
+2457,chevrolet,equinox ls,2017,32258,21940.0,4.8,4.7,4.6,4.8,4.8,Summit White
+2458,mercedes-benz,gl-class gl 450 4matic,2012,149633,15295.0,4.8,4.5,4.7,4.8,4.6,Black
+2459,tesla,model x 100d,2018,41321,82350.0,4.6,4.6,4.7,4.9,4.1,Deep Blue Metallic
+2460,mazda,cx-5 touring,2016,49037,22596.0,4.6,4.6,4.7,4.8,4.7,Soul Red Metallic
+2461,jeep,wrangler unlimited sahara,2017,64600,37599.0,4.6,4.6,4.6,4.9,4.8,Granite Crystal Clearcoat Metallic
+2462,volkswagen,atlas 3.6l sel,2019,46202,38991.0,4.7,4.6,4.3,4.7,4.4,Fortana Red Metallic
+2463,ford,escape sel,2013,46262,16593.0,4.2,4.1,4.1,4.4,3.9,Deep Impact Blue
+2464,ford,ecosport titanium,2020,41536,24888.0,4.7,4.8,4.5,4.8,4.9,Red
+2465,chevrolet,impala premier,2020,44817,27050.0,4.9,4.8,4.9,4.9,4.8,Black
+2466,acura,rdx acurawatch  pkg,2016,88376,22999.0,4.8,4.7,4.9,4.8,4.8,Gray
+2467,land,rover defender x,2021,5840,105991.0,5.0,4.8,5.0,5.0,5.0,Gondwana Stone
+2468,volkswagen,tiguan 2.0t sel,2020,18426,32611.0,4.8,4.8,4.6,4.8,4.8,Deep Black Pearl Effect
+2469,hyundai,santa fe ultimate 2.4,2019,41645,32091.0,4.9,4.9,4.6,4.9,4.8,Twilight Black
