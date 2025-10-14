@@ -21,7 +21,8 @@ class ContentBasedRecommender:
     def recommend(self, car, n=10):
         if car not in self.car_indices: return []
         print("Content based recommends for", car)
-        idx = int(self.car_indices[car].iloc[0])
+        value = self.car_indices[car]
+        idx = value.iloc[0] if isinstance(value, pd.Series) else int(value) # single match and multiple matches handled
         sim_scores = cosine_similarity(self.tfidf_matrix[idx], self.tfidf_matrix).flatten()
         sim_indices = sim_scores.argsort()[-n-1:-1][::-1]
         return self.cars_data['Make Model'].iloc[sim_indices].tolist()
@@ -46,5 +47,5 @@ if __name__ == "__main__":
     recommender = ContentBasedRecommender(cars_data)
     recommender.fit()
 
-    print(recommender.recommend('toyota sienna', n=5))
+    print(recommender.recommend('volkswagen golf r 4-door', n=5))
     
