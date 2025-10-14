@@ -1,32 +1,34 @@
 # Hybrid recommendation system
+## Introduction
+**A hybrid recommendation system for cars:**
 
-A hybrid recommendation system for cars.
+Hybrid system with Content-based and Collaborative filtering.
+
+**Recommendation system combines two datasets:**
+- Cars for sale and their information
+
+- Ratings and reviews for cars by many users.
 
 Car data (CarsForSale): https://www.kaggle.com/datasets/chancev/carsforsale?resource=download
 
 Car reviews data (Edmunds car review): https://www.kaggle.com/datasets/shreemunpranav/edmunds-car-review
 
 ## Exploratory Data Analysis (EDA) and Preprocessing of Data
+**Python notebook file for EDA and preprocessing**
 
-Python notebook file for EDA and preprocessing
+The car ratings dataset is aligned with the main cars dataset by creating a common carID for each car.
 
-## 3 step hybrid 
+## Hybrid recommendation system 
+Content-Based → Collaborative
 
-Filter → Content-Based → Collaborative
-
-### 1) Filter by Used / New, Dealer / Private
-
-Apply a strict filter on Used/New and Dealer/Private.
-
-### 2) Content-based recommendations 
-
+### 1) Content-based recommendations 
 Features we extract for content based recommendations:
 
 **Year, Drivetrain, Fueltype, Transmission, ExteriorColor**
 
 **Similarity / ranking:** Cosine similarity
 
-### 3) Collaborative-filtering (CF) 
+### 2) Collaborative-filtering (CF) 
 In this project, CF is implemented using Non-negative Matrix Factorization (NMF):
 1. We build a user–item matrix where rows are users, columns are cars, and values are ratings.
 
