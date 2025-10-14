@@ -12,32 +12,39 @@ Python notebook file for EDA and preprocessing
 
 ## 3 step hybrid 
 
-Filter → Content-Based → Collaborative 
+Filter → Content-Based → Collaborative
 
 ### 1) Filter by Used / New, Dealer / Private
 
 Apply a strict filter on Used/New and Dealer/Private.
 
-### 2) Content-based scoring 
+### 2) Content-based recommendations 
 
-Numeric: Price, Mileage, Age = current_year − Year, MPG = (MinMPG+MaxMPG)/2.
+Features we extract for content based recommendations:
 
-Ratings as features: ComfortRating, PerformanceRating, ReliabilityRating, etc.
+**Year, Drivetrain, Fueltype, Transmission, ExteriorColor**
 
-Categorical: Make, Model, Transmission, FuelType, Drivetrain, colours. 
+**Similarity / ranking:** Cosine similarity
 
-Scale numeric features (StandardScaler or MinMax).
+### 3) Collaborative-filtering (CF) 
+In this project, CF is implemented using Non-negative Matrix Factorization (NMF):
+1. We build a user–item matrix where rows are users, columns are cars, and values are ratings.
 
-**Similarity / ranking:** Use cosine similarity
+2. NMF decomposes this matrix into latent features representing user preferences and item characteristics.
 
-### 3) Combine with ratings (collaborative)
+3. We predict ratings for unseen cars by combining user and item latent features.
 
-Build an item quality score.
+This allows the system to recommend cars a user is likely to like based on patterns from similar users.
 
-Normalize to [0,1].
+### Hybrid Recommendation
+The hybrid recommender combines:
 
-Combine scores.
+Content-based filtering (recommends similar cars based on features like make, model, drivetrain, and price)
 
-final_score = α * content_score + (1−α) * rating_score.
+Collaborative filtering (recommends cars based on user behavior)
+
+The final recommendation list merges content-based and CF recommendations while removing duplicates.
+
+This approach uses both car attributes and user preferences, making recommendations more accurate and personalized.
 
 ## Evaluation & tuning 
