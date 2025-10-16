@@ -2,9 +2,14 @@
 ## Introduction
 **A hybrid recommendation system for cars:**
 
-Hybrid system with Content-based and Collaborative filtering.
+### 3 Classes
 
-**Recommendation system combines two datasets:**
+**ContentBasedRecommender**
+
+**CollaborativeRecommender**
+
+**HybridRecommender**
+
 - Cars for sale and their information
 
 - Ratings and reviews for cars by many users.
@@ -26,8 +31,6 @@ Content-Based → Collaborative
 Fits TF-IDF and cosine similarity properly.
 
 Handles missing values and duplicates.
-
-Can be reused independently.
 
 #### Features we extract for content based recommendations:
 
