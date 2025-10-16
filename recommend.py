@@ -58,12 +58,12 @@ class CollaborativeRecommender:
         self.nmf_model = NMF(n_components=20, init='random', random_state=42, max_iter=500)
         self.nmf_model.fit(self.user_item_matrix)
 
-    def recommend(self, userID, n=10):
+    def recommend(self, user_id, n=10):
         """Predict scores for all cars."""
-        if userID not in self.user_mapper:
+        if user_id not in self.user_mapper:
             return pd.Series()  # No data for this user
         # Get user and item latent features
-        user_idx = self.user_mapper[userID]
+        user_idx = self.user_mapper[user_id]
         user_vector = self.user_item_matrix.iloc[user_idx].values.reshape(1, -1)
         user_P = self.nmf_model.transform(user_vector)
         item_Q = self.nmf_model.components_
@@ -71,7 +71,7 @@ class CollaborativeRecommender:
         scores = np.dot(user_P, item_Q).flatten()
         scores = pd.Series(scores, index=self.user_item_matrix.columns)
         # Exclude cars the user has already rated
-        user_rated = self.ratings_data[self.ratings_data['userID'] == userID]['carID']
+        user_rated = self.ratings_data[self.ratings_data['userID'] == user_id]['carID']
         scores = scores[~scores.index.isin(user_rated)]
         # Normalize CF scores
         scores = (scores - scores.min()) / (scores.max() - scores.min() + 1e-9) 
@@ -99,10 +99,10 @@ class HybridRecommender:
             merged = merged.sort_values('Score', ascending=False).head(top_n)
         return merged
 
-    def recommend(self, userID, car, n=10, alpha=0.5):
+    def recommend(self, user_id, car, n=10, alpha=0.5):
         """ Combine collaborative and content-based predictions. """
         # Get collaborative and content-based scores
-        cf_scores = self.cf_model.recommend(userID)
+        cf_scores = self.cf_model.recommend(user_id)
         cb_scores = self.cb_model.recommend(car)
         # Align indexes (fill missing with 0)
         cf_scores, cb_scores = cf_scores.align(cb_scores, fill_value=0)
@@ -120,7 +120,7 @@ class Evaluator:
     
     def precision_at_k(self, recs, k=10):
         """Proportion of relevant items that were recommended."""
-        if not recs or not self.user_actuals:
+        if not recs.empty or not self.user_actuals:
             return 0
         rec_k = recs[:k]
         relevant = len(set(rec_k) & set(self.user_actuals))
@@ -138,18 +138,23 @@ if __name__ == "__main__":
 
     # test seeds
     car = 'volkswagen passat 2.0 tdi sel 2012'
-    userID = 27583
+    user_id = 27583
     
     # content based
     cb_scores = hybrid.cb_model.recommend(car)
     print("Content-based recommendations:\n", hybrid.id_to_title(cb_scores, 5))
 
     # collaborative
-    cf_scores = hybrid.cf_model.recommend(userID)
+    cf_scores = hybrid.cf_model.recommend(user_id)
     print("Collaborative recommendations:\n", hybrid.id_to_title(cf_scores, 5))
 
     # hybrid 
-    hybrid_scores = hybrid.recommend(userID, car, n=10, alpha=0.5)
+    hybrid_scores = hybrid.recommend(user_id, car, n=10, alpha=0.5)
     print("Hybrid recommendations:\n", hybrid.id_to_title(hybrid_scores, 10))
+
+    # Evaluation
+    eval = Evaluator(ratings_data_path, user_id)
+    prec_at_k = eval.precision_at_k(hybrid_scores, user_id)
+    print("Precision@k:\n", hybrid.id_to_title(hybrid_scores, 10))
 
     
