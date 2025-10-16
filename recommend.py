@@ -155,6 +155,6 @@ if __name__ == "__main__":
     # Evaluation
     eval = Evaluator(ratings_data_path, user_id)
     prec_at_k = eval.precision_at_k(hybrid_scores, user_id)
-    print("Precision@k:\n", hybrid.id_to_title(hybrid_scores, 10))
+    print("Precision@k:\n", prec_at_k)
 
     
