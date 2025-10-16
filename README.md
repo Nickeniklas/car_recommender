@@ -3,13 +3,13 @@
 **A hybrid recommendation system for cars:**
 
 ### 3 Classes
-
 **ContentBasedRecommender**
 
 **CollaborativeRecommender**
 
 **HybridRecommender**
 
+### Datasets
 - Cars for sale and their information
 
 - Ratings and reviews for cars by many users.
