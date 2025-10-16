@@ -27,10 +27,16 @@ class ContentBasedRecommender:
         """
         if car not in self.car_indices: return [] 
         value = self.car_indices[car]
+        # Get row index of the car
         idx = value.iloc[0] if isinstance(value, pd.Series) else int(value) # single match and multiple matches handled
+        # Compute cosine similarity with all cars as pandas series
         sim_scores = cosine_similarity(self.tfidf_matrix[idx], self.tfidf_matrix).flatten()
         scores = pd.Series(sim_scores, index=self.cars_data['carID'])
-        scores = (scores - scores.min()) / (scores.max() - scores.min() + 1e-9) # normalize CB scores
+        # Exclude the seed car itself
+        seed_id = self.cars_data.iloc[idx]['carID']
+        scores.drop(index=seed_id, inplace=True)
+        # normalize CB scores
+        scores = (scores - scores.min()) / (scores.max() - scores.min() + 1e-9)
         return scores.sort_values(ascending=False).head(n)
     
 class CollaborativeRecommender:
@@ -56,13 +62,19 @@ class CollaborativeRecommender:
         """Predict scores for all cars."""
         if userID not in self.user_mapper:
             return pd.Series()  # No data for this user
+        # Get user and item latent features
         user_idx = self.user_mapper[userID]
         user_vector = self.user_item_matrix.iloc[user_idx].values.reshape(1, -1)
         user_P = self.nmf_model.transform(user_vector)
         item_Q = self.nmf_model.components_
+        # Compute predicted scores for all cars
         scores = np.dot(user_P, item_Q).flatten()
         scores = pd.Series(scores, index=self.user_item_matrix.columns)
-        scores = (scores - scores.min()) / (scores.max() - scores.min() + 1e-9) # Normalize CF scores
+        # Exclude cars the user has already rated
+        user_rated = self.ratings_data[self.ratings_data['userID'] == userID]['carID']
+        scores = scores[~scores.index.isin(user_rated)]
+        # Normalize CF scores
+        scores = (scores - scores.min()) / (scores.max() - scores.min() + 1e-9) 
         return scores.sort_values(ascending=False).head(n)
 
 class HybridRecommender:
@@ -89,12 +101,31 @@ class HybridRecommender:
 
     def recommend(self, userID, car, n=10, alpha=0.5):
         """ Combine collaborative and content-based predictions. """
+        # Get collaborative and content-based scores
         cf_scores = self.cf_model.recommend(userID)
         cb_scores = self.cb_model.recommend(car)
+        # Align indexes (fill missing with 0)
+        cf_scores, cb_scores = cf_scores.align(cb_scores, fill_value=0)
+        # Weighted combination
         hybrid_score  = alpha * cf_scores + (1 - alpha) * cb_scores 
-        top_ids = hybrid_score.nlargest(n).index
-        recs = self.cars_data[self.cars_data['carID'].isin(top_ids)]['Make Model Year'].tolist()
-        return recs
+        # Sort and select top N
+        hybrid_score = hybrid_score.sort_values(ascending=False).head(n)
+        return hybrid_score
+    
+class Evaluator:
+    def __init__(self, ratings_data_path, user_id):
+        self.ratings_data = pd.read_csv(ratings_data_path)
+        self.user_actual = self.ratings_data[self.ratings_data['userID'] == user_id]['carID'].tolist()
+        self.user_id = user_id
+    
+    def precision_at_k(self, recs, k=10):
+        """Proportion of relevant items that were recommended."""
+        if not recs or not self.user_actuals:
+            return 0
+        rec_k = recs[:k]
+        relevant = len(set(rec_k) & set(self.user_actuals))
+        return relevant / len(self.user_actuals)
+
 
 if __name__ == "__main__":
     # dataset paths
@@ -119,6 +150,6 @@ if __name__ == "__main__":
 
     # hybrid 
     hybrid_scores = hybrid.recommend(userID, car, n=10, alpha=0.5)
-    print("Hybrid recommendations:\n", hybrid_scores)
+    print("Hybrid recommendations:\n", hybrid.id_to_title(hybrid_scores, 10))
 
     
