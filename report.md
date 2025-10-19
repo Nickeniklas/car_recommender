@@ -107,6 +107,9 @@ Hybrid Recommendations for user 98305 and car jeep cherokee latitude:
 ['ford f-150', 'honda cr-v', 'toyota tundra', 'honda accord', 'ram 1500']
 ```
 
+### Evaluator
+Class Evaluator() with methods for evaluating. Implementing worked well since all other classes return pandas series'.
+
 ### Setup
 I played around with different setups, until I came to the conclusion that having different classes works best. Now content, collaborative can be used independantly and is easier to debug. Also allows the main block to be minimal and clean. After that implementing evaluation was simple. The Evaluator() class has differents methods for evaluating, and can easily be modified or developed further.  
 
