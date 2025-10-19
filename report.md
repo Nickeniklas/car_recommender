@@ -1,11 +1,8 @@
 # Results
-
 ## Content based recommendations
-
 **Output:**
 ```
-Content-based recommendations:
-                    Make Model Year     Score
+                  Make Model Year     Score
 carID
 2100   gmc sierra 2500 denali 2018  1.000000
 373         volkswagen tiguan 2012  0.939894
@@ -15,6 +12,8 @@ carID
 ```
 
 ## Collaborative based recommendations
+**Output:**
+```
 Collaborative recommendations:
           Make Model Year     Score
 carID
@@ -23,24 +22,11 @@ carID
 2006   honda accord 2016  0.745574
 261      ford f-150 2018  0.644229
 1637     ford f-150 2018  0.644229
-Hybrid recommendations:
-                             Make Model Year     Score
-carID
-1824                      toyota camry 2018  0.500000
-1705                      toyota camry 2018  0.500000
-2100            gmc sierra 2500 denali 2018  0.500000
-373                  volkswagen tiguan 2012  0.469947
-1026                      audi q5 2.0t 2012  0.469947
-1278             jeep patriot latitude 2012  0.469947
-2252                       audi q7 3.0 2010  0.428032
-2268      chevrolet silverado 1500 ltz 2021  0.422541
-1940                         bmw 328 i 2012  0.420860
-2300   mercedes-benz cls-class cls 550 2012  0.400030
-## Hybrid 
+```
 
+## Hybrid recommendations
 **Output:**
 ```
-Hybrid recommendations:
                              Make Model Year     Score
 carID
 1824                      toyota camry 2018  0.500000
@@ -139,6 +125,7 @@ Precision@k:
 Fraction of all items in the catalog that appear in any users top‑k recommendations.
 
 only look at top-k items per user, not every single item the system could possibly recommend. 
+
 Output:
 ```
 Coverage@k:
