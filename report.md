@@ -98,6 +98,7 @@ Interpretation:
 
 0 < α < 1 → balanced hybrid
 
+#### Return value
 In the beginning I returned a list of Make and Model to easily print human readably lists. But I found that everything works the best with each other using series of carIDs. So I kept everything as Pandas series', and instead made a method inside HybridRecommender; def id_to_title() which converts the IDs into clean lists with make, model, year and score (New better output seen above).
 
 Old output (list of car titles):
