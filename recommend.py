@@ -3,6 +3,7 @@ import numpy as np
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.decomposition import NMF
+import math
 
 class ContentBasedRecommender:
     def __init__(self, cars_data):
@@ -25,7 +26,7 @@ class ContentBasedRecommender:
             car = make, model and year (small letter and space ex. toyota sienna 2020).
             n = amount of recommends.
         """
-        if car not in self.car_indices: return [] 
+        if car not in self.car_indices: return pd.Series([], dtype=float)
         value = self.car_indices[car]
         # Get row index of the car
         idx = value.iloc[0] if isinstance(value, pd.Series) else int(value) # single match and multiple matches handled
@@ -113,18 +114,57 @@ class HybridRecommender:
         return hybrid_score
     
 class Evaluator:
-    def __init__(self, ratings_data_path, user_id):
+    def __init__(self, recommender, cars_data_path, ratings_data_path, user_id):
+        self.recommender = recommender
+        self.cars_data = pd.read_csv(cars_data_path)
         self.ratings_data = pd.read_csv(ratings_data_path)
-        self.user_actual = self.ratings_data[self.ratings_data['userID'] == user_id]['carID'].tolist()
+        self.user_actuals = self.ratings_data[self.ratings_data['userID'] == user_id]['carID'].tolist()
         self.user_id = user_id
     
     def precision_at_k(self, recs, k=10):
-        """Proportion of relevant items that were recommended."""
-        if not recs.empty or not self.user_actuals:
+        """ Proportion of relevant items that were recommended. """
+        if recs.empty or not self.user_actuals:
+            print("precision@k error: no recommendations")
             return 0
         rec_k = recs[:k]
-        relevant = len(set(rec_k) & set(self.user_actuals))
+        relevant = len(set(rec_k.index) & set(self.user_actuals))
         return relevant / len(self.user_actuals)
+    
+    def coverage_at_k(self, k=10):
+        """ Catalog coverage of the recommendations. Fraction of unique cars recommended at least once."""
+        all_recs = self.get_all_recs(k) 
+        total_cars = self.cars_data['Make Model Year'].drop_duplicates()
+        return len(all_recs) / len(total_cars)
+
+    def novelty(self, k=10):
+        """ Average novelty of the recommendations for all users. """
+        # all recommendations for all users
+        all_recs = self.get_all_recs(k)
+        # Popularity scores
+        car_popularity = self.ratings_data['carID'].value_counts()
+        total_users = self.ratings_data['userID'].nunique()
+        popularity_fraction = car_popularity / total_users
+
+        novelty_scores = []
+        for car_id in all_recs:
+            # calculate novelty
+            p = popularity_fraction.get(car_id, 1 / (total_users + 1))
+            novelty_scores.append(-np.log2(p))
+
+        return np.mean(novelty_scores) # average of all scores
+    
+    def get_all_recs(self, k=10):
+        """ Get all unique car recommendations for all users. """
+        all_user_ids = self.ratings_data['userID'].drop_duplicates()
+        all_recs = set()  
+
+        for user_id in all_user_ids:
+            recs = self.recommender.recommend(user_id=user_id, car=None, n=k) # car=None - only do CF
+            # if returned as series, convert index to list
+            if isinstance(recs, pd.Series):
+                recs = recs.index.tolist()
+            all_recs.update(recs)  # add unique recommendations
+        return all_recs
 
 if __name__ == "__main__":
     # dataset paths
@@ -152,8 +192,16 @@ if __name__ == "__main__":
     print("Hybrid recommendations:\n", hybrid.id_to_title(hybrid_scores, 10))
 
     # Evaluation
-    eval = Evaluator(ratings_data_path, user_id)
+    eval = Evaluator(hybrid, cars_data_path, ratings_data_path, user_id)
+
+    # precision@k
     prec_at_k = eval.precision_at_k(hybrid_scores, user_id)
     print("Precision@k:\n", prec_at_k)
 
-    
+    # coverage@k
+    cov_at_k = eval.coverage_at_k()
+    print("Coverage@k:\n", cov_at_k)
+
+    # novelty
+    novelty = eval.novelty()
+    print("Mean Novelty of all users:", novelty)
